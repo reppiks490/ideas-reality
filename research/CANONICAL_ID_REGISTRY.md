@@ -298,3 +298,15 @@ W19B uses canonical IDs directly:
 - edges W19B-E01 through W19B-E28
 - methods W19B-M01 through W19B-M20
 - sources W19B-D01 through W19B-D10
+
+
+### W20E — Emergency constraint-release wave
+Sources:
+- `research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_DISCOVERIES.md`
+- `research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_METHODS.md`
+- `research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_SOURCE_NOTES.md`
+
+W20E uses canonical IDs directly:
+- edges W20E-E01 through W20E-E26
+- methods W20E-M01 through W20E-M20
+- sources W20E-D01 through W20E-D10

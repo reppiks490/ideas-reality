@@ -1,0 +1,26 @@
+{
+  "namespace": "W20E",
+  "title": "Emergency Constraint Release",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W20E-E01..W20E-E26",
+  "methods": "W20E-M01..W20E-M20",
+  "sources": "W20E-D01..W20E-D10",
+  "priority": [
+    "W20E-E02",
+    "W20E-E03",
+    "W20E-E08",
+    "W20E-E09",
+    "W20E-E12",
+    "W20E-E14",
+    "W20E-E16",
+    "W20E-E19",
+    "W20E-E23",
+    "W20E-E24"
+  ],
+  "files": [
+    "research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_DISCOVERIES.md",
+    "research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_METHODS.md",
+    "research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_SOURCE_NOTES.md"
+  ]
+}

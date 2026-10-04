@@ -246,6 +246,17 @@
       "canonical_edges": "W19B-E01..W19B-E28",
       "canonical_methods": "W19B-M01..W19B-M20",
       "canonical_sources": "W19B-D01..W19B-D10"
+    },
+    "W20E": {
+      "sources": [
+        "research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_DISCOVERIES.md",
+        "research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_METHODS.md",
+        "research/WAVE_20_EMERGENCY_CONSTRAINT_RELEASE_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W20E-E01..W20E-E26",
+      "canonical_methods": "W20E-M01..W20E-M20",
+      "canonical_sources": "W20E-D01..W20E-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
