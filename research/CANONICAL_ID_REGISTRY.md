@@ -202,3 +202,15 @@ W11C uses canonical IDs directly:
 - edges W11C-E01 through W11C-E22
 - methods W11C-M01 through W11C-M20
 - sources W11C-D01 through W11C-D10
+
+
+### W12F — Freight / livestock / exchange rule-state wave
+Sources:
+- `research/WAVE_12_FREIGHT_RULESTATE_DISCOVERIES.md`
+- `research/WAVE_12_FREIGHT_RULESTATE_METHODS.md`
+- `research/WAVE_12_FREIGHT_RULESTATE_SOURCE_NOTES.md`
+
+W12F uses canonical IDs directly:
+- edges W12F-E01 through W12F-E22
+- methods W12F-M01 through W12F-M20
+- sources W12F-D01 through W12F-D10

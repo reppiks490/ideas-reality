@@ -158,6 +158,17 @@
       "canonical_edges": "W12C-E01..W12C-E24",
       "canonical_methods": "W12C-M01..W12C-M22",
       "canonical_sources": "W12C-D01..W12C-D08"
+    },
+    "W12F": {
+      "sources": [
+        "research/WAVE_12_FREIGHT_RULESTATE_DISCOVERIES.md",
+        "research/WAVE_12_FREIGHT_RULESTATE_METHODS.md",
+        "research/WAVE_12_FREIGHT_RULESTATE_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W12F-E01..W12F-E22",
+      "canonical_methods": "W12F-M01..W12F-M20",
+      "canonical_sources": "W12F-D01..W12F-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

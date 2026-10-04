@@ -1,0 +1,26 @@
+{
+  "namespace": "W12F",
+  "title": "Freight, Livestock & Exchange Rule-State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W12F-E01..W12F-E22",
+  "methods": "W12F-M01..W12F-M20",
+  "sources": "W12F-D01..W12F-D10",
+  "priority": [
+    "W12F-E01",
+    "W12F-E03",
+    "W12F-E07",
+    "W12F-E08",
+    "W12F-E09",
+    "W12F-E10",
+    "W12F-E13",
+    "W12F-E14",
+    "W12F-E16",
+    "W12F-E22"
+  ],
+  "files": [
+    "research/WAVE_12_FREIGHT_RULESTATE_DISCOVERIES.md",
+    "research/WAVE_12_FREIGHT_RULESTATE_METHODS.md",
+    "research/WAVE_12_FREIGHT_RULESTATE_SOURCE_NOTES.md"
+  ]
+}
