@@ -1,0 +1,26 @@
+{
+  "namespace": "W59P",
+  "title": "Plant Pest, Quarantine & Crop Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W59P-E01..W59P-E25",
+  "methods": "W59P-M01..W59P-M20",
+  "sources": "W59P-D01..W59P-D10",
+  "priority": [
+    "W59P-E01",
+    "W59P-E02",
+    "W59P-E04",
+    "W59P-E05",
+    "W59P-E06",
+    "W59P-E09",
+    "W59P-E13",
+    "W59P-E14",
+    "W59P-E17",
+    "W59P-E23"
+  ],
+  "files": [
+    "research/WAVE_59_PLANT_QUARANTINE_DISCOVERIES.md",
+    "research/WAVE_59_PLANT_QUARANTINE_METHODS.md",
+    "research/WAVE_59_PLANT_QUARANTINE_SOURCE_NOTES.md"
+  ]
+}

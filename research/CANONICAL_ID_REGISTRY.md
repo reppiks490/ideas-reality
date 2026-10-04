@@ -817,3 +817,15 @@ W58A uses canonical IDs directly:
 - edges W58A-E01 through W58A-E32
 - methods W58A-M01 through W58A-M20
 - sources W58A-D01 through W58A-D10
+
+
+### W59P — Plant pest / quarantine / crop-capacity wave
+Sources:
+- `research/WAVE_59_PLANT_QUARANTINE_DISCOVERIES.md`
+- `research/WAVE_59_PLANT_QUARANTINE_METHODS.md`
+- `research/WAVE_59_PLANT_QUARANTINE_SOURCE_NOTES.md`
+
+W59P uses canonical IDs directly:
+- edges W59P-E01 through W59P-E25
+- methods W59P-M01 through W59P-M20
+- sources W59P-D01 through W59P-D10
