@@ -134,3 +134,15 @@ W8R uses canonical IDs directly:
 - edges W8R-E01 through W8R-E20
 - methods W8R-M01 through W8R-M20
 - sources W8R-D01 through W8R-D10
+
+
+### W9C — Capacity rights before reality wave
+Sources:
+- `research/WAVE_9_CAPACITY_RIGHTS_DISCOVERIES.md`
+- `research/WAVE_9_CAPACITY_RIGHTS_METHODS.md`
+- `research/WAVE_9_CAPACITY_RIGHTS_SOURCE_NOTES.md`
+
+W9C uses canonical IDs directly:
+- edges W9C-E01 through W9C-E20
+- methods W9C-M01 through W9C-M20
+- sources W9C-D01 through W9C-D10

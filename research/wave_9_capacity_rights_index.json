@@ -1,0 +1,21 @@
+{
+  "namespace": "W9C",
+  "wave": "capacity rights before reality",
+  "canonical_native": true,
+  "canonical_edges": "W9C-E01..W9C-E20",
+  "canonical_methods": "W9C-M01..W9C-M20",
+  "canonical_sources": "W9C-D01..W9C-D10",
+  "priority": [
+    "W9C-E11",
+    "W9C-E12",
+    "W9C-E16",
+    "W9C-E17",
+    "W9C-E04",
+    "W9C-E02",
+    "W9C-E14",
+    "W9C-E09",
+    "W9C-E19",
+    "W9C-E18"
+  ],
+  "status": "research only; Claude owns implementation"
+}

@@ -92,6 +92,17 @@
       "canonical_edges": "W8M-E01..W8M-E24",
       "canonical_methods": "W8M-M01..W8M-M20",
       "canonical_sources": "W8M-D01..W8M-D08"
+    },
+    "W9C": {
+      "sources": [
+        "research/WAVE_9_CAPACITY_RIGHTS_DISCOVERIES.md",
+        "research/WAVE_9_CAPACITY_RIGHTS_METHODS.md",
+        "research/WAVE_9_CAPACITY_RIGHTS_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W9C-E01..W9C-E20",
+      "canonical_methods": "W9C-M01..W9C-M20",
+      "canonical_sources": "W9C-D01..W9C-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
