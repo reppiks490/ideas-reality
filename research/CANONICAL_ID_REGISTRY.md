@@ -550,3 +550,15 @@ W36P uses canonical IDs directly:
 - edges W36P-E01 through W36P-E30
 - methods W36P-M01 through W36P-M20
 - sources W36P-D01 through W36P-D10
+
+
+### W37O — Insider / beneficial-owner flow wave
+Sources:
+- `research/WAVE_37_OWNERSHIP_FLOW_DISCOVERIES.md`
+- `research/WAVE_37_OWNERSHIP_FLOW_METHODS.md`
+- `research/WAVE_37_OWNERSHIP_FLOW_SOURCE_NOTES.md`
+
+W37O uses canonical IDs directly:
+- edges W37O-E01 through W37O-E34
+- methods W37O-M01 through W37O-M20
+- sources W37O-D01 through W37O-D10
