@@ -444,6 +444,17 @@
       "canonical_edges": "W33S-E01..W33S-E32",
       "canonical_methods": "W33S-M01..W33S-M20",
       "canonical_sources": "W33S-D01..W33S-D10"
+    },
+    "W34D": {
+      "sources": [
+        "research/WAVE_34_DIGITAL_INFRASTRUCTURE_DISCOVERIES.md",
+        "research/WAVE_34_DIGITAL_INFRASTRUCTURE_METHODS.md",
+        "research/WAVE_34_DIGITAL_INFRASTRUCTURE_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W34D-E01..W34D-E34",
+      "canonical_methods": "W34D-M01..W34D-M20",
+      "canonical_sources": "W34D-D01..W34D-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

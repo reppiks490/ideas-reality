@@ -514,3 +514,15 @@ W33S uses canonical IDs directly:
 - edges W33S-E01 through W33S-E32
 - methods W33S-M01 through W33S-M20
 - sources W33S-D01 through W33S-D10
+
+
+### W34D — Digital infrastructure outage / dependency-propagation wave
+Sources:
+- `research/WAVE_34_DIGITAL_INFRASTRUCTURE_DISCOVERIES.md`
+- `research/WAVE_34_DIGITAL_INFRASTRUCTURE_METHODS.md`
+- `research/WAVE_34_DIGITAL_INFRASTRUCTURE_SOURCE_NOTES.md`
+
+W34D uses canonical IDs directly:
+- edges W34D-E01 through W34D-E34
+- methods W34D-M01 through W34D-M20
+- sources W34D-D01 through W34D-D10

@@ -1,0 +1,26 @@
+{
+  "namespace": "W34D",
+  "title": "Digital Infrastructure Outage & Dependency Propagation",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W34D-E01..W34D-E34",
+  "methods": "W34D-M01..W34D-M20",
+  "sources": "W34D-D01..W34D-D10",
+  "priority": [
+    "W34D-E02",
+    "W34D-E04",
+    "W34D-E10",
+    "W34D-E17",
+    "W34D-E18",
+    "W34D-E20",
+    "W34D-E21",
+    "W34D-E22",
+    "W34D-E30",
+    "W34D-E34"
+  ],
+  "files": [
+    "research/WAVE_34_DIGITAL_INFRASTRUCTURE_DISCOVERIES.md",
+    "research/WAVE_34_DIGITAL_INFRASTRUCTURE_METHODS.md",
+    "research/WAVE_34_DIGITAL_INFRASTRUCTURE_SOURCE_NOTES.md"
+  ]
+}
