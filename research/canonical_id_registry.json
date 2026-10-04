@@ -213,6 +213,17 @@
       "canonical_edges": "W16S-E01..W16S-E27",
       "canonical_methods": "W16S-M01..W16S-M20",
       "canonical_sources": "W16S-D01..W16S-D10"
+    },
+    "W17P": {
+      "sources": [
+        "research/WAVE_17_MARKET_PLUMBING_DISCOVERIES.md",
+        "research/WAVE_17_MARKET_PLUMBING_METHODS.md",
+        "research/WAVE_17_MARKET_PLUMBING_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W17P-E01..W17P-E24",
+      "canonical_methods": "W17P-M01..W17P-M20",
+      "canonical_sources": "W17P-D01..W17P-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

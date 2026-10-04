@@ -1,0 +1,26 @@
+{
+  "namespace": "W17P",
+  "title": "Market Plumbing & Operational Integrity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W17P-E01..W17P-E24",
+  "methods": "W17P-M01..W17P-M20",
+  "sources": "W17P-D01..W17P-D10",
+  "priority": [
+    "W17P-E02",
+    "W17P-E03",
+    "W17P-E06",
+    "W17P-E09",
+    "W17P-E10",
+    "W17P-E15",
+    "W17P-E16",
+    "W17P-E17",
+    "W17P-E19",
+    "W17P-E24"
+  ],
+  "files": [
+    "research/WAVE_17_MARKET_PLUMBING_DISCOVERIES.md",
+    "research/WAVE_17_MARKET_PLUMBING_METHODS.md",
+    "research/WAVE_17_MARKET_PLUMBING_SOURCE_NOTES.md"
+  ]
+}

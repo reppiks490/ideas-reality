@@ -262,3 +262,15 @@ W16S uses canonical IDs directly:
 - edges W16S-E01 through W16S-E27
 - methods W16S-M01 through W16S-M20
 - sources W16S-D01 through W16S-D10
+
+
+### W17P — Market plumbing / operational integrity wave
+Sources:
+- `research/WAVE_17_MARKET_PLUMBING_DISCOVERIES.md`
+- `research/WAVE_17_MARKET_PLUMBING_METHODS.md`
+- `research/WAVE_17_MARKET_PLUMBING_SOURCE_NOTES.md`
+
+W17P uses canonical IDs directly:
+- edges W17P-E01 through W17P-E24
+- methods W17P-M01 through W17P-M20
+- sources W17P-D01 through W17P-D10
