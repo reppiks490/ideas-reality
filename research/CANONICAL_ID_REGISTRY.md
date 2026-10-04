@@ -310,3 +310,15 @@ W20E uses canonical IDs directly:
 - edges W20E-E01 through W20E-E26
 - methods W20E-M01 through W20E-M20
 - sources W20E-D01 through W20E-D10
+
+
+### W21D — Fleet defect / mandatory remediation wave
+Sources:
+- `research/WAVE_21_FLEET_DEFECT_DISCOVERIES.md`
+- `research/WAVE_21_FLEET_DEFECT_METHODS.md`
+- `research/WAVE_21_FLEET_DEFECT_SOURCE_NOTES.md`
+
+W21D uses canonical IDs directly:
+- edges W21D-E01 through W21D-E26
+- methods W21D-M01 through W21D-M20
+- sources W21D-D01 through W21D-D10

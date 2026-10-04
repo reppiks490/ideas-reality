@@ -1,0 +1,26 @@
+{
+  "namespace": "W21D",
+  "title": "Fleet Defect & Mandatory Remediation",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W21D-E01..W21D-E26",
+  "methods": "W21D-M01..W21D-M20",
+  "sources": "W21D-D01..W21D-D10",
+  "priority": [
+    "W21D-E02",
+    "W21D-E05",
+    "W21D-E06",
+    "W21D-E08",
+    "W21D-E11",
+    "W21D-E15",
+    "W21D-E16",
+    "W21D-E18",
+    "W21D-E23",
+    "W21D-E26"
+  ],
+  "files": [
+    "research/WAVE_21_FLEET_DEFECT_DISCOVERIES.md",
+    "research/WAVE_21_FLEET_DEFECT_METHODS.md",
+    "research/WAVE_21_FLEET_DEFECT_SOURCE_NOTES.md"
+  ]
+}

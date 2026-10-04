@@ -257,6 +257,17 @@
       "canonical_edges": "W20E-E01..W20E-E26",
       "canonical_methods": "W20E-M01..W20E-M20",
       "canonical_sources": "W20E-D01..W20E-D10"
+    },
+    "W21D": {
+      "sources": [
+        "research/WAVE_21_FLEET_DEFECT_DISCOVERIES.md",
+        "research/WAVE_21_FLEET_DEFECT_METHODS.md",
+        "research/WAVE_21_FLEET_DEFECT_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W21D-E01..W21D-E26",
+      "canonical_methods": "W21D-M01..W21D-M20",
+      "canonical_sources": "W21D-D01..W21D-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
