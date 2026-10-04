@@ -147,6 +147,17 @@
       "canonical_edges": "W11C-E01..W11C-E22",
       "canonical_methods": "W11C-M01..W11C-M20",
       "canonical_sources": "W11C-D01..W11C-D10"
+    },
+    "W12C": {
+      "sources": [
+        "research/WAVE_12_CLEARING_MARGIN_DISCOVERIES.md",
+        "research/WAVE_12_CLEARING_MARGIN_METHODS.md",
+        "research/WAVE_12_CLEARING_MARGIN_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W12C-E01..W12C-E24",
+      "canonical_methods": "W12C-M01..W12C-M22",
+      "canonical_sources": "W12C-D01..W12C-D08"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

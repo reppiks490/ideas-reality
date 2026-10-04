@@ -1,0 +1,41 @@
+{
+  "namespace": "W12C",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "CME margin",
+    "SPAN risk parameters",
+    "COMEX delivery",
+    "gold inventory",
+    "bank participation",
+    "NQ price limits"
+  ],
+  "edges": "W12C-E01..W12C-E24",
+  "methods": "W12C-M01..W12C-M22",
+  "sources": "W12C-D01..W12C-D08",
+  "top_priority": [
+    "W12C-E01",
+    "W12C-E02",
+    "W12C-E03",
+    "W12C-E09",
+    "W12C-E11",
+    "W12C-E13",
+    "W12C-E14",
+    "W12C-E15",
+    "W12C-E19",
+    "W12C-E23"
+  ],
+  "files": [
+    "research/WAVE_12_CLEARING_MARGIN_DISCOVERIES.md",
+    "research/WAVE_12_CLEARING_MARGIN_METHODS.md",
+    "research/WAVE_12_CLEARING_MARGIN_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "CME exchange margin is not FCM house margin",
+    "margin is endogenous to volatility",
+    "delivery clearing firm is not beneficial owner",
+    "eligible metal is not identical to immediately available supply",
+    "BPR options are gross and not delta adjusted",
+    "backtests cannot execute through exchange halts or limits"
+  ]
+}

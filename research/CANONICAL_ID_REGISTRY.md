@@ -131,6 +131,17 @@ W11S uses canonical IDs directly:
 - methods W11S-M01 through W11S-M20
 - sources W11S-D01 through W11S-D08
 
+### W12C — Clearing / margin / delivery mechanics wave
+Sources:
+- `research/WAVE_12_CLEARING_MARGIN_DISCOVERIES.md`
+- `research/WAVE_12_CLEARING_MARGIN_METHODS.md`
+- `research/WAVE_12_CLEARING_MARGIN_SOURCE_NOTES.md`
+
+W12C uses canonical IDs directly:
+- edges W12C-E01 through W12C-E24
+- methods W12C-M01 through W12C-M22
+- sources W12C-D01 through W12C-D08
+
 ## Durable identity
 
 The durable machine key should be:
