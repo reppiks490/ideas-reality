@@ -70,6 +70,17 @@
       "canonical_edges": "W7T-E01..W7T-E23",
       "canonical_methods": "W7T-M01..W7T-M20",
       "canonical_sources": "W7T-D01..W7T-D12"
+    },
+    "W8R": {
+      "sources": [
+        "research/WAVE_8_REGULATORY_DISCOVERIES.md",
+        "research/WAVE_8_REGULATORY_METHODS.md",
+        "research/WAVE_8_REGULATORY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W8R-E01..W8R-E20",
+      "canonical_methods": "W8R-M01..W8R-M20",
+      "canonical_sources": "W8R-D01..W8R-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

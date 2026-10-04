@@ -111,3 +111,15 @@ When importing or discussing a candidate:
 3. Do not rewrite another contributor's historical source file merely to renumber it.
 4. Add mappings here instead.
 5. No force-pushing to resolve concurrent contributions.
+
+
+### W8R — Pre-regulatory warning / safety lifecycle wave
+Sources:
+- `research/WAVE_8_REGULATORY_DISCOVERIES.md`
+- `research/WAVE_8_REGULATORY_METHODS.md`
+- `research/WAVE_8_REGULATORY_SOURCE_NOTES.md`
+
+W8R uses canonical IDs directly:
+- edges W8R-E01 through W8R-E20
+- methods W8R-M01 through W8R-M20
+- sources W8R-D01 through W8R-D10

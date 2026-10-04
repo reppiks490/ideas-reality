@@ -1,0 +1,26 @@
+{
+  "namespace": "W8R",
+  "wave": "pre-regulatory warning and safety lifecycle",
+  "canonical_native": true,
+  "canonical_edges": "W8R-E01..W8R-E20",
+  "canonical_methods": "W8R-M01..W8R-M20",
+  "canonical_sources": "W8R-D01..W8R-D10",
+  "priority": [
+    "W8R-E02",
+    "W8R-E08",
+    "W8R-E10",
+    "W8R-E11",
+    "W8R-E14",
+    "W8R-E15",
+    "W8R-E18",
+    "W8R-E19",
+    "W8R-E04",
+    "W8R-E20"
+  ],
+  "files": [
+    "research/WAVE_8_REGULATORY_DISCOVERIES.md",
+    "research/WAVE_8_REGULATORY_METHODS.md",
+    "research/WAVE_8_REGULATORY_SOURCE_NOTES.md"
+  ],
+  "status": "research only; Claude owns implementation"
+}
