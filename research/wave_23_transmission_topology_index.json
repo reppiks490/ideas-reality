@@ -1,0 +1,26 @@
+{
+  "namespace": "W23T",
+  "title": "Transmission Topology & Congestion Mechanics",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W23T-E01..W23T-E32",
+  "methods": "W23T-M01..W23T-M20",
+  "sources": "W23T-D01..W23T-D10",
+  "priority": [
+    "W23T-E01",
+    "W23T-E06",
+    "W23T-E08",
+    "W23T-E12",
+    "W23T-E14",
+    "W23T-E15",
+    "W23T-E17",
+    "W23T-E26",
+    "W23T-E30",
+    "W23T-E32"
+  ],
+  "files": [
+    "research/WAVE_23_TRANSMISSION_TOPOLOGY_DISCOVERIES.md",
+    "research/WAVE_23_TRANSMISSION_TOPOLOGY_METHODS.md",
+    "research/WAVE_23_TRANSMISSION_TOPOLOGY_SOURCE_NOTES.md"
+  ]
+}

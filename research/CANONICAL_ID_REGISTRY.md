@@ -334,3 +334,15 @@ W22G uses canonical IDs directly:
 - edges W22G-E01 through W22G-E31
 - methods W22G-M01 through W22G-M20
 - sources W22G-D01 through W22G-D10
+
+
+### W23T — Transmission topology / congestion mechanics wave
+Sources:
+- `research/WAVE_23_TRANSMISSION_TOPOLOGY_DISCOVERIES.md`
+- `research/WAVE_23_TRANSMISSION_TOPOLOGY_METHODS.md`
+- `research/WAVE_23_TRANSMISSION_TOPOLOGY_SOURCE_NOTES.md`
+
+W23T uses canonical IDs directly:
+- edges W23T-E01 through W23T-E32
+- methods W23T-M01 through W23T-M20
+- sources W23T-D01 through W23T-D10
