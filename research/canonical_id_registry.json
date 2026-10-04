@@ -70,6 +70,36 @@
       "canonical_edges": "W7T-E01..W7T-E23",
       "canonical_methods": "W7T-M01..W7T-M20",
       "canonical_sources": "W7T-D01..W7T-D12"
+    },
+    "W6D": {
+      "sources": [
+        "research/WAVE_6_DISCOVERIES.md",
+        "research/WAVE_6_METHODS.md",
+        "research/WAVE_6_SOURCE_NOTES.md"
+      ],
+      "legacy_edges": "E123-E146",
+      "canonical_edges": "W6D-E01..W6D-E24",
+      "legacy_methods": "M91-M110",
+      "canonical_methods": "W6D-M01..W6D-M20"
+    },
+    "W7I": {
+      "sources": [
+        "research/WAVE_7_DISCOVERIES.md",
+        "research/WAVE_7_METHODS.md",
+        "research/WAVE_7_SOURCE_NOTES.md"
+      ],
+      "legacy_edges": "E147-E168",
+      "canonical_edges": "W7I-E01..W7I-E22",
+      "legacy_methods": "M111-M130",
+      "canonical_methods": "W7I-M01..W7I-M20"
+    },
+    "W8A": {
+      "sources": [
+        "research/WAVE_8_ADMIN_FORECAST_DISCOVERIES.md",
+        "research/WAVE_8_ADMIN_FORECAST_METHODS.md",
+        "research/WAVE_8_ADMIN_FORECAST_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
