@@ -312,6 +312,17 @@
       "canonical_edges": "W24M-E01..W24M-E30",
       "canonical_methods": "W24M-M01..W24M-M20",
       "canonical_sources": "W24M-D01..W24M-D10"
+    },
+    "W25R": {
+      "sources": [
+        "research/WAVE_25_RESERVE_RAMP_DISCOVERIES.md",
+        "research/WAVE_25_RESERVE_RAMP_METHODS.md",
+        "research/WAVE_25_RESERVE_RAMP_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W25R-E01..W25R-E32",
+      "canonical_methods": "W25R-M01..W25R-M20",
+      "canonical_sources": "W25R-D01..W25R-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

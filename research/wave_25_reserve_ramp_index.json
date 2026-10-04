@@ -1,0 +1,26 @@
+{
+  "namespace": "W25R",
+  "title": "Reserve, Ramp & Flexibility Scarcity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W25R-E01..W25R-E32",
+  "methods": "W25R-M01..W25R-M20",
+  "sources": "W25R-D01..W25R-D10",
+  "priority": [
+    "W25R-E03",
+    "W25R-E04",
+    "W25R-E06",
+    "W25R-E13",
+    "W25R-E15",
+    "W25R-E16",
+    "W25R-E24",
+    "W25R-E25",
+    "W25R-E30",
+    "W25R-E32"
+  ],
+  "files": [
+    "research/WAVE_25_RESERVE_RAMP_DISCOVERIES.md",
+    "research/WAVE_25_RESERVE_RAMP_METHODS.md",
+    "research/WAVE_25_RESERVE_RAMP_SOURCE_NOTES.md"
+  ]
+}

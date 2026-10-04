@@ -370,3 +370,15 @@ W24M uses canonical IDs directly:
 - edges W24M-E01 through W24M-E30
 - methods W24M-M01 through W24M-M20
 - sources W24M-D01 through W24M-D10
+
+
+### W25R — Reserve / ramp / flexibility scarcity wave
+Sources:
+- `research/WAVE_25_RESERVE_RAMP_DISCOVERIES.md`
+- `research/WAVE_25_RESERVE_RAMP_METHODS.md`
+- `research/WAVE_25_RESERVE_RAMP_SOURCE_NOTES.md`
+
+W25R uses canonical IDs directly:
+- edges W25R-E01 through W25R-E32
+- methods W25R-M01 through W25R-M20
+- sources W25R-D01 through W25R-D10
