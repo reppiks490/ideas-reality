@@ -76,6 +76,17 @@ Sources:
 
 W6N uses canonical IDs directly.
 
+### W7T — Physical network telemetry wave
+Sources:
+- `research/WAVE_7_TELEMETRY_DISCOVERIES.md`
+- `research/WAVE_7_TELEMETRY_METHODS.md`
+- `research/WAVE_7_TELEMETRY_SOURCE_NOTES.md`
+
+W7T uses canonical IDs directly:
+- edges W7T-E01 through W7T-E23
+- methods W7T-M01 through W7T-M20
+- sources W7T-D01 through W7T-D12
+
 ## Durable identity
 
 The durable machine key should be:

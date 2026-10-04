@@ -1,0 +1,41 @@
+{
+  "namespace": "W7T",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "grid telemetry",
+    "river and locks",
+    "rail",
+    "fund crowding",
+    "satellite thermal",
+    "FDA supply",
+    "aviation",
+    "multimodal recovery"
+  ],
+  "edges": "W7T-E01..W7T-E23",
+  "methods": "W7T-M01..W7T-M20",
+  "sources": "W7T-D01..W7T-D12",
+  "top_priority": [
+    "W7T-E01",
+    "W7T-E04",
+    "W7T-E05",
+    "W7T-E06",
+    "W7T-E07",
+    "W7T-E19",
+    "W7T-E21",
+    "W7T-E12",
+    "W7T-E16",
+    "W7T-E23"
+  ],
+  "files": [
+    "research/WAVE_7_TELEMETRY_DISCOVERIES.md",
+    "research/WAVE_7_TELEMETRY_METHODS.md",
+    "research/WAVE_7_TELEMETRY_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "no ICARUS implementation from this repo",
+    "point-in-time availability is mandatory",
+    "physical intermediate must validate before price",
+    "source cadence and revisions are explicit"
+  ]
+}
