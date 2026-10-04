@@ -52,7 +52,10 @@ Public notices expose maximum permissible draft, effective dates, navigation-sea
 
 ## W24M-D08 — Seaway Draft Information System Rules
 Primary:
-2026 Seaway Handbook / Notices.
+https://greatlakes-seaway.com/en/commercial-shipping/seaway-handbook/
+https://greatlakes-seaway.com/en/news/2026-1-opening-closing-dates-of-the-2026-navigation-season-and-maximum-allowable-drafts/
+
+The 2026 Handbook is the rule source. Draft changes are event-specific Seaway Notices; archive each notice and effective time. A 2026 notice confirms qualifying approved/operational DIS vessels may transit up to the rule-defined increment above the ordinary maximum subject to Section 29 and the notice in force.
 
 DIS-qualified vessels may receive a defined incremental draft allowance when all rule requirements are satisfied.
 

@@ -30,7 +30,11 @@ Public processed SDRs contain aircraft/component defect information and annual C
 
 ## W21D-D05 — SDR Reporting Rules
 Primary:
-14 CFR 121.703, 135.415, 145.221 and FAA AC/Order guidance.
+https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-121/subpart-V/section-121.703
+https://www.ecfr.gov/current/title-14/chapter-I/subchapter-G/part-135/subpart-O/section-135.415
+https://www.ecfr.gov/current/title-14/chapter-I/subchapter-H/part-145/subpart-E/section-145.221
+
+Use the eCFR rule text effective at the event date plus FAA SDR guidance. Reporter due time is not public SDR availability; W21D-D06 remains the governing public-latency caveat.
 
 Part 121/135 reports generally cover daily periods and are due to FAA within the next 96 hours; repair stations must report qualifying serious failures within 96 hours.
 

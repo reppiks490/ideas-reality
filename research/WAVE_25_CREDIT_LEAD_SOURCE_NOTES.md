@@ -17,7 +17,8 @@ For ordinary corporate-bond secondary transactions, FINRA documentation states r
 
 ## W25C-D03 — BTDS 2026 Specification
 Primary:
-FINRA BTDS MOLD/UDP v5.1 (2026).
+https://www.finra.org/sites/default/files/2026-02/BTDS_MOLDUDP_v5.1.pdf
+https://www.finra.org/filing-reporting/trace/technical-specifications
 
 BTDS disseminated fields include price, yield, quantity, execution date/time, side, reporting-party type, contra-party type, ATS-related information, modifiers and correction/reversal messages.
 
@@ -31,7 +32,9 @@ Version rules historically.
 
 ## W25C-D05 — TRACE Corporate/Agency API
 Primary:
-FINRA Corporate and Agency API specifications.
+https://www.finra.org/filing-reporting/trace/documentation
+
+Use the version listed as current on FINRA's documentation page. Historical tests must use the specification/version effective on that date; do not freeze the repository to an older direct PDF when FINRA supersedes it.
 
 API products include security master/daily lists and end-of-day market aggregates/sentiment/most-active/closing files. Access requires FINRA credentials/token under current specifications.
 

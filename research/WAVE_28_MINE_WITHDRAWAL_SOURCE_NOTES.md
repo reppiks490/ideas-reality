@@ -19,13 +19,17 @@ Fields include Mine ID, mine/operator identity, violation/order number, issue da
 
 ## W28M-D04 — MSHA Mines Dataset
 Primary:
-MSHA Open Government / Mine Data Retrieval System.
+https://arlweb.msha.gov/OpenGovernmentData/OGIMSHA.asp
+
+Use the Mines dataset/definition file exposed from the Open Government portal; archive complete replacement vintages.
 
 Contains Mine ID, current name/status/status date, operator/controller, mine type, commodity/SIC fields, employees, shifts and geography.
 
 ## W28M-D05 — MSHA Inspections
 Primary:
-MSHA Open Government Inspections dataset.
+https://arlweb.msha.gov/OpenGovernmentData/OGIMSHA.asp
+
+Use the Inspections dataset/definition file from the same portal and the actual weekly replacement vintage; inspection event time is not public-file availability.
 
 Use Event Number/Mine ID to normalize enforcement by inspection activity.
 

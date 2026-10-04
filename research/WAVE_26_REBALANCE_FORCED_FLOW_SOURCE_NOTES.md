@@ -49,7 +49,11 @@ CME publishes customary quarterly U.S. equity-index roll and expiry dates.
 
 ## W26R-D08 — CME Volume/Open Interest
 Primary:
-CME daily bulletins and product data.
+https://www.cmegroup.com/market-data/daily-bulletin.html
+https://www.cmegroup.com/market-data/volume-open-interest.html
+https://www.cmegroup.com/market-data/browse-data/equity-volume.html
+
+CME states preliminary daily VOI is released at end of trading day and official final data in the following-morning Daily Bulletin. Preserve preliminary and final vintages separately.
 
 Use contract-specific ES/NQ/MES/MNQ volume/OI for roll research.
 
