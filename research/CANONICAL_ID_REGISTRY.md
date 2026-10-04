@@ -87,6 +87,33 @@ W7T uses canonical IDs directly:
 - methods W7T-M01 through W7T-M20
 - sources W7T-D01 through W7T-D12
 
+
+### W6D — Digital adoption / commodity / credit / municipal wave
+Sources:
+- `research/WAVE_6_DISCOVERIES.md`
+- `research/WAVE_6_METHODS.md`
+- `research/WAVE_6_SOURCE_NOTES.md`
+
+- Legacy E123-E146 -> W6D-E01 through W6D-E24
+- Legacy M91-M110 -> W6D-M01 through W6D-M20
+
+### W7I — Infrastructure capacity / forced-substitution wave
+Sources:
+- `research/WAVE_7_DISCOVERIES.md`
+- `research/WAVE_7_METHODS.md`
+- `research/WAVE_7_SOURCE_NOTES.md`
+
+- Legacy E147-E168 -> W7I-E01 through W7I-E22
+- Legacy M111-M130 -> W7I-M01 through W7I-M20
+
+### W8A — Forecast and administrative precursor wave
+Sources:
+- `research/WAVE_8_ADMIN_FORECAST_DISCOVERIES.md`
+- `research/WAVE_8_ADMIN_FORECAST_METHODS.md`
+- `research/WAVE_8_ADMIN_FORECAST_SOURCE_NOTES.md`
+
+W8A uses canonical IDs directly.
+
 ## Durable identity
 
 The durable machine key should be:
