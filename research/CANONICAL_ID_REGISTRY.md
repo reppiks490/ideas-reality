@@ -709,3 +709,15 @@ W49P uses canonical IDs directly:
 - edges W49P-E01 through W49P-E40
 - methods W49P-M01 through W49P-M20
 - sources W49P-D01 through W49P-D10
+
+
+### W50T — Trade-remedy / tariff-state wave
+Sources:
+- `research/WAVE_50_TRADE_REMEDY_DISCOVERIES.md`
+- `research/WAVE_50_TRADE_REMEDY_METHODS.md`
+- `research/WAVE_50_TRADE_REMEDY_SOURCE_NOTES.md`
+
+W50T uses canonical IDs directly:
+- edges W50T-E01 through W50T-E38
+- methods W50T-M01 through W50T-M20
+- sources W50T-D01 through W50T-D10

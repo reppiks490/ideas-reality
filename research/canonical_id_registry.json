@@ -622,6 +622,17 @@
       "canonical_edges": "W49P-E01..W49P-E40",
       "canonical_methods": "W49P-M01..W49P-M20",
       "canonical_sources": "W49P-D01..W49P-D10"
+    },
+    "W50T": {
+      "sources": [
+        "research/WAVE_50_TRADE_REMEDY_DISCOVERIES.md",
+        "research/WAVE_50_TRADE_REMEDY_METHODS.md",
+        "research/WAVE_50_TRADE_REMEDY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W50T-E01..W50T-E38",
+      "canonical_methods": "W50T-M01..W50T-M20",
+      "canonical_sources": "W50T-D01..W50T-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
