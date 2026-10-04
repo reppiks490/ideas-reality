@@ -1,0 +1,26 @@
+{
+  "namespace": "W25C",
+  "title": "Credit Lead & Distress Transmission",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W25C-E01..W25C-E28",
+  "methods": "W25C-M01..W25C-M20",
+  "sources": "W25C-D01..W25C-D10",
+  "priority": [
+    "W25C-E01",
+    "W25C-E02",
+    "W25C-E06",
+    "W25C-E09",
+    "W25C-E10",
+    "W25C-E11",
+    "W25C-E12",
+    "W25C-E18",
+    "W25C-E24",
+    "W25C-E28"
+  ],
+  "files": [
+    "research/WAVE_25_CREDIT_LEAD_DISCOVERIES.md",
+    "research/WAVE_25_CREDIT_LEAD_METHODS.md",
+    "research/WAVE_25_CREDIT_LEAD_SOURCE_NOTES.md"
+  ]
+}

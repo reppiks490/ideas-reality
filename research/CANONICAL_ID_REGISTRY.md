@@ -382,3 +382,15 @@ W25R uses canonical IDs directly:
 - edges W25R-E01 through W25R-E32
 - methods W25R-M01 through W25R-M20
 - sources W25R-D01 through W25R-D10
+
+
+### W25C — Credit lead / distress transmission wave
+Sources:
+- `research/WAVE_25_CREDIT_LEAD_DISCOVERIES.md`
+- `research/WAVE_25_CREDIT_LEAD_METHODS.md`
+- `research/WAVE_25_CREDIT_LEAD_SOURCE_NOTES.md`
+
+W25C uses canonical IDs directly:
+- edges W25C-E01 through W25C-E28
+- methods W25C-M01 through W25C-M20
+- sources W25C-D01 through W25C-D10
