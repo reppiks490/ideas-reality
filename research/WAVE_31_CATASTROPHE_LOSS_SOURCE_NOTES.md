@@ -35,7 +35,9 @@ OpenFEMA lists ~20-minute refresh for declaration summary data.
 
 ## W31C-D06 — NFIP Redacted Claims
 Primary:
-OpenFEMA FIMA NFIP Redacted Claims.
+https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2
+
+Use the dataset metadata's own refresh/coverage semantics. The public file is a delayed claims-development truth layer, not storm-onset information.
 
 FEMA FAQ states NFIP claims/policy datasets are generally refreshed every 30–60 days and lag the system of record.
 

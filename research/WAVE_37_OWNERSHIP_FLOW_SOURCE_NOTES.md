@@ -10,13 +10,17 @@ Form 4 generally must be filed before the end of the second business day after e
 
 ## W37O-D02 — Section 16 / 2026 HFIA
 Primary:
-SEC Holding Foreign Insiders Accountable Act rule/FAQs.
+https://www.sec.gov/files/rules/final/2026/34-104903.pdf
+https://www.sec.gov/about/divisions-offices/division-corporation-finance/holding-foreign-insiders-accountable-act-frequently-asked-questions
+
+The statutory/Section 16(a) effective date and later technical corrections must be versioned separately.
 
 Effective March 18, 2026, directors and officers of covered foreign private issuers with Section 12-registered equity became Section 16(a) filers, subject to applicable Forms 3/4/5 requirements.
 
 ## W37O-D03 — Rule 10b5-1 / Item 408
 Primary:
-SEC Final Rule 33-11138 and compliance guidance.
+https://www.sec.gov/files/rules/final/2022/33-11138.pdf
+https://www.sec.gov/rules-regulations/2022/12/insider-trading-arrangements-related-disclosures
 
 Item 408(a) requires quarterly disclosure of director/officer adoption/termination/modification of covered 10b5-1 and non-10b5-1 arrangements and material terms other than pricing.
 
@@ -31,13 +35,16 @@ Electronic Form 144 compliance began April 13, 2023 for covered reporting-compan
 
 ## W37O-D06 — Rule 144
 Primary:
-SEC Rule 144 investor/compliance guidance.
+https://www.sec.gov/reports/rule-144-selling-restricted-control-securities
 
 Affiliates generally file Form 144 for proposed sales exceeding 5,000 shares or $50,000 during a three-month period, subject to Rule 144 conditions.
 
 ## W37O-D07 — Schedule 13D Modernization
 Primary:
-SEC Final Rule / Fact Sheet 33-11253.
+https://www.sec.gov/files/rules/final/2023/33-11253.pdf
+https://www.sec.gov/rules-regulations/2023/10/33-11180
+
+Use the filing deadlines actually effective for each historical date; do not back-apply modernized 13D/13G clocks.
 
 Initial Schedule 13D deadline is five business days; amendments generally within two business days.
 

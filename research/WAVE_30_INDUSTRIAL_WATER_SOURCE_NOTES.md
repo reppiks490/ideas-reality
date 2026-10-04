@@ -43,7 +43,10 @@ Scott/Shasta pages demonstrate point-in-time public orders, addenda, priority gr
 
 ## W30W-D07 — California Water Rights
 Primary:
-California State Water Resources Control Board water-right maps/orders/reporting resources.
+https://www.waterboards.ca.gov/upward/calwatrs/
+https://www.waterboards.ca.gov/drought/respond_to_your_curtailment_order.html
+
+CalWATRS is the current water-rights reporting/data system. Curtailment status is watershed/order-specific; preserve exact order/addendum/effective time and do not infer a facility right from geography alone.
 
 Facility/right mapping must be verified individually.
 
@@ -55,7 +58,10 @@ Use point-in-time monthly reservoir/operation forecast vintages.
 
 ## W30W-D09 — Colorado River Annual Operating Plan
 Primary:
-Bureau of Reclamation annual operating plans / shortage-condition releases.
+https://www.usbr.gov/lc/region/g4000/aop/AOP26.pdf
+https://www.usbr.gov/lc/riverops.html
+
+Use the annual plan/document effective for each year plus subsequent operating-study/decision vintages; the annual plan is not a fixed forecast for the entire year.
 
 Use as slower legal/allocation state.
 

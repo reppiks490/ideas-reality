@@ -23,7 +23,10 @@ FDA defines a shortage as national demand/projected demand exceeding supply and 
 
 ## W36P-D04 — FDA Drug Enforcement / Recalls
 Primary:
-openFDA drug enforcement endpoint and FDA Enforcement Reports.
+https://open.fda.gov/apis/drug/enforcement/
+https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/industry-guidance-recalls
+
+openFDA enforcement data are publicly releasable recall/enforcement records and update on their documented cadence; they are not an unclassified real-time recall-initiation feed.
 
 Use recall initiation/report/classification/public dates according to source semantics.
 
@@ -48,13 +51,18 @@ Selected/proactively posted inspection records include record date, company, FEI
 
 ## W36P-D08 — FDA Warning Letters
 Primary:
-FDA Warning Letters public search/database.
+https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters
+
+Use the FDA public-posting date/time available to the researcher; letter date and public-posting availability are distinct if they differ.
 
 Use public issue/posting date and later resolution/closeout independently.
 
 ## W36P-D09 — FDA Import Alerts
 Primary:
-FDA Import Alerts public database / accessdata.
+https://www.fda.gov/industry/import-alerts/search-import-alerts
+https://www.accessdata.fda.gov/cms_ia/
+
+FDA states the Import Alert databases are updated in real time; archive the observed list vintage and exact firm/product/list state.
 
 Use firm/product/country and current alert-list state; detention without physical examination is a supply-access constraint, not proof of national shortage.
 

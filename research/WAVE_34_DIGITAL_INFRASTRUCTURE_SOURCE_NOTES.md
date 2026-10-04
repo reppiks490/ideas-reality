@@ -46,7 +46,10 @@ Real-time BGP messages are available through a filterable WebSocket JSON API and
 
 ## W34D-D08 — RouteViews
 Primary:
-University of Oregon RouteViews public routing collectors/archives.
+https://api.routeviews.org/docs/
+https://archive.routeviews.org/
+
+Use collector/event timestamps and archive publication separately. Current RouteViews API/archive cadence does not prove identical historical latency.
 Use as secondary routing confirmation where needed.
 
 ## W34D-D09 — Customer Dependency Evidence
