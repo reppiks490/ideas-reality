@@ -433,6 +433,17 @@
       "canonical_edges": "W32I-E01..W32I-E34",
       "canonical_methods": "W32I-M01..W32I-M20",
       "canonical_sources": "W32I-D01..W32I-D10"
+    },
+    "W33S": {
+      "sources": [
+        "research/WAVE_33_SHORT_CONSTRAINT_DISCOVERIES.md",
+        "research/WAVE_33_SHORT_CONSTRAINT_METHODS.md",
+        "research/WAVE_33_SHORT_CONSTRAINT_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W33S-E01..W33S-E32",
+      "canonical_methods": "W33S-M01..W33S-M20",
+      "canonical_sources": "W33S-D01..W33S-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

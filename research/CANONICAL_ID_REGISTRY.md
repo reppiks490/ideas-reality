@@ -502,3 +502,15 @@ W32I uses canonical IDs directly:
 - edges W32I-E01 through W32I-E34
 - methods W32I-M01 through W32I-M20
 - sources W32I-D01 through W32I-D10
+
+
+### W33S — Short constraint / settlement-stress wave
+Sources:
+- `research/WAVE_33_SHORT_CONSTRAINT_DISCOVERIES.md`
+- `research/WAVE_33_SHORT_CONSTRAINT_METHODS.md`
+- `research/WAVE_33_SHORT_CONSTRAINT_SOURCE_NOTES.md`
+
+W33S uses canonical IDs directly:
+- edges W33S-E01 through W33S-E32
+- methods W33S-M01 through W33S-M20
+- sources W33S-D01 through W33S-D10

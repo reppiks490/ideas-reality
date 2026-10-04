@@ -1,0 +1,26 @@
+{
+  "namespace": "W33S",
+  "title": "Short Constraint & Settlement Stress",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W33S-E01..W33S-E32",
+  "methods": "W33S-M01..W33S-M20",
+  "sources": "W33S-D01..W33S-D10",
+  "priority": [
+    "W33S-E02",
+    "W33S-E05",
+    "W33S-E08",
+    "W33S-E11",
+    "W33S-E13",
+    "W33S-E19",
+    "W33S-E22",
+    "W33S-E24",
+    "W33S-E27",
+    "W33S-E32"
+  ],
+  "files": [
+    "research/WAVE_33_SHORT_CONSTRAINT_DISCOVERIES.md",
+    "research/WAVE_33_SHORT_CONSTRAINT_METHODS.md",
+    "research/WAVE_33_SHORT_CONSTRAINT_SOURCE_NOTES.md"
+  ]
+}
