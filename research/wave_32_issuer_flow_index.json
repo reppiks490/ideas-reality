@@ -1,0 +1,26 @@
+{
+  "namespace": "W32I",
+  "title": "Issuer Mechanical Flow",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W32I-E01..W32I-E34",
+  "methods": "W32I-M01..W32I-M20",
+  "sources": "W32I-D01..W32I-D10",
+  "priority": [
+    "W32I-E03",
+    "W32I-E10",
+    "W32I-E11",
+    "W32I-E16",
+    "W32I-E18",
+    "W32I-E23",
+    "W32I-E25",
+    "W32I-E26",
+    "W32I-E29",
+    "W32I-E33"
+  ],
+  "files": [
+    "research/WAVE_32_ISSUER_FLOW_DISCOVERIES.md",
+    "research/WAVE_32_ISSUER_FLOW_METHODS.md",
+    "research/WAVE_32_ISSUER_FLOW_SOURCE_NOTES.md"
+  ]
+}

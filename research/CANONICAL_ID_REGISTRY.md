@@ -490,3 +490,15 @@ W32R uses canonical IDs directly:
 - edges W32R-E01 through W32R-E36
 - methods W32R-M01 through W32R-M20
 - sources W32R-D01 through W32R-D10
+
+
+### W32I — Issuer mechanical-flow wave
+Sources:
+- `research/WAVE_32_ISSUER_FLOW_DISCOVERIES.md`
+- `research/WAVE_32_ISSUER_FLOW_METHODS.md`
+- `research/WAVE_32_ISSUER_FLOW_SOURCE_NOTES.md`
+
+W32I uses canonical IDs directly:
+- edges W32I-E01 through W32I-E34
+- methods W32I-M01 through W32I-M20
+- sources W32I-D01 through W32I-D10

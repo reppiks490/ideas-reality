@@ -422,6 +422,17 @@
       "canonical_edges": "W32R-E01..W32R-E36",
       "canonical_methods": "W32R-M01..W32R-M20",
       "canonical_sources": "W32R-D01..W32R-D10"
+    },
+    "W32I": {
+      "sources": [
+        "research/WAVE_32_ISSUER_FLOW_DISCOVERIES.md",
+        "research/WAVE_32_ISSUER_FLOW_METHODS.md",
+        "research/WAVE_32_ISSUER_FLOW_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W32I-E01..W32I-E34",
+      "canonical_methods": "W32I-M01..W32I-M20",
+      "canonical_sources": "W32I-D01..W32I-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
