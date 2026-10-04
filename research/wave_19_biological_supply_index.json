@@ -1,0 +1,26 @@
+{
+  "namespace": "W19B",
+  "title": "Biological Supply & Quarantine Shocks",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W19B-E01..W19B-E28",
+  "methods": "W19B-M01..W19B-M20",
+  "sources": "W19B-D01..W19B-D10",
+  "priority": [
+    "W19B-E02",
+    "W19B-E03",
+    "W19B-E05",
+    "W19B-E08",
+    "W19B-E12",
+    "W19B-E13",
+    "W19B-E16",
+    "W19B-E17",
+    "W19B-E23",
+    "W19B-E26"
+  ],
+  "files": [
+    "research/WAVE_19_BIOLOGICAL_SUPPLY_DISCOVERIES.md",
+    "research/WAVE_19_BIOLOGICAL_SUPPLY_METHODS.md",
+    "research/WAVE_19_BIOLOGICAL_SUPPLY_SOURCE_NOTES.md"
+  ]
+}

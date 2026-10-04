@@ -286,3 +286,15 @@ W18G uses canonical IDs directly:
 - edges W18G-E01 through W18G-E28
 - methods W18G-M01 through W18G-M20
 - sources W18G-D01 through W18G-D10
+
+
+### W19B — Biological supply / quarantine wave
+Sources:
+- `research/WAVE_19_BIOLOGICAL_SUPPLY_DISCOVERIES.md`
+- `research/WAVE_19_BIOLOGICAL_SUPPLY_METHODS.md`
+- `research/WAVE_19_BIOLOGICAL_SUPPLY_SOURCE_NOTES.md`
+
+W19B uses canonical IDs directly:
+- edges W19B-E01 through W19B-E28
+- methods W19B-M01 through W19B-M20
+- sources W19B-D01 through W19B-D10

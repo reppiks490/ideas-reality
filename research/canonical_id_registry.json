@@ -235,6 +235,17 @@
       "canonical_edges": "W18G-E01..W18G-E28",
       "canonical_methods": "W18G-M01..W18G-M20",
       "canonical_sources": "W18G-D01..W18G-D10"
+    },
+    "W19B": {
+      "sources": [
+        "research/WAVE_19_BIOLOGICAL_SUPPLY_DISCOVERIES.md",
+        "research/WAVE_19_BIOLOGICAL_SUPPLY_METHODS.md",
+        "research/WAVE_19_BIOLOGICAL_SUPPLY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W19B-E01..W19B-E28",
+      "canonical_methods": "W19B-M01..W19B-M20",
+      "canonical_sources": "W19B-D01..W19B-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
