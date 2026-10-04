@@ -889,3 +889,15 @@ W64F uses canonical IDs directly:
 - edges W64F-E01 through W64F-E32
 - methods W64F-M01 through W64F-M20
 - sources W64F-D01 through W64F-D10
+
+
+### W65D — Debt market access / refinancing-state wave
+Sources:
+- `research/WAVE_65_DEBT_MARKET_ACCESS_DISCOVERIES.md`
+- `research/WAVE_65_DEBT_MARKET_ACCESS_METHODS.md`
+- `research/WAVE_65_DEBT_MARKET_ACCESS_SOURCE_NOTES.md`
+
+W65D uses canonical IDs directly:
+- edges W65D-E01 through W65D-E36
+- methods W65D-M01 through W65D-M20
+- sources W65D-D01 through W65D-D10

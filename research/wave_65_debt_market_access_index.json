@@ -1,0 +1,26 @@
+{
+  "namespace": "W65D",
+  "title": "Debt Market Access & Refinancing State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W65D-E01..W65D-E36",
+  "methods": "W65D-M01..W65D-M20",
+  "sources": "W65D-D01..W65D-D10",
+  "priority": [
+    "W65D-E02",
+    "W65D-E04",
+    "W65D-E12",
+    "W65D-E14",
+    "W65D-E19",
+    "W65D-E21",
+    "W65D-E23",
+    "W65D-E24",
+    "W65D-E33",
+    "W65D-E34"
+  ],
+  "files": [
+    "research/WAVE_65_DEBT_MARKET_ACCESS_DISCOVERIES.md",
+    "research/WAVE_65_DEBT_MARKET_ACCESS_METHODS.md",
+    "research/WAVE_65_DEBT_MARKET_ACCESS_SOURCE_NOTES.md"
+  ]
+}
