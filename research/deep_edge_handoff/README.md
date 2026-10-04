@@ -16,3 +16,4 @@ Packets:
 - RDX02 — Medical Device Vigilance & Remediation
 - RDX03 — Form 144 Planned Supply & Insider Sale Intent
 - RDX04 — Patent Validity & Competitive-Entry Clock
+- RDX05 — Manufacturing Quality & Regulatory Capacity Risk
