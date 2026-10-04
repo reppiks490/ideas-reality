@@ -11,7 +11,7 @@ All candidates are research hypotheses only. Claude owns any later implementatio
 Primary source:
 U.S. Surface Transportation Board EP 724 weekly Class I rail service data.
 
-STB requires Class I rail carriers to provide weekly service-performance reports and states the data give the public greater real-time visibility into Class I performance.
+STB requires Class I rail carriers to provide weekly service-performance reports and states the data give the public greater real-time visibility into Class I performance. This remains a WEEKLY public dataset, not a real-time trading feed.
 
 Build:
 - system/train-type speed residual

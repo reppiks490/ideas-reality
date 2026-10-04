@@ -22,7 +22,9 @@ APHIS states its livestock map is updated each weekday and reports recent/cumula
 
 ## W19B-D04 — Dairy Cattle Movement Requirements
 Primary:
-APHIS HPAI livestock Federal Order/guidance pages.
+https://www.aphis.usda.gov/sites/default/files/dairy-federal-order.pdf
+https://www.aphis.usda.gov/news/program-update/aphis-updates-guidance-interstate-movement-lactating-dairy-cattle
+https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock/dairy-herd-status-program
 
 Requirements can vary with state disease/surveillance status. Archive every historical version before backtesting.
 
@@ -41,7 +43,7 @@ Orders can establish/expand/remove quarantines and may specify commercial acreag
 
 ## W19B-D07 — APHIS Citrus Disease Programs
 Primary:
-APHIS citrus greening/canker program updates and Federal Orders.
+https://direct.aphis.usda.gov/plant-pests-diseases/citrus-diseases/citrus-regulated-articles-federal-orders
 
 Use effective date, quarantine geometry and commercial acreage from the original notice.
 

@@ -7,7 +7,7 @@ Primary:
 https://www.tceq.texas.gov/airquality/emission-events/eventreporting
 https://www2.tceq.texas.gov/oce/eer/
 
-TCEQ states initial notification is required within 24 hours of discovery for qualifying emissions events, with final report generally due 14 days after event end. The public database includes reportable emissions, facility identity, event timing and narrative.
+TCEQ states initial notification is required within 24 hours of discovery for qualifying emissions events, with final report generally due 14 days after event end. These are reporter deadlines, not a documented public-database SLA. The public database includes reportable emissions, facility identity, event timing and narrative; archive actual first-public/first-seen latency before any live claim.
 
 ## W15X-D02 — South Coast AQMD FENS
 Primary:

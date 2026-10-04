@@ -11,7 +11,7 @@ All candidates are research hypotheses only. Claude owns any later implementatio
 Primary source:
 Texas Commission on Environmental Quality Air Emission Event Report database / STEERS.
 
-Texas requires initial notification within 24 hours of discovery for reportable emissions events. Public records expose owner/operator, regulated entity, event type, event start/end, initial notification time, compounds/quantities, emission points and event narrative.
+Texas requires initial notification within 24 hours of discovery for reportable emissions events. That statutory reporter deadline is not assumed to be public-database latency. Public records expose owner/operator, regulated entity, event type, event start/end, initial notification time, compounds/quantities, emission points and event narrative; live-style research uses measured first-public/first-seen time.
 
 Research:
 unexpected upset
