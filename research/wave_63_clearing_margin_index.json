@@ -1,0 +1,26 @@
+{
+  "namespace": "W63M",
+  "title": "Clearing Margin & Forced Deleveraging",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W63M-E01..W63M-E36",
+  "methods": "W63M-M01..W63M-M20",
+  "sources": "W63M-D01..W63M-D10",
+  "priority": [
+    "W63M-E02",
+    "W63M-E08",
+    "W63M-E10",
+    "W63M-E18",
+    "W63M-E23",
+    "W63M-E26",
+    "W63M-E27",
+    "W63M-E29",
+    "W63M-E33",
+    "W63M-E36"
+  ],
+  "files": [
+    "research/WAVE_63_CLEARING_MARGIN_DISCOVERIES.md",
+    "research/WAVE_63_CLEARING_MARGIN_METHODS.md",
+    "research/WAVE_63_CLEARING_MARGIN_SOURCE_NOTES.md"
+  ]
+}

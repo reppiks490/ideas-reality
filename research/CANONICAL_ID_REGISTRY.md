@@ -865,3 +865,15 @@ W62C uses canonical IDs directly:
 - edges W62C-E01 through W62C-E34
 - methods W62C-M01 through W62C-M20
 - sources W62C-D01 through W62C-D10
+
+
+### W63M — Clearing margin / forced-deleveraging wave
+Sources:
+- `research/WAVE_63_CLEARING_MARGIN_DISCOVERIES.md`
+- `research/WAVE_63_CLEARING_MARGIN_METHODS.md`
+- `research/WAVE_63_CLEARING_MARGIN_SOURCE_NOTES.md`
+
+W63M uses canonical IDs directly:
+- edges W63M-E01 through W63M-E36
+- methods W63M-M01 through W63M-M20
+- sources W63M-D01 through W63M-D10

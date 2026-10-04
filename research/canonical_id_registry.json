@@ -765,6 +765,17 @@
       "canonical_edges": "W62C-E01..W62C-E34",
       "canonical_methods": "W62C-M01..W62C-M20",
       "canonical_sources": "W62C-D01..W62C-D10"
+    },
+    "W63M": {
+      "sources": [
+        "research/WAVE_63_CLEARING_MARGIN_DISCOVERIES.md",
+        "research/WAVE_63_CLEARING_MARGIN_METHODS.md",
+        "research/WAVE_63_CLEARING_MARGIN_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W63M-E01..W63M-E36",
+      "canonical_methods": "W63M-M01..W63M-M20",
+      "canonical_sources": "W63M-D01..W63M-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
