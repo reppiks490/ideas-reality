@@ -538,3 +538,15 @@ W35C uses canonical IDs directly:
 - edges W35C-E01 through W35C-E30
 - methods W35C-M01 through W35C-M20
 - sources W35C-D01 through W35C-D10
+
+
+### W36P — Pharmaceutical manufacturing / drug-availability wave
+Sources:
+- `research/WAVE_36_PHARMA_SUPPLY_DISCOVERIES.md`
+- `research/WAVE_36_PHARMA_SUPPLY_METHODS.md`
+- `research/WAVE_36_PHARMA_SUPPLY_SOURCE_NOTES.md`
+
+W36P uses canonical IDs directly:
+- edges W36P-E01 through W36P-E30
+- methods W36P-M01 through W36P-M20
+- sources W36P-D01 through W36P-D10

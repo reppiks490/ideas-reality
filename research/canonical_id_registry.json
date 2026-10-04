@@ -466,6 +466,17 @@
       "canonical_edges": "W35C-E01..W35C-E30",
       "canonical_methods": "W35C-M01..W35C-M20",
       "canonical_sources": "W35C-D01..W35C-D10"
+    },
+    "W36P": {
+      "sources": [
+        "research/WAVE_36_PHARMA_SUPPLY_DISCOVERIES.md",
+        "research/WAVE_36_PHARMA_SUPPLY_METHODS.md",
+        "research/WAVE_36_PHARMA_SUPPLY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W36P-E01..W36P-E30",
+      "canonical_methods": "W36P-M01..W36P-M20",
+      "canonical_sources": "W36P-D01..W36P-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
