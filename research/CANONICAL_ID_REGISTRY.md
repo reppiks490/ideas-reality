@@ -661,3 +661,15 @@ W45F uses canonical IDs directly:
 - edges W45F-E01 through W45F-E30
 - methods W45F-M01 through W45F-M18
 - sources W45F-D01 through W45F-D10
+
+
+### W46U — Utility rate recovery / regulatory-economics wave
+Sources:
+- `research/WAVE_46_UTILITY_RATE_RECOVERY_DISCOVERIES.md`
+- `research/WAVE_46_UTILITY_RATE_RECOVERY_METHODS.md`
+- `research/WAVE_46_UTILITY_RATE_RECOVERY_SOURCE_NOTES.md`
+
+W46U uses canonical IDs directly:
+- edges W46U-E01 through W46U-E32
+- methods W46U-M01 through W46U-M18
+- sources W46U-D01 through W46U-D10

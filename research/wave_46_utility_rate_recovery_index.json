@@ -1,0 +1,26 @@
+{
+  "namespace": "W46U",
+  "title": "Utility Rate Recovery & Regulatory Economics",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W46U-E01..W46U-E32",
+  "methods": "W46U-M01..W46U-M18",
+  "sources": "W46U-D01..W46U-D10",
+  "priority": [
+    "W46U-E02",
+    "W46U-E03",
+    "W46U-E10",
+    "W46U-E14",
+    "W46U-E15",
+    "W46U-E16",
+    "W46U-E20",
+    "W46U-E24",
+    "W46U-E29",
+    "W46U-E30"
+  ],
+  "files": [
+    "research/WAVE_46_UTILITY_RATE_RECOVERY_DISCOVERIES.md",
+    "research/WAVE_46_UTILITY_RATE_RECOVERY_METHODS.md",
+    "research/WAVE_46_UTILITY_RATE_RECOVERY_SOURCE_NOTES.md"
+  ]
+}
