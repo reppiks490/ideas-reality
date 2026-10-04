@@ -521,6 +521,17 @@
       "canonical_edges": "W40B-E01..W40B-E34",
       "canonical_methods": "W40B-M01..W40B-M20",
       "canonical_sources": "W40B-D01..W40B-D10"
+    },
+    "W41M": {
+      "sources": [
+        "research/WAVE_41_DEAL_COMPLETION_DISCOVERIES.md",
+        "research/WAVE_41_DEAL_COMPLETION_METHODS.md",
+        "research/WAVE_41_DEAL_COMPLETION_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W41M-E01..W41M-E44",
+      "canonical_methods": "W41M-M01..W41M-M20",
+      "canonical_sources": "W41M-D01..W41M-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

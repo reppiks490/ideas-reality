@@ -598,3 +598,15 @@ W40B uses canonical IDs directly:
 - edges W40B-E01 through W40B-E34
 - methods W40B-M01 through W40B-M20
 - sources W40B-D01 through W40B-D10
+
+
+### W41M — Deal completion / regulatory-clocks wave
+Sources:
+- `research/WAVE_41_DEAL_COMPLETION_DISCOVERIES.md`
+- `research/WAVE_41_DEAL_COMPLETION_METHODS.md`
+- `research/WAVE_41_DEAL_COMPLETION_SOURCE_NOTES.md`
+
+W41M uses canonical IDs directly:
+- edges W41M-E01 through W41M-E44
+- methods W41M-M01 through W41M-M20
+- sources W41M-D01 through W41M-D10

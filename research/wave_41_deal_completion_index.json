@@ -1,0 +1,26 @@
+{
+  "namespace": "W41M",
+  "title": "Deal Completion & Regulatory Clocks",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W41M-E01..W41M-E44",
+  "methods": "W41M-M01..W41M-M20",
+  "sources": "W41M-D01..W41M-D10",
+  "priority": [
+    "W41M-E02",
+    "W41M-E09",
+    "W41M-E10",
+    "W41M-E13",
+    "W41M-E16",
+    "W41M-E20",
+    "W41M-E25",
+    "W41M-E29",
+    "W41M-E38",
+    "W41M-E43"
+  ],
+  "files": [
+    "research/WAVE_41_DEAL_COMPLETION_DISCOVERIES.md",
+    "research/WAVE_41_DEAL_COMPLETION_METHODS.md",
+    "research/WAVE_41_DEAL_COMPLETION_SOURCE_NOTES.md"
+  ]
+}
