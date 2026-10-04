@@ -1,0 +1,26 @@
+{
+  "namespace": "W55T",
+  "title": "Treasury Financing & Settlement Liquidity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W55T-E01..W55T-E58",
+  "methods": "W55T-M01..W55T-M25",
+  "sources": "W55T-D01..W55T-D12",
+  "priority": [
+    "W55T-E07",
+    "W55T-E09",
+    "W55T-E12",
+    "W55T-E19",
+    "W55T-E20",
+    "W55T-E28",
+    "W55T-E34",
+    "W55T-E47",
+    "W55T-E48",
+    "W55T-E57"
+  ],
+  "files": [
+    "research/WAVE_55_TREASURY_FINANCING_DISCOVERIES.md",
+    "research/WAVE_55_TREASURY_FINANCING_METHODS.md",
+    "research/WAVE_55_TREASURY_FINANCING_SOURCE_NOTES.md"
+  ]
+}

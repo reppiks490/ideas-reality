@@ -769,3 +769,15 @@ W54C uses canonical IDs directly:
 - edges W54C-E01 through W54C-E56
 - methods W54C-M01 through W54C-M30
 - sources W54C-D01 through W54C-D15
+
+
+### W55T — Treasury financing / settlement-liquidity wave
+Sources:
+- `research/WAVE_55_TREASURY_FINANCING_DISCOVERIES.md`
+- `research/WAVE_55_TREASURY_FINANCING_METHODS.md`
+- `research/WAVE_55_TREASURY_FINANCING_SOURCE_NOTES.md`
+
+W55T uses canonical IDs directly:
+- edges W55T-E01 through W55T-E58
+- methods W55T-M01 through W55T-M25
+- sources W55T-D01 through W55T-D12

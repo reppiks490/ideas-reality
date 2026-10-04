@@ -677,6 +677,17 @@
       "canonical_edges": "W54C-E01..W54C-E56",
       "canonical_methods": "W54C-M01..W54C-M30",
       "canonical_sources": "W54C-D01..W54C-D15"
+    },
+    "W55T": {
+      "sources": [
+        "research/WAVE_55_TREASURY_FINANCING_DISCOVERIES.md",
+        "research/WAVE_55_TREASURY_FINANCING_METHODS.md",
+        "research/WAVE_55_TREASURY_FINANCING_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W55T-E01..W55T-E58",
+      "canonical_methods": "W55T-M01..W55T-M25",
+      "canonical_sources": "W55T-D01..W55T-D12"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
