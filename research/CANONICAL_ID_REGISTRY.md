@@ -109,6 +109,17 @@ W9O uses canonical IDs directly:
 - methods W9O-M01 through W9O-M22
 - sources W9O-D01 through W9O-D11
 
+### W10B — Dealer balance-sheet / funding-plumbing wave
+Sources:
+- `research/WAVE_10_BALANCE_SHEET_DISCOVERIES.md`
+- `research/WAVE_10_BALANCE_SHEET_METHODS.md`
+- `research/WAVE_10_BALANCE_SHEET_SOURCE_NOTES.md`
+
+W10B uses canonical IDs directly:
+- edges W10B-E01 through W10B-E22
+- methods W10B-M01 through W10B-M20
+- sources W10B-D01 through W10B-D08
+
 ## Durable identity
 
 The durable machine key should be:

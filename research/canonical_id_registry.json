@@ -114,6 +114,17 @@
       "canonical_edges": "W9O-E01..W9O-E23",
       "canonical_methods": "W9O-M01..W9O-M22",
       "canonical_sources": "W9O-D01..W9O-D11"
+    },
+    "W10B": {
+      "sources": [
+        "research/WAVE_10_BALANCE_SHEET_DISCOVERIES.md",
+        "research/WAVE_10_BALANCE_SHEET_METHODS.md",
+        "research/WAVE_10_BALANCE_SHEET_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W10B-E01..W10B-E22",
+      "canonical_methods": "W10B-M01..W10B-M20",
+      "canonical_sources": "W10B-D01..W10B-D08"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

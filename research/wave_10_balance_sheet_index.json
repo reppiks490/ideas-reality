@@ -1,0 +1,41 @@
+{
+  "namespace": "W10B",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "primary dealers",
+    "repo venues",
+    "sponsored repo",
+    "Treasury auctions",
+    "bank credit",
+    "dealer financing terms",
+    "hedge fund leverage"
+  ],
+  "edges": "W10B-E01..W10B-E22",
+  "methods": "W10B-M01..W10B-M20",
+  "sources": "W10B-D01..W10B-D08",
+  "top_priority": [
+    "W10B-E01",
+    "W10B-E04",
+    "W10B-E07",
+    "W10B-E08",
+    "W10B-E09",
+    "W10B-E10",
+    "W10B-E12",
+    "W10B-E13",
+    "W10B-E19",
+    "W10B-E21"
+  ],
+  "files": [
+    "research/WAVE_10_BALANCE_SHEET_DISCOVERIES.md",
+    "research/WAVE_10_BALANCE_SHEET_METHODS.md",
+    "research/WAVE_10_BALANCE_SHEET_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "weekly and quarterly sources cannot be backdated",
+    "repo signs are dealer-perspective explicit",
+    "preliminary and final data vintages remain distinct",
+    "aggregate Form PF cannot identify individual funds",
+    "Treasury/repo mechanism must validate before cross-asset promotion"
+  ]
+}
