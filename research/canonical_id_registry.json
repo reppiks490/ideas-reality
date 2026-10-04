@@ -4,7 +4,8 @@
   "namespaces": {
     "W1": {
       "sources": [
-        "research/EDGE_ATLAS.md"
+        "research/EDGE_ATLAS.md",
+        "research/WAVE_1_SOURCE_NOTES.md"
       ],
       "legacy_edges": "E01-E40",
       "canonical_edges": "W1-E01..W1-E40",
@@ -14,7 +15,8 @@
     "W2": {
       "sources": [
         "research/WAVE_2_DISCOVERIES.md",
-        "research/WAVE_2_METHODS.md"
+        "research/WAVE_2_METHODS.md",
+        "research/WAVE_2_SOURCE_NOTES.md"
       ],
       "legacy_edges": "E41-E60",
       "canonical_edges": "W2-E01..W2-E20",

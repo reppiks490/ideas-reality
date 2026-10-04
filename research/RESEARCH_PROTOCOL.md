@@ -212,3 +212,40 @@ For each promoted candidate provide:
 - reproduction command/spec
 - reason for promotion
 - reason it could still be wrong
+
+
+## 21. Source promotion gate
+
+No candidate may enter DATA_VERIFIED unless every production-relevant source has:
+- exact primary source URL, document, endpoint, or feed specification
+- source owner and dataset/feed name
+- source class from DATA_AVAILABILITY_CONTRACTS.md
+- event, reporting-deadline, public-availability, ingest, and revision semantics
+- current rule/schema version and effective dates where applicable
+- access/rights/redistribution status
+- immutable raw-vintage plan
+- explicit missing/stale/failure behavior
+
+A statutory filing or reporting deadline is never equivalent to public availability unless the primary source explicitly makes them the same event.
+
+If public latency is undocumented, label it UNKNOWN_MEASURED, measure historical first-seen latency prospectively, and use a conservative availability assumption. Do not label it LIVE merely because the underlying event is reported quickly.
+
+A generic homepage, source name, research paper, or secondary article is not sufficient provenance when a primary rule, API, file, specification, or notice exists.
+
+## 22. Provenance completeness is fail-closed
+
+If a candidate lacks reproducible provenance, timing, or rights metadata:
+- keep the hypothesis,
+- downgrade the source/candidate to PROVENANCE_PENDING or RETROSPECTIVE_ONLY as appropriate,
+- prohibit live-style backtesting and production ingestion,
+- do not fill missing semantics by inference.
+
+Killing or downgrading a weak source is a successful research outcome.
+
+## 23. Rule and schema versioning
+
+For regulatory, exchange, index, clearing, filing, operational, and administrative sources:
+- preserve the exact rule/schema version effective at decision time
+- store amendment/effective dates
+- revalidate after every source/rule change
+- never apply today's rule backward to an older period unless historically valid

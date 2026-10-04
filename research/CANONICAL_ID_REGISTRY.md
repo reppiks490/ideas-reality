@@ -29,7 +29,9 @@ Types:
 ## Namespace map
 
 ### W1 — Core Edge Atlas
-Source: `research/EDGE_ATLAS.md`
+Sources:
+- `research/EDGE_ATLAS.md`
+- `research/WAVE_1_SOURCE_NOTES.md`
 
 - Legacy E01-E40 -> W1-E01 through W1-E40
 - Legacy W01-W03 -> W1-W01 through W1-W03
@@ -38,6 +40,7 @@ Source: `research/EDGE_ATLAS.md`
 Sources:
 - `research/WAVE_2_DISCOVERIES.md`
 - `research/WAVE_2_METHODS.md`
+- `research/WAVE_2_SOURCE_NOTES.md`
 
 - Legacy E41-E60 -> W2-E01 through W2-E20
 - Legacy M21-M40 -> W2-M01 through W2-M20
