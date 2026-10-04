@@ -1,0 +1,26 @@
+{
+  "namespace": "W54C",
+  "title": "Medicare Coverage, Coding & Reimbursement Reality",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W54C-E01..W54C-E56",
+  "methods": "W54C-M01..W54C-M30",
+  "sources": "W54C-D01..W54C-D15",
+  "priority": [
+    "W54C-E03",
+    "W54C-E09",
+    "W54C-E12",
+    "W54C-E18",
+    "W54C-E20",
+    "W54C-E28",
+    "W54C-E34",
+    "W54C-E39",
+    "W54C-E44",
+    "W54C-E54"
+  ],
+  "files": [
+    "research/WAVE_54_MEDICARE_REIMBURSEMENT_DISCOVERIES.md",
+    "research/WAVE_54_MEDICARE_REIMBURSEMENT_METHODS.md",
+    "research/WAVE_54_MEDICARE_REIMBURSEMENT_SOURCE_NOTES.md"
+  ]
+}

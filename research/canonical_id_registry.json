@@ -666,6 +666,17 @@
       "canonical_edges": "W53V-E01..W53V-E34",
       "canonical_methods": "W53V-M01..W53V-M20",
       "canonical_sources": "W53V-D01..W53V-D10"
+    },
+    "W54C": {
+      "sources": [
+        "research/WAVE_54_MEDICARE_REIMBURSEMENT_DISCOVERIES.md",
+        "research/WAVE_54_MEDICARE_REIMBURSEMENT_METHODS.md",
+        "research/WAVE_54_MEDICARE_REIMBURSEMENT_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W54C-E01..W54C-E56",
+      "canonical_methods": "W54C-M01..W54C-M30",
+      "canonical_sources": "W54C-D01..W54C-D15"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

@@ -757,3 +757,15 @@ W53V uses canonical IDs directly:
 - edges W53V-E01 through W53V-E34
 - methods W53V-M01 through W53V-M20
 - sources W53V-D01 through W53V-D10
+
+
+### W54C — Medicare coverage / coding / reimbursement wave
+Sources:
+- `research/WAVE_54_MEDICARE_REIMBURSEMENT_DISCOVERIES.md`
+- `research/WAVE_54_MEDICARE_REIMBURSEMENT_METHODS.md`
+- `research/WAVE_54_MEDICARE_REIMBURSEMENT_SOURCE_NOTES.md`
+
+W54C uses canonical IDs directly:
+- edges W54C-E01 through W54C-E56
+- methods W54C-M01 through W54C-M30
+- sources W54C-D01 through W54C-D15
