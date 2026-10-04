@@ -611,6 +611,17 @@
       "canonical_edges": "W48A-E01..W48A-E35",
       "canonical_methods": "W48A-M01..W48A-M20",
       "canonical_sources": "W48A-D01..W48A-D10"
+    },
+    "W49P": {
+      "sources": [
+        "research/WAVE_49_PHYSICAL_DELIVERY_DISCOVERIES.md",
+        "research/WAVE_49_PHYSICAL_DELIVERY_METHODS.md",
+        "research/WAVE_49_PHYSICAL_DELIVERY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W49P-E01..W49P-E40",
+      "canonical_methods": "W49P-M01..W49P-M20",
+      "canonical_sources": "W49P-D01..W49P-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

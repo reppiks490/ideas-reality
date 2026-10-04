@@ -697,3 +697,15 @@ W48A uses canonical IDs directly:
 - edges W48A-E01 through W48A-E35
 - methods W48A-M01 through W48A-M20
 - sources W48A-D01 through W48A-D10
+
+
+### W49P — Physical inventory / delivery-pressure wave
+Sources:
+- `research/WAVE_49_PHYSICAL_DELIVERY_DISCOVERIES.md`
+- `research/WAVE_49_PHYSICAL_DELIVERY_METHODS.md`
+- `research/WAVE_49_PHYSICAL_DELIVERY_SOURCE_NOTES.md`
+
+W49P uses canonical IDs directly:
+- edges W49P-E01 through W49P-E40
+- methods W49P-M01 through W49P-M20
+- sources W49P-D01 through W49P-D10

@@ -1,0 +1,26 @@
+{
+  "namespace": "W49P",
+  "title": "Physical Inventory & Delivery Pressure",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W49P-E01..W49P-E40",
+  "methods": "W49P-M01..W49P-M20",
+  "sources": "W49P-D01..W49P-D10",
+  "priority": [
+    "W49P-E03",
+    "W49P-E07",
+    "W49P-E09",
+    "W49P-E10",
+    "W49P-E11",
+    "W49P-E20",
+    "W49P-E26",
+    "W49P-E28",
+    "W49P-E31",
+    "W49P-E39"
+  ],
+  "files": [
+    "research/WAVE_49_PHYSICAL_DELIVERY_DISCOVERIES.md",
+    "research/WAVE_49_PHYSICAL_DELIVERY_METHODS.md",
+    "research/WAVE_49_PHYSICAL_DELIVERY_SOURCE_NOTES.md"
+  ]
+}
