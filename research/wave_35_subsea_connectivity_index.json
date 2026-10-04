@@ -1,0 +1,26 @@
+{
+  "namespace": "W35C",
+  "title": "Subsea Connectivity & Repair Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W35C-E01..W35C-E30",
+  "methods": "W35C-M01..W35C-M20",
+  "sources": "W35C-D01..W35C-D10",
+  "priority": [
+    "W35C-E04",
+    "W35C-E05",
+    "W35C-E06",
+    "W35C-E11",
+    "W35C-E13",
+    "W35C-E17",
+    "W35C-E18",
+    "W35C-E24",
+    "W35C-E25",
+    "W35C-E29"
+  ],
+  "files": [
+    "research/WAVE_35_SUBSEA_CONNECTIVITY_DISCOVERIES.md",
+    "research/WAVE_35_SUBSEA_CONNECTIVITY_METHODS.md",
+    "research/WAVE_35_SUBSEA_CONNECTIVITY_SOURCE_NOTES.md"
+  ]
+}

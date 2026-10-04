@@ -526,3 +526,15 @@ W34D uses canonical IDs directly:
 - edges W34D-E01 through W34D-E34
 - methods W34D-M01 through W34D-M20
 - sources W34D-D01 through W34D-D10
+
+
+### W35C — Subsea connectivity / repair-capacity wave
+Sources:
+- `research/WAVE_35_SUBSEA_CONNECTIVITY_DISCOVERIES.md`
+- `research/WAVE_35_SUBSEA_CONNECTIVITY_METHODS.md`
+- `research/WAVE_35_SUBSEA_CONNECTIVITY_SOURCE_NOTES.md`
+
+W35C uses canonical IDs directly:
+- edges W35C-E01 through W35C-E30
+- methods W35C-M01 through W35C-M20
+- sources W35C-D01 through W35C-D10
