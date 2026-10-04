@@ -1,0 +1,26 @@
+{
+  "namespace": "W18G",
+  "title": "Geophysical & Space-Weather Exposure",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W18G-E01..W18G-E28",
+  "methods": "W18G-M01..W18G-M20",
+  "sources": "W18G-D01..W18G-D10",
+  "priority": [
+    "W18G-E02",
+    "W18G-E05",
+    "W18G-E06",
+    "W18G-E07",
+    "W18G-E11",
+    "W18G-E13",
+    "W18G-E17",
+    "W18G-E20",
+    "W18G-E21",
+    "W18G-E22"
+  ],
+  "files": [
+    "research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_DISCOVERIES.md",
+    "research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_METHODS.md",
+    "research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_SOURCE_NOTES.md"
+  ]
+}

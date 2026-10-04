@@ -274,3 +274,15 @@ W17P uses canonical IDs directly:
 - edges W17P-E01 through W17P-E24
 - methods W17P-M01 through W17P-M20
 - sources W17P-D01 through W17P-D10
+
+
+### W18G — Geophysical / space-weather exposure wave
+Sources:
+- `research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_DISCOVERIES.md`
+- `research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_METHODS.md`
+- `research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_SOURCE_NOTES.md`
+
+W18G uses canonical IDs directly:
+- edges W18G-E01 through W18G-E28
+- methods W18G-M01 through W18G-M20
+- sources W18G-D01 through W18G-D10

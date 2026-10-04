@@ -224,6 +224,17 @@
       "canonical_edges": "W17P-E01..W17P-E24",
       "canonical_methods": "W17P-M01..W17P-M20",
       "canonical_sources": "W17P-D01..W17P-D10"
+    },
+    "W18G": {
+      "sources": [
+        "research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_DISCOVERIES.md",
+        "research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_METHODS.md",
+        "research/WAVE_18_GEOPHYSICAL_SPACE_WEATHER_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W18G-E01..W18G-E28",
+      "canonical_methods": "W18G-M01..W18G-M20",
+      "canonical_sources": "W18G-D01..W18G-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
