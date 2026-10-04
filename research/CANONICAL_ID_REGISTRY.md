@@ -673,3 +673,15 @@ W46U uses canonical IDs directly:
 - edges W46U-E01 through W46U-E32
 - methods W46U-M01 through W46U-M18
 - sources W46U-D01 through W46U-D10
+
+
+### W47S — Sanctions / export-control transaction-eligibility wave
+Sources:
+- `research/WAVE_47_SANCTIONS_EXPORT_CONTROL_DISCOVERIES.md`
+- `research/WAVE_47_SANCTIONS_EXPORT_CONTROL_METHODS.md`
+- `research/WAVE_47_SANCTIONS_EXPORT_CONTROL_SOURCE_NOTES.md`
+
+W47S uses canonical IDs directly:
+- edges W47S-E01 through W47S-E38
+- methods W47S-M01 through W47S-M20
+- sources W47S-D01 through W47S-D10

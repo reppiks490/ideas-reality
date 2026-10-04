@@ -589,6 +589,17 @@
       "canonical_edges": "W46U-E01..W46U-E32",
       "canonical_methods": "W46U-M01..W46U-M18",
       "canonical_sources": "W46U-D01..W46U-D10"
+    },
+    "W47S": {
+      "sources": [
+        "research/WAVE_47_SANCTIONS_EXPORT_CONTROL_DISCOVERIES.md",
+        "research/WAVE_47_SANCTIONS_EXPORT_CONTROL_METHODS.md",
+        "research/WAVE_47_SANCTIONS_EXPORT_CONTROL_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W47S-E01..W47S-E38",
+      "canonical_methods": "W47S-M01..W47S-M20",
+      "canonical_sources": "W47S-D01..W47S-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
