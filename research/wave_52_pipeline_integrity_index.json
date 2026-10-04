@@ -1,0 +1,26 @@
+{
+  "namespace": "W52P",
+  "title": "Pipeline Integrity Enforcement & Forced Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W52P-E01..W52P-E36",
+  "methods": "W52P-M01..W52P-M20",
+  "sources": "W52P-D01..W52P-D10",
+  "priority": [
+    "W52P-E03",
+    "W52P-E04",
+    "W52P-E05",
+    "W52P-E06",
+    "W52P-E10",
+    "W52P-E12",
+    "W52P-E15",
+    "W52P-E28",
+    "W52P-E30",
+    "W52P-E32"
+  ],
+  "files": [
+    "research/WAVE_52_PIPELINE_INTEGRITY_DISCOVERIES.md",
+    "research/WAVE_52_PIPELINE_INTEGRITY_METHODS.md",
+    "research/WAVE_52_PIPELINE_INTEGRITY_SOURCE_NOTES.md"
+  ]
+}

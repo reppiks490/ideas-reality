@@ -733,3 +733,15 @@ W51B uses canonical IDs directly:
 - edges W51B-E01 through W51B-E40
 - methods W51B-M01 through W51B-M20
 - sources W51B-D01 through W51B-D10
+
+
+### W52P — Pipeline integrity enforcement / forced-capacity wave
+Sources:
+- `research/WAVE_52_PIPELINE_INTEGRITY_DISCOVERIES.md`
+- `research/WAVE_52_PIPELINE_INTEGRITY_METHODS.md`
+- `research/WAVE_52_PIPELINE_INTEGRITY_SOURCE_NOTES.md`
+
+W52P uses canonical IDs directly:
+- edges W52P-E01 through W52P-E36
+- methods W52P-M01 through W52P-M20
+- sources W52P-D01 through W52P-D10

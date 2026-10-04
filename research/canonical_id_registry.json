@@ -644,6 +644,17 @@
       "canonical_edges": "W51B-E01..W51B-E40",
       "canonical_methods": "W51B-M01..W51B-M20",
       "canonical_sources": "W51B-D01..W51B-D10"
+    },
+    "W52P": {
+      "sources": [
+        "research/WAVE_52_PIPELINE_INTEGRITY_DISCOVERIES.md",
+        "research/WAVE_52_PIPELINE_INTEGRITY_METHODS.md",
+        "research/WAVE_52_PIPELINE_INTEGRITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W52P-E01..W52P-E36",
+      "canonical_methods": "W52P-M01..W52P-M20",
+      "canonical_sources": "W52P-D01..W52P-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
