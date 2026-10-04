@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX05",
+  "title": "Manufacturing Quality & Regulatory Capacity Risk",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX05-E01..RDX05-E40",
+  "priority": [
+    "RDX05-E05",
+    "RDX05-E07",
+    "RDX05-E11",
+    "RDX05-E15",
+    "RDX05-E18",
+    "RDX05-E21",
+    "RDX05-E24",
+    "RDX05-E29",
+    "RDX05-E39",
+    "RDX05-E40"
+  ]
+}

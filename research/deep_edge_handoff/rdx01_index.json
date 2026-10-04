@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX01",
+  "title": "Defect Emergence & Recall Mechanics",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX01-E01..RDX01-E37",
+  "priority": [
+    "RDX01-E02",
+    "RDX01-E07",
+    "RDX01-E09",
+    "RDX01-E12",
+    "RDX01-E15",
+    "RDX01-E16",
+    "RDX01-E19",
+    "RDX01-E26",
+    "RDX01-E34",
+    "RDX01-E37"
+  ]
+}

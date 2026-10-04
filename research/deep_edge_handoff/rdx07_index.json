@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX07",
+  "title": "Aircraft Transfer & Fleet Realization",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX07-E01..RDX07-E40",
+  "priority": [
+    "RDX07-E03",
+    "RDX07-E06",
+    "RDX07-E11",
+    "RDX07-E14",
+    "RDX07-E21",
+    "RDX07-E24",
+    "RDX07-E25",
+    "RDX07-E29",
+    "RDX07-E38",
+    "RDX07-E40"
+  ]
+}

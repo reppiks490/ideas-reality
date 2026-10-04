@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX02",
+  "title": "Medical Device Vigilance & Remediation",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX02-E01..RDX02-E36",
+  "priority": [
+    "RDX02-E03",
+    "RDX02-E07",
+    "RDX02-E08",
+    "RDX02-E11",
+    "RDX02-E12",
+    "RDX02-E16",
+    "RDX02-E19",
+    "RDX02-E24",
+    "RDX02-E30",
+    "RDX02-E36"
+  ]
+}
