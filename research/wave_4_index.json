@@ -1,0 +1,26 @@
+{
+  "wave": 4,
+  "theme": "funding collateral Treasury operations procurement ownership capital supply",
+  "ids": {
+    "edges": "E81-E100",
+    "methods": "M56-M70"
+  },
+  "priority": [
+    "E81",
+    "E82",
+    "E85",
+    "E86",
+    "E87",
+    "E90",
+    "E91",
+    "E94",
+    "E95",
+    "E100"
+  ],
+  "files": [
+    "research/WAVE_4_DISCOVERIES.md",
+    "research/WAVE_4_METHODS.md",
+    "research/WAVE_4_SOURCE_NOTES.md"
+  ],
+  "status": "research only; Claude owns implementation"
+}
