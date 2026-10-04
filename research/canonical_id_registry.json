@@ -191,6 +191,17 @@
       "canonical_edges": "W14I-E01..W14I-E25",
       "canonical_methods": "W14I-M01..W14I-M20",
       "canonical_sources": "W14I-D01..W14I-D10"
+    },
+    "W15X": {
+      "sources": [
+        "research/WAVE_15_INDUSTRIAL_THERMAL_DISCOVERIES.md",
+        "research/WAVE_15_INDUSTRIAL_THERMAL_METHODS.md",
+        "research/WAVE_15_INDUSTRIAL_THERMAL_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W15X-E01..W15X-E25",
+      "canonical_methods": "W15X-M01..W15X-M20",
+      "canonical_sources": "W15X-D01..W15X-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

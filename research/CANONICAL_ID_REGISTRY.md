@@ -238,3 +238,15 @@ W14I uses canonical IDs directly:
 - edges W14I-E01 through W14I-E25
 - methods W14I-M01 through W14I-M20
 - sources W14I-D01 through W14I-D10
+
+
+### W15X — Industrial upset / thermal telemetry wave
+Sources:
+- `research/WAVE_15_INDUSTRIAL_THERMAL_DISCOVERIES.md`
+- `research/WAVE_15_INDUSTRIAL_THERMAL_METHODS.md`
+- `research/WAVE_15_INDUSTRIAL_THERMAL_SOURCE_NOTES.md`
+
+W15X uses canonical IDs directly:
+- edges W15X-E01 through W15X-E25
+- methods W15X-M01 through W15X-M20
+- sources W15X-D01 through W15X-D10

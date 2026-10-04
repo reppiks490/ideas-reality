@@ -1,0 +1,26 @@
+{
+  "namespace": "W15X",
+  "title": "Industrial Upset & Thermal Telemetry",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W15X-E01..W15X-E25",
+  "methods": "W15X-M01..W15X-M20",
+  "sources": "W15X-D01..W15X-D10",
+  "priority": [
+    "W15X-E01",
+    "W15X-E06",
+    "W15X-E10",
+    "W15X-E11",
+    "W15X-E13",
+    "W15X-E16",
+    "W15X-E18",
+    "W15X-E19",
+    "W15X-E24",
+    "W15X-E25"
+  ],
+  "files": [
+    "research/WAVE_15_INDUSTRIAL_THERMAL_DISCOVERIES.md",
+    "research/WAVE_15_INDUSTRIAL_THERMAL_METHODS.md",
+    "research/WAVE_15_INDUSTRIAL_THERMAL_SOURCE_NOTES.md"
+  ]
+}
