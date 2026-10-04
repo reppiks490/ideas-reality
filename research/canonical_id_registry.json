@@ -754,6 +754,17 @@
       "canonical_edges": "W61F-E01..W61F-E29",
       "canonical_methods": "W61F-M01..W61F-M20",
       "canonical_sources": "W61F-D01..W61F-D10"
+    },
+    "W62C": {
+      "sources": [
+        "research/WAVE_62_CFTC_POSITIONING_DISCOVERIES.md",
+        "research/WAVE_62_CFTC_POSITIONING_METHODS.md",
+        "research/WAVE_62_CFTC_POSITIONING_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W62C-E01..W62C-E34",
+      "canonical_methods": "W62C-M01..W62C-M20",
+      "canonical_sources": "W62C-D01..W62C-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

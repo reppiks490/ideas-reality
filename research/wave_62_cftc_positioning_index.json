@@ -1,0 +1,26 @@
+{
+  "namespace": "W62C",
+  "title": "Futures Positioning, Crowding & Concentration",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W62C-E01..W62C-E34",
+  "methods": "W62C-M01..W62C-M20",
+  "sources": "W62C-D01..W62C-D10",
+  "priority": [
+    "W62C-E04",
+    "W62C-E05",
+    "W62C-E06",
+    "W62C-E08",
+    "W62C-E16",
+    "W62C-E17",
+    "W62C-E22",
+    "W62C-E24",
+    "W62C-E27",
+    "W62C-E31"
+  ],
+  "files": [
+    "research/WAVE_62_CFTC_POSITIONING_DISCOVERIES.md",
+    "research/WAVE_62_CFTC_POSITIONING_METHODS.md",
+    "research/WAVE_62_CFTC_POSITIONING_SOURCE_NOTES.md"
+  ]
+}

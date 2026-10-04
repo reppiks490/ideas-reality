@@ -853,3 +853,15 @@ W61F uses canonical IDs directly:
 - edges W61F-E01 through W61F-E29
 - methods W61F-M01 through W61F-M20
 - sources W61F-D01 through W61F-D10
+
+
+### W62C — Futures positioning / crowding / concentration wave
+Sources:
+- `research/WAVE_62_CFTC_POSITIONING_DISCOVERIES.md`
+- `research/WAVE_62_CFTC_POSITIONING_METHODS.md`
+- `research/WAVE_62_CFTC_POSITIONING_SOURCE_NOTES.md`
+
+W62C uses canonical IDs directly:
+- edges W62C-E01 through W62C-E34
+- methods W62C-M01 through W62C-M20
+- sources W62C-D01 through W62C-D10
