@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX04",
+  "title": "Patent Validity & Competitive-Entry Clock",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX04-E01..RDX04-E40",
+  "priority": [
+    "RDX04-E05",
+    "RDX04-E06",
+    "RDX04-E11",
+    "RDX04-E13",
+    "RDX04-E22",
+    "RDX04-E24",
+    "RDX04-E27",
+    "RDX04-E33",
+    "RDX04-E35",
+    "RDX04-E40"
+  ]
+}
