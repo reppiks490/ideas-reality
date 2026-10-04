@@ -125,6 +125,17 @@
       "canonical_edges": "W10B-E01..W10B-E22",
       "canonical_methods": "W10B-M01..W10B-M20",
       "canonical_sources": "W10B-D01..W10B-D08"
+    },
+    "W11S": {
+      "sources": [
+        "research/WAVE_11_FUTURE_SUPPLY_DISCOVERIES.md",
+        "research/WAVE_11_FUTURE_SUPPLY_METHODS.md",
+        "research/WAVE_11_FUTURE_SUPPLY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W11S-E01..W11S-E23",
+      "canonical_methods": "W11S-M01..W11S-M20",
+      "canonical_sources": "W11S-D01..W11S-D08"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

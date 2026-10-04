@@ -1,0 +1,40 @@
+{
+  "namespace": "W11S",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "Texas permits/completions",
+    "FracFocus",
+    "generator capacity",
+    "interconnection queues",
+    "gas pipelines",
+    "LNG capacity"
+  ],
+  "edges": "W11S-E01..W11S-E23",
+  "methods": "W11S-M01..W11S-M20",
+  "sources": "W11S-D01..W11S-D08",
+  "top_priority": [
+    "W11S-E03",
+    "W11S-E04",
+    "W11S-E06",
+    "W11S-E08",
+    "W11S-E12",
+    "W11S-E14",
+    "W11S-E16",
+    "W11S-E18",
+    "W11S-E22",
+    "W11S-E23"
+  ],
+  "files": [
+    "research/WAVE_11_FUTURE_SUPPLY_DISCOVERIES.md",
+    "research/WAVE_11_FUTURE_SUPPLY_METHODS.md",
+    "research/WAVE_11_FUTURE_SUPPLY_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "intent is not production",
+    "all lifecycle states are point-in-time",
+    "queue/permit duplicates are deduplicated by stable project identity",
+    "capacity is probability and timing weighted",
+    "intermediate physical outcome must validate before price"
+  ]
+}

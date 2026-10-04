@@ -120,6 +120,17 @@ W10B uses canonical IDs directly:
 - methods W10B-M01 through W10B-M20
 - sources W10B-D01 through W10B-D08
 
+### W11S — Future physical supply pipeline wave
+Sources:
+- `research/WAVE_11_FUTURE_SUPPLY_DISCOVERIES.md`
+- `research/WAVE_11_FUTURE_SUPPLY_METHODS.md`
+- `research/WAVE_11_FUTURE_SUPPLY_SOURCE_NOTES.md`
+
+W11S uses canonical IDs directly:
+- edges W11S-E01 through W11S-E23
+- methods W11S-M01 through W11S-M20
+- sources W11S-D01 through W11S-D08
+
 ## Durable identity
 
 The durable machine key should be:
