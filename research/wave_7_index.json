@@ -1,0 +1,26 @@
+{
+  "wave": 7,
+  "theme": "infrastructure capacity forced substitution nuclear Panama water hydro refinery LNG chokepoints",
+  "ids": {
+    "edges": "E147-E168",
+    "methods": "M111-M130"
+  },
+  "priority": [
+    "E148",
+    "E150",
+    "E151",
+    "E152",
+    "E157",
+    "E160",
+    "E164",
+    "E165",
+    "E166",
+    "E168"
+  ],
+  "files": [
+    "research/WAVE_7_DISCOVERIES.md",
+    "research/WAVE_7_METHODS.md",
+    "research/WAVE_7_SOURCE_NOTES.md"
+  ],
+  "status": "research only; Claude owns implementation"
+}
