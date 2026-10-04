@@ -1,0 +1,43 @@
+{
+  "namespace": "W9O",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "gas pipeline EBBs",
+    "ENTSOG/GIE gas and LNG",
+    "Black Marble nighttime lights",
+    "ABS-EE credit",
+    "CFPB complaints",
+    "clinical trials",
+    "CMS coverage",
+    "FDA devices",
+    "OSHA"
+  ],
+  "edges": "W9O-E01..W9O-E23",
+  "methods": "W9O-M01..W9O-M22",
+  "sources": "W9O-D01..W9O-D11",
+  "top_priority": [
+    "W9O-E01",
+    "W9O-E02",
+    "W9O-E03",
+    "W9O-E04",
+    "W9O-E05",
+    "W9O-E09",
+    "W9O-E12",
+    "W9O-E17",
+    "W9O-E19",
+    "W9O-E23"
+  ],
+  "files": [
+    "research/WAVE_9_OPERATIONAL_EXHAUST_DISCOVERIES.md",
+    "research/WAVE_9_OPERATIONAL_EXHAUST_METHODS.md",
+    "research/WAVE_9_OPERATIONAL_EXHAUST_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "critical notice text is subordinate to physical capacity fields",
+    "gas nomination is expectation; physical flow is realization",
+    "satellite change requires environmental controls",
+    "ABS and complaints require public-time masks",
+    "trial approval and reimbursement are separate causal stages"
+  ]
+}

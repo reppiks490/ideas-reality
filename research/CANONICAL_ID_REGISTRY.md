@@ -98,6 +98,17 @@ W8M uses canonical IDs directly:
 - methods W8M-M01 through W8M-M20
 - sources W8M-D01 through W8M-D08
 
+### W9O — Hidden operational exhaust wave
+Sources:
+- `research/WAVE_9_OPERATIONAL_EXHAUST_DISCOVERIES.md`
+- `research/WAVE_9_OPERATIONAL_EXHAUST_METHODS.md`
+- `research/WAVE_9_OPERATIONAL_EXHAUST_SOURCE_NOTES.md`
+
+W9O uses canonical IDs directly:
+- edges W9O-E01 through W9O-E23
+- methods W9O-M01 through W9O-M22
+- sources W9O-D01 through W9O-D11
+
 ## Durable identity
 
 The durable machine key should be:

@@ -103,6 +103,17 @@
       "canonical_edges": "W9C-E01..W9C-E20",
       "canonical_methods": "W9C-M01..W9C-M20",
       "canonical_sources": "W9C-D01..W9C-D10"
+    },
+    "W9O": {
+      "sources": [
+        "research/WAVE_9_OPERATIONAL_EXHAUST_DISCOVERIES.md",
+        "research/WAVE_9_OPERATIONAL_EXHAUST_METHODS.md",
+        "research/WAVE_9_OPERATIONAL_EXHAUST_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W9O-E01..W9O-E23",
+      "canonical_methods": "W9O-M01..W9O-M22",
+      "canonical_sources": "W9O-D01..W9O-D11"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
