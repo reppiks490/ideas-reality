@@ -367,6 +367,17 @@
       "canonical_edges": "W28M-E01..W28M-E25",
       "canonical_methods": "W28M-M01..W28M-M20",
       "canonical_sources": "W28M-D01..W28M-D10"
+    },
+    "W29L": {
+      "sources": [
+        "research/WAVE_29_LABOR_DISPUTE_DISCOVERIES.md",
+        "research/WAVE_29_LABOR_DISPUTE_METHODS.md",
+        "research/WAVE_29_LABOR_DISPUTE_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W29L-E01..W29L-E28",
+      "canonical_methods": "W29L-M01..W29L-M20",
+      "canonical_sources": "W29L-D01..W29L-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

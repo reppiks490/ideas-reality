@@ -430,3 +430,15 @@ W28M uses canonical IDs directly:
 - edges W28M-E01 through W28M-E25
 - methods W28M-M01 through W28M-M20
 - sources W28M-D01 through W28M-D10
+
+
+### W29L — Labor dispute clocks / capacity-risk wave
+Sources:
+- `research/WAVE_29_LABOR_DISPUTE_DISCOVERIES.md`
+- `research/WAVE_29_LABOR_DISPUTE_METHODS.md`
+- `research/WAVE_29_LABOR_DISPUTE_SOURCE_NOTES.md`
+
+W29L uses canonical IDs directly:
+- edges W29L-E01 through W29L-E28
+- methods W29L-M01 through W29L-M20
+- sources W29L-D01 through W29L-D10

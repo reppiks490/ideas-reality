@@ -1,0 +1,26 @@
+{
+  "namespace": "W29L",
+  "title": "Labor Dispute Clocks & Capacity Risk",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W29L-E01..W29L-E28",
+  "methods": "W29L-M01..W29L-M20",
+  "sources": "W29L-D01..W29L-D10",
+  "priority": [
+    "W29L-E01",
+    "W29L-E06",
+    "W29L-E09",
+    "W29L-E10",
+    "W29L-E11",
+    "W29L-E14",
+    "W29L-E15",
+    "W29L-E17",
+    "W29L-E23",
+    "W29L-E27"
+  ],
+  "files": [
+    "research/WAVE_29_LABOR_DISPUTE_DISCOVERIES.md",
+    "research/WAVE_29_LABOR_DISPUTE_METHODS.md",
+    "research/WAVE_29_LABOR_DISPUTE_SOURCE_NOTES.md"
+  ]
+}
