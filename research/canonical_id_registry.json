@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "rule": "wave-scoped IDs are canonical; legacy IDs are aliases only",
+  "namespaces": {
+    "W1": {
+      "sources": [
+        "research/EDGE_ATLAS.md"
+      ],
+      "legacy_edges": "E01-E40",
+      "canonical_edges": "W1-E01..W1-E40",
+      "legacy_watchlist": "W01-W03",
+      "canonical_watchlist": "W1-W01..W1-W03"
+    },
+    "W2": {
+      "sources": [
+        "research/WAVE_2_DISCOVERIES.md",
+        "research/WAVE_2_METHODS.md"
+      ],
+      "legacy_edges": "E41-E60",
+      "canonical_edges": "W2-E01..W2-E20",
+      "legacy_methods": "M21-M40",
+      "canonical_methods": "W2-M01..W2-M20"
+    },
+    "W3": {
+      "sources": [
+        "research/WAVE_3_DISCOVERIES.md",
+        "research/WAVE_3_METHODS.md"
+      ],
+      "legacy_edges": "E61-E90",
+      "canonical_edges": "W3-E01..W3-E30",
+      "legacy_methods": "M41-M55",
+      "canonical_methods": "W3-M01..W3-M15"
+    },
+    "W4F": {
+      "sources": [
+        "research/WAVE_4_DISCOVERIES.md",
+        "research/WAVE_4_METHODS.md"
+      ],
+      "legacy_edges": "E81-E100",
+      "canonical_edges": "W4F-E01..W4F-E20",
+      "legacy_methods": "M56-M70",
+      "canonical_methods": "W4F-M01..W4F-M15",
+      "collision": "legacy E81-E90 overlaps W3"
+    },
+    "W5P": {
+      "sources": [
+        "research/WAVE_5_DISCOVERIES.md",
+        "research/WAVE_5_METHODS.md"
+      ],
+      "legacy_edges": "E101-E122",
+      "canonical_edges": "W5P-E01..W5P-E22",
+      "legacy_methods": "M71-M90",
+      "canonical_methods": "W5P-M01..W5P-M20"
+    },
+    "W6N": {
+      "sources": [
+        "research/WAVE_6_NQ_GOLD_DISCOVERIES.md",
+        "research/WAVE_6_NQ_GOLD_METHODS.md",
+        "research/WAVE_6_NQ_GOLD_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true
+    }
+  },
+  "durable_key": "canonical_id + source_file + content_hash",
+  "future_rule": "Never allocate unscoped global IDs; create a unique namespace; never force-push concurrent research."
+}
