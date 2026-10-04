@@ -1,0 +1,26 @@
+{
+  "namespace": "W31C",
+  "title": "Catastrophe Loss Development & Financial Transmission",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W31C-E01..W31C-E26",
+  "methods": "W31C-M01..W31C-M20",
+  "sources": "W31C-D01..W31C-D10",
+  "priority": [
+    "W31C-E01",
+    "W31C-E04",
+    "W31C-E06",
+    "W31C-E07",
+    "W31C-E11",
+    "W31C-E13",
+    "W31C-E14",
+    "W31C-E18",
+    "W31C-E24",
+    "W31C-E25"
+  ],
+  "files": [
+    "research/WAVE_31_CATASTROPHE_LOSS_DISCOVERIES.md",
+    "research/WAVE_31_CATASTROPHE_LOSS_METHODS.md",
+    "research/WAVE_31_CATASTROPHE_LOSS_SOURCE_NOTES.md"
+  ]
+}

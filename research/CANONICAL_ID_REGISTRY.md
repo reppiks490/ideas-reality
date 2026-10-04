@@ -454,3 +454,15 @@ W30W uses canonical IDs directly:
 - edges W30W-E01 through W30W-E28
 - methods W30W-M01 through W30W-M20
 - sources W30W-D01 through W30W-D10
+
+
+### W31C — Catastrophe loss-development wave
+Sources:
+- `research/WAVE_31_CATASTROPHE_LOSS_DISCOVERIES.md`
+- `research/WAVE_31_CATASTROPHE_LOSS_METHODS.md`
+- `research/WAVE_31_CATASTROPHE_LOSS_SOURCE_NOTES.md`
+
+W31C uses canonical IDs directly:
+- edges W31C-E01 through W31C-E26
+- methods W31C-M01 through W31C-M20
+- sources W31C-D01 through W31C-D10
