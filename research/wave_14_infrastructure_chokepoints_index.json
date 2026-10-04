@@ -1,0 +1,26 @@
+{
+  "namespace": "W14I",
+  "title": "Critical Infrastructure Substitution & Chokepoints",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W14I-E01..W14I-E25",
+  "methods": "W14I-M01..W14I-M20",
+  "sources": "W14I-D01..W14I-D10",
+  "priority": [
+    "W14I-E02",
+    "W14I-E05",
+    "W14I-E06",
+    "W14I-E07",
+    "W14I-E10",
+    "W14I-E12",
+    "W14I-E15",
+    "W14I-E16",
+    "W14I-E20",
+    "W14I-E24"
+  ],
+  "files": [
+    "research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_DISCOVERIES.md",
+    "research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_METHODS.md",
+    "research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_SOURCE_NOTES.md"
+  ]
+}

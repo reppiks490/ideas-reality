@@ -180,6 +180,17 @@
       "canonical_edges": "W13H-E01..W13H-E24",
       "canonical_methods": "W13H-M01..W13H-M20",
       "canonical_sources": "W13H-D01..W13H-D10"
+    },
+    "W14I": {
+      "sources": [
+        "research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_DISCOVERIES.md",
+        "research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_METHODS.md",
+        "research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W14I-E01..W14I-E25",
+      "canonical_methods": "W14I-M01..W14I-M20",
+      "canonical_sources": "W14I-D01..W14I-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

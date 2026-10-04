@@ -226,3 +226,15 @@ W13H uses canonical IDs directly:
 - edges W13H-E01 through W13H-E24
 - methods W13H-M01 through W13H-M20
 - sources W13H-D01 through W13H-D10
+
+
+### W14I — Critical infrastructure / chokepoints wave
+Sources:
+- `research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_DISCOVERIES.md`
+- `research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_METHODS.md`
+- `research/WAVE_14_INFRASTRUCTURE_CHOKEPOINTS_SOURCE_NOTES.md`
+
+W14I uses canonical IDs directly:
+- edges W14I-E01 through W14I-E25
+- methods W14I-M01 through W14I-M20
+- sources W14I-D01 through W14I-D10
