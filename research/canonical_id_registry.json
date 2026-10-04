@@ -510,6 +510,17 @@
       "canonical_edges": "W39F-E01..W39F-E34",
       "canonical_methods": "W39F-M01..W39F-M20",
       "canonical_sources": "W39F-D01..W39F-D10"
+    },
+    "W40B": {
+      "sources": [
+        "research/WAVE_40_BORDER_DETENTION_DISCOVERIES.md",
+        "research/WAVE_40_BORDER_DETENTION_METHODS.md",
+        "research/WAVE_40_BORDER_DETENTION_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W40B-E01..W40B-E34",
+      "canonical_methods": "W40B-M01..W40B-M20",
+      "canonical_sources": "W40B-D01..W40B-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

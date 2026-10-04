@@ -586,3 +586,15 @@ W39F uses canonical IDs directly:
 - edges W39F-E01 through W39F-E34
 - methods W39F-M01 through W39F-M20
 - sources W39F-D01 through W39F-D10
+
+
+### W40B — Border detention / import-release wave
+Sources:
+- `research/WAVE_40_BORDER_DETENTION_DISCOVERIES.md`
+- `research/WAVE_40_BORDER_DETENTION_METHODS.md`
+- `research/WAVE_40_BORDER_DETENTION_SOURCE_NOTES.md`
+
+W40B uses canonical IDs directly:
+- edges W40B-E01 through W40B-E34
+- methods W40B-M01 through W40B-M20
+- sources W40B-D01 through W40B-D10

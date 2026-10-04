@@ -1,0 +1,26 @@
+{
+  "namespace": "W40B",
+  "title": "Border Detention & Import Release Risk",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W40B-E01..W40B-E34",
+  "methods": "W40B-M01..W40B-M20",
+  "sources": "W40B-D01..W40B-D10",
+  "priority": [
+    "W40B-E02",
+    "W40B-E05",
+    "W40B-E09",
+    "W40B-E10",
+    "W40B-E15",
+    "W40B-E19",
+    "W40B-E21",
+    "W40B-E28",
+    "W40B-E31",
+    "W40B-E34"
+  ],
+  "files": [
+    "research/WAVE_40_BORDER_DETENTION_DISCOVERIES.md",
+    "research/WAVE_40_BORDER_DETENTION_METHODS.md",
+    "research/WAVE_40_BORDER_DETENTION_SOURCE_NOTES.md"
+  ]
+}
