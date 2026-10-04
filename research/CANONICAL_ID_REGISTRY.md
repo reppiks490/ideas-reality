@@ -829,3 +829,15 @@ W59P uses canonical IDs directly:
 - edges W59P-E01 through W59P-E25
 - methods W59P-M01 through W59P-M20
 - sources W59P-D01 through W59P-D10
+
+
+### W60V — Vehicle defect / recall / production-spillover wave
+Sources:
+- `research/WAVE_60_VEHICLE_RECALL_DISCOVERIES.md`
+- `research/WAVE_60_VEHICLE_RECALL_METHODS.md`
+- `research/WAVE_60_VEHICLE_RECALL_SOURCE_NOTES.md`
+
+W60V uses canonical IDs directly:
+- edges W60V-E01 through W60V-E32
+- methods W60V-M01 through W60V-M20
+- sources W60V-D01 through W60V-D10

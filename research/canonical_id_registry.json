@@ -732,6 +732,17 @@
       "canonical_edges": "W59P-E01..W59P-E25",
       "canonical_methods": "W59P-M01..W59P-M20",
       "canonical_sources": "W59P-D01..W59P-D10"
+    },
+    "W60V": {
+      "sources": [
+        "research/WAVE_60_VEHICLE_RECALL_DISCOVERIES.md",
+        "research/WAVE_60_VEHICLE_RECALL_METHODS.md",
+        "research/WAVE_60_VEHICLE_RECALL_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W60V-E01..W60V-E32",
+      "canonical_methods": "W60V-M01..W60V-M20",
+      "canonical_sources": "W60V-D01..W60V-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

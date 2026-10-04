@@ -1,0 +1,26 @@
+{
+  "namespace": "W60V",
+  "title": "Vehicle Defect, Recall & Production Spillover",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W60V-E01..W60V-E32",
+  "methods": "W60V-M01..W60V-M20",
+  "sources": "W60V-D01..W60V-D10",
+  "priority": [
+    "W60V-E02",
+    "W60V-E04",
+    "W60V-E08",
+    "W60V-E10",
+    "W60V-E13",
+    "W60V-E15",
+    "W60V-E18",
+    "W60V-E25",
+    "W60V-E27",
+    "W60V-E29"
+  ],
+  "files": [
+    "research/WAVE_60_VEHICLE_RECALL_DISCOVERIES.md",
+    "research/WAVE_60_VEHICLE_RECALL_METHODS.md",
+    "research/WAVE_60_VEHICLE_RECALL_SOURCE_NOTES.md"
+  ]
+}
