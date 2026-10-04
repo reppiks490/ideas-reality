@@ -721,3 +721,15 @@ W50T uses canonical IDs directly:
 - edges W50T-E01 through W50T-E38
 - methods W50T-M01 through W50T-M20
 - sources W50T-D01 through W50T-D10
+
+
+### W51B — Bankruptcy / court-controlled restructuring wave
+Sources:
+- `research/WAVE_51_BANKRUPTCY_RESTRUCTURING_DISCOVERIES.md`
+- `research/WAVE_51_BANKRUPTCY_RESTRUCTURING_METHODS.md`
+- `research/WAVE_51_BANKRUPTCY_RESTRUCTURING_SOURCE_NOTES.md`
+
+W51B uses canonical IDs directly:
+- edges W51B-E01 through W51B-E40
+- methods W51B-M01 through W51B-M20
+- sources W51B-D01 through W51B-D10

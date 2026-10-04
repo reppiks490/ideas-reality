@@ -1,0 +1,26 @@
+{
+  "namespace": "W51B",
+  "title": "Bankruptcy & Court-Controlled Restructuring",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W51B-E01..W51B-E40",
+  "methods": "W51B-M01..W51B-M20",
+  "sources": "W51B-D01..W51B-D10",
+  "priority": [
+    "W51B-E03",
+    "W51B-E04",
+    "W51B-E06",
+    "W51B-E07",
+    "W51B-E14",
+    "W51B-E18",
+    "W51B-E26",
+    "W51B-E30",
+    "W51B-E35",
+    "W51B-E36"
+  ],
+  "files": [
+    "research/WAVE_51_BANKRUPTCY_RESTRUCTURING_DISCOVERIES.md",
+    "research/WAVE_51_BANKRUPTCY_RESTRUCTURING_METHODS.md",
+    "research/WAVE_51_BANKRUPTCY_RESTRUCTURING_SOURCE_NOTES.md"
+  ]
+}

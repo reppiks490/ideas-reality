@@ -633,6 +633,17 @@
       "canonical_edges": "W50T-E01..W50T-E38",
       "canonical_methods": "W50T-M01..W50T-M20",
       "canonical_sources": "W50T-D01..W50T-D10"
+    },
+    "W51B": {
+      "sources": [
+        "research/WAVE_51_BANKRUPTCY_RESTRUCTURING_DISCOVERIES.md",
+        "research/WAVE_51_BANKRUPTCY_RESTRUCTURING_METHODS.md",
+        "research/WAVE_51_BANKRUPTCY_RESTRUCTURING_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W51B-E01..W51B-E40",
+      "canonical_methods": "W51B-M01..W51B-M20",
+      "canonical_sources": "W51B-D01..W51B-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
