@@ -284,7 +284,7 @@ Priority: S-
 
 ## W13H-E17 — Communications Recovery Half-Life
 
-FCC reports can be issued daily during DIRS activations.
+FCC communications-status reports are event-driven. During some DIRS activations the FCC has issued daily updates, but daily cadence is not guaranteed; no report is UNKNOWN, not zero.
 
 Measure:
 peak cell-site outage

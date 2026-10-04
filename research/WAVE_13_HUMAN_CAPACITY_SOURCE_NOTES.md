@@ -9,7 +9,7 @@ https://www.dol.gov/general/topic/termination/plantclosings
 
 Federal WARN generally requires covered employers to provide at least 60 calendar days advance notice for qualifying events, with statutory/regulatory exceptions.
 
-There is no single complete federal public WARN event database. Research must ingest official state workforce-agency publications individually.
+There is no single complete federal public WARN event database. Research must ingest official state workforce-agency publications individually and measure each state's posting latency; the federal 60-day notice rule does not imply 60 days of public-market lead.
 
 ## W13H-D02 — Official State WARN Publications
 Examples differ by state in schema and revision handling.
@@ -79,7 +79,7 @@ cable/wireline subscribers out,
 911/PSAP impact,
 broadcast status.
 
-During active events the FCC has published daily updates until deactivation.
+During some active events the FCC has published daily updates until deactivation. Treat cadence as event-specific and preserve each public report time; absence of a new report is not evidence of no outage.
 
 ## W13H-D10 — Public Infrastructure Cross-Checks
 Use W13H together with existing repo sources:

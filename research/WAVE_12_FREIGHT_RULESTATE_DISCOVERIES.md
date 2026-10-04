@@ -12,7 +12,7 @@ Primary source:
 U.S. Customs and Border Protection Border Wait Times.
 
 Status:
-LIVE public operational data.
+PUBLIC_WEB/OPERATIONAL. Use the source update timestamp and measured first-seen latency; "current" does not imply a guaranteed machine-feed SLA.
 
 CBP publishes commercial-vehicle wait state by land port/crossing, including General and FAST lanes where available, open lanes, operating hours and update timestamps.
 
@@ -119,7 +119,7 @@ Primary source:
 USDA Agricultural Marketing Service Livestock Mandatory Reporting API/DataMart.
 
 Status:
-LIVE public mandatory market reporting.
+PUBLIC_SCHEDULED / INTRADAY BY REPORT. Use each LMPR report's actual published timestamp; do not treat the statutory reporting obligation as continuous live dissemination.
 
 Official API exposes reports including 5-Area Daily Weighted Average Direct Slaughter Cattle — Negotiated.
 

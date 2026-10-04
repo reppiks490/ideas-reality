@@ -12,7 +12,7 @@ NRC provides current and historical unit-level daily power status. NRC notes dat
 Primary:
 https://www.nrc.gov/reading-rm/doc-collections/event-status/event/
 
-Event reports include notification/event timestamps, facility/unit, power/mode, reportability category, narrative and updates. Filter to power-relevant reactor events; the event feed also contains non-power nuclear/material events.
+Event reports include notification/event timestamps, facility/unit, power/mode, reportability category, narrative and updates. Filter to power-relevant reactor events; the event feed also contains non-power nuclear/material events. The licensee notification timestamp is not automatically the public-web timestamp; archive first public appearance/updates separately.
 
 ## W14I-D03 — Bureau of Reclamation RISE
 Primary:

@@ -32,10 +32,13 @@ RAMP_UP.
 
 Priority: S
 
-## W14I-E02 — Reactor Scram / Trip First Alert
+## W14I-E02 — Reactor Scram / Trip Public Event-Notification Candidate
 
 Primary source:
 NRC Event Notification Reports.
+
+Availability rule:
+The report can become public before the next daily reactor-status snapshot, but public-posting latency is event-specific. Use NRC publication/first-seen time; do not assume the event/notification clock is simultaneously public.
 
 Event reports contain:
 event time,
