@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX06",
+  "title": "Future Grid Supply/Demand Realization",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX06-E01..RDX06-E40",
+  "priority": [
+    "RDX06-E03",
+    "RDX06-E05",
+    "RDX06-E12",
+    "RDX06-E16",
+    "RDX06-E18",
+    "RDX06-E21",
+    "RDX06-E26",
+    "RDX06-E29",
+    "RDX06-E33",
+    "RDX06-E40"
+  ]
+}
