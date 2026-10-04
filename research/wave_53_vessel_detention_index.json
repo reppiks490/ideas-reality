@@ -1,0 +1,26 @@
+{
+  "namespace": "W53V",
+  "title": "Vessel Detention & Maritime Eligibility",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W53V-E01..W53V-E34",
+  "methods": "W53V-M01..W53V-M20",
+  "sources": "W53V-D01..W53V-D10",
+  "priority": [
+    "W53V-E02",
+    "W53V-E03",
+    "W53V-E06",
+    "W53V-E10",
+    "W53V-E16",
+    "W53V-E22",
+    "W53V-E26",
+    "W53V-E29",
+    "W53V-E32",
+    "W53V-E33"
+  ],
+  "files": [
+    "research/WAVE_53_VESSEL_DETENTION_DISCOVERIES.md",
+    "research/WAVE_53_VESSEL_DETENTION_METHODS.md",
+    "research/WAVE_53_VESSEL_DETENTION_SOURCE_NOTES.md"
+  ]
+}

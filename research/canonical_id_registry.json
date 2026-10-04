@@ -655,6 +655,17 @@
       "canonical_edges": "W52P-E01..W52P-E36",
       "canonical_methods": "W52P-M01..W52P-M20",
       "canonical_sources": "W52P-D01..W52P-D10"
+    },
+    "W53V": {
+      "sources": [
+        "research/WAVE_53_VESSEL_DETENTION_DISCOVERIES.md",
+        "research/WAVE_53_VESSEL_DETENTION_METHODS.md",
+        "research/WAVE_53_VESSEL_DETENTION_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W53V-E01..W53V-E34",
+      "canonical_methods": "W53V-M01..W53V-M20",
+      "canonical_sources": "W53V-D01..W53V-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

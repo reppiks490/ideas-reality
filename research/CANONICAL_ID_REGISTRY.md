@@ -745,3 +745,15 @@ W52P uses canonical IDs directly:
 - edges W52P-E01 through W52P-E36
 - methods W52P-M01 through W52P-M20
 - sources W52P-D01 through W52P-D10
+
+
+### W53V — Vessel detention / maritime-eligibility wave
+Sources:
+- `research/WAVE_53_VESSEL_DETENTION_DISCOVERIES.md`
+- `research/WAVE_53_VESSEL_DETENTION_METHODS.md`
+- `research/WAVE_53_VESSEL_DETENTION_SOURCE_NOTES.md`
+
+W53V uses canonical IDs directly:
+- edges W53V-E01 through W53V-E34
+- methods W53V-M01 through W53V-M20
+- sources W53V-D01 through W53V-D10
