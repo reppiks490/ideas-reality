@@ -1,0 +1,26 @@
+{
+  "namespace": "W56G",
+  "title": "Global Bullion Geography & Fungibility",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W56G-E01..W56G-E58",
+  "methods": "W56G-M01..W56G-M30",
+  "sources": "W56G-D01..W56G-D15",
+  "priority": [
+    "W56G-E03",
+    "W56G-E08",
+    "W56G-E15",
+    "W56G-E20",
+    "W56G-E24",
+    "W56G-E27",
+    "W56G-E30",
+    "W56G-E45",
+    "W56G-E52",
+    "W56G-E53"
+  ],
+  "files": [
+    "research/WAVE_56_GLOBAL_BULLION_DISCOVERIES.md",
+    "research/WAVE_56_GLOBAL_BULLION_METHODS.md",
+    "research/WAVE_56_GLOBAL_BULLION_SOURCE_NOTES.md"
+  ]
+}

@@ -688,6 +688,17 @@
       "canonical_edges": "W55T-E01..W55T-E58",
       "canonical_methods": "W55T-M01..W55T-M25",
       "canonical_sources": "W55T-D01..W55T-D12"
+    },
+    "W56G": {
+      "sources": [
+        "research/WAVE_56_GLOBAL_BULLION_DISCOVERIES.md",
+        "research/WAVE_56_GLOBAL_BULLION_METHODS.md",
+        "research/WAVE_56_GLOBAL_BULLION_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W56G-E01..W56G-E58",
+      "canonical_methods": "W56G-M01..W56G-M30",
+      "canonical_sources": "W56G-D01..W56G-D15"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

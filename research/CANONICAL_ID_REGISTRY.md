@@ -781,3 +781,15 @@ W55T uses canonical IDs directly:
 - edges W55T-E01 through W55T-E58
 - methods W55T-M01 through W55T-M25
 - sources W55T-D01 through W55T-D12
+
+
+### W56G — Global bullion geography / fungibility wave
+Sources:
+- `research/WAVE_56_GLOBAL_BULLION_DISCOVERIES.md`
+- `research/WAVE_56_GLOBAL_BULLION_METHODS.md`
+- `research/WAVE_56_GLOBAL_BULLION_SOURCE_NOTES.md`
+
+W56G uses canonical IDs directly:
+- edges W56G-E01 through W56G-E58
+- methods W56G-M01 through W56G-M30
+- sources W56G-D01 through W56G-D15
