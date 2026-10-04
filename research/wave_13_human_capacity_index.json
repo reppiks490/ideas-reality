@@ -1,0 +1,26 @@
+{
+  "namespace": "W13H",
+  "title": "Human Capacity & Communications Resilience",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W13H-E01..W13H-E24",
+  "methods": "W13H-M01..W13H-M20",
+  "sources": "W13H-D01..W13H-D10",
+  "priority": [
+    "W13H-E01",
+    "W13H-E05",
+    "W13H-E07",
+    "W13H-E08",
+    "W13H-E10",
+    "W13H-E12",
+    "W13H-E15",
+    "W13H-E16",
+    "W13H-E19",
+    "W13H-E21"
+  ],
+  "files": [
+    "research/WAVE_13_HUMAN_CAPACITY_DISCOVERIES.md",
+    "research/WAVE_13_HUMAN_CAPACITY_METHODS.md",
+    "research/WAVE_13_HUMAN_CAPACITY_SOURCE_NOTES.md"
+  ]
+}

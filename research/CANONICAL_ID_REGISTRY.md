@@ -214,3 +214,15 @@ W12F uses canonical IDs directly:
 - edges W12F-E01 through W12F-E22
 - methods W12F-M01 through W12F-M20
 - sources W12F-D01 through W12F-D10
+
+
+### W13H — Human capacity / communications resilience wave
+Sources:
+- `research/WAVE_13_HUMAN_CAPACITY_DISCOVERIES.md`
+- `research/WAVE_13_HUMAN_CAPACITY_METHODS.md`
+- `research/WAVE_13_HUMAN_CAPACITY_SOURCE_NOTES.md`
+
+W13H uses canonical IDs directly:
+- edges W13H-E01 through W13H-E24
+- methods W13H-M01 through W13H-M20
+- sources W13H-D01 through W13H-D10

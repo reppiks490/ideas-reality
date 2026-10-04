@@ -169,6 +169,17 @@
       "canonical_edges": "W12F-E01..W12F-E22",
       "canonical_methods": "W12F-M01..W12F-M20",
       "canonical_sources": "W12F-D01..W12F-D10"
+    },
+    "W13H": {
+      "sources": [
+        "research/WAVE_13_HUMAN_CAPACITY_DISCOVERIES.md",
+        "research/WAVE_13_HUMAN_CAPACITY_METHODS.md",
+        "research/WAVE_13_HUMAN_CAPACITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W13H-E01..W13H-E24",
+      "canonical_methods": "W13H-M01..W13H-M20",
+      "canonical_sources": "W13H-D01..W13H-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
