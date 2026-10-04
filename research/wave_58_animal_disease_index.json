@@ -1,0 +1,26 @@
+{
+  "namespace": "W58A",
+  "title": "Animal Disease & Biological Capacity Loss",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W58A-E01..W58A-E32",
+  "methods": "W58A-M01..W58A-M20",
+  "sources": "W58A-D01..W58A-D10",
+  "priority": [
+    "W58A-E02",
+    "W58A-E06",
+    "W58A-E07",
+    "W58A-E08",
+    "W58A-E10",
+    "W58A-E16",
+    "W58A-E21",
+    "W58A-E22",
+    "W58A-E26",
+    "W58A-E30"
+  ],
+  "files": [
+    "research/WAVE_58_ANIMAL_DISEASE_DISCOVERIES.md",
+    "research/WAVE_58_ANIMAL_DISEASE_METHODS.md",
+    "research/WAVE_58_ANIMAL_DISEASE_SOURCE_NOTES.md"
+  ]
+}

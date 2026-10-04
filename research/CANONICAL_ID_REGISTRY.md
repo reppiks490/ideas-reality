@@ -805,3 +805,15 @@ W57L uses canonical IDs directly:
 - edges W57L-E01 through W57L-E32
 - methods W57L-M01 through W57L-M20
 - sources W57L-D01 through W57L-D10
+
+
+### W58A — Animal disease / biological capacity-loss wave
+Sources:
+- `research/WAVE_58_ANIMAL_DISEASE_DISCOVERIES.md`
+- `research/WAVE_58_ANIMAL_DISEASE_METHODS.md`
+- `research/WAVE_58_ANIMAL_DISEASE_SOURCE_NOTES.md`
+
+W58A uses canonical IDs directly:
+- edges W58A-E01 through W58A-E32
+- methods W58A-M01 through W58A-M20
+- sources W58A-D01 through W58A-D10

@@ -710,6 +710,17 @@
       "canonical_edges": "W57L-E01..W57L-E32",
       "canonical_methods": "W57L-M01..W57L-M20",
       "canonical_sources": "W57L-D01..W57L-D10"
+    },
+    "W58A": {
+      "sources": [
+        "research/WAVE_58_ANIMAL_DISEASE_DISCOVERIES.md",
+        "research/WAVE_58_ANIMAL_DISEASE_METHODS.md",
+        "research/WAVE_58_ANIMAL_DISEASE_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W58A-E01..W58A-E32",
+      "canonical_methods": "W58A-M01..W58A-M20",
+      "canonical_sources": "W58A-D01..W58A-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
