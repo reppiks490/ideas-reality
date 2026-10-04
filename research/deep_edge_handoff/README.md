@@ -13,3 +13,4 @@ Rules:
 
 Packets:
 - RDX01 — Defect Emergence & Recall Mechanics
+- RDX02 — Medical Device Vigilance & Remediation
