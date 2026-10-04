@@ -499,6 +499,17 @@
       "canonical_edges": "W38O-E01..W38O-E34",
       "canonical_methods": "W38O-M01..W38O-M20",
       "canonical_sources": "W38O-D01..W38O-D10"
+    },
+    "W39F": {
+      "sources": [
+        "research/WAVE_39_FUND_FRAGILITY_DISCOVERIES.md",
+        "research/WAVE_39_FUND_FRAGILITY_METHODS.md",
+        "research/WAVE_39_FUND_FRAGILITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W39F-E01..W39F-E34",
+      "canonical_methods": "W39F-M01..W39F-M20",
+      "canonical_sources": "W39F-D01..W39F-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

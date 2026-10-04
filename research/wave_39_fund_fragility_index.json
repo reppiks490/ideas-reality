@@ -1,0 +1,26 @@
+{
+  "namespace": "W39F",
+  "title": "Fund Fragility & Fire-Sale Transmission",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W39F-E01..W39F-E34",
+  "methods": "W39F-M01..W39F-M20",
+  "sources": "W39F-D01..W39F-D10",
+  "priority": [
+    "W39F-E01",
+    "W39F-E04",
+    "W39F-E05",
+    "W39F-E06",
+    "W39F-E11",
+    "W39F-E14",
+    "W39F-E16",
+    "W39F-E21",
+    "W39F-E26",
+    "W39F-E33"
+  ],
+  "files": [
+    "research/WAVE_39_FUND_FRAGILITY_DISCOVERIES.md",
+    "research/WAVE_39_FUND_FRAGILITY_METHODS.md",
+    "research/WAVE_39_FUND_FRAGILITY_SOURCE_NOTES.md"
+  ]
+}

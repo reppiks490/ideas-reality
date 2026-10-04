@@ -574,3 +574,15 @@ W38O uses canonical IDs directly:
 - edges W38O-E01 through W38O-E34
 - methods W38O-M01 through W38O-M20
 - sources W38O-D01 through W38O-D10
+
+
+### W39F — Fund fragility / fire-sale transmission wave
+Sources:
+- `research/WAVE_39_FUND_FRAGILITY_DISCOVERIES.md`
+- `research/WAVE_39_FUND_FRAGILITY_METHODS.md`
+- `research/WAVE_39_FUND_FRAGILITY_SOURCE_NOTES.md`
+
+W39F uses canonical IDs directly:
+- edges W39F-E01 through W39F-E34
+- methods W39F-M01 through W39F-M20
+- sources W39F-D01 through W39F-D10
