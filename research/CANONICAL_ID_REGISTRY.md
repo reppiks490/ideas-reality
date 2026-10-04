@@ -793,3 +793,15 @@ W56G uses canonical IDs directly:
 - edges W56G-E01 through W56G-E58
 - methods W56G-M01 through W56G-M30
 - sources W56G-D01 through W56G-D15
+
+
+### W57L — LNG commissioning / feedgas step-change wave
+Sources:
+- `research/WAVE_57_LNG_COMMISSIONING_DISCOVERIES.md`
+- `research/WAVE_57_LNG_COMMISSIONING_METHODS.md`
+- `research/WAVE_57_LNG_COMMISSIONING_SOURCE_NOTES.md`
+
+W57L uses canonical IDs directly:
+- edges W57L-E01 through W57L-E32
+- methods W57L-M01 through W57L-M20
+- sources W57L-D01 through W57L-D10

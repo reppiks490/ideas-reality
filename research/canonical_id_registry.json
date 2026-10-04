@@ -699,6 +699,17 @@
       "canonical_edges": "W56G-E01..W56G-E58",
       "canonical_methods": "W56G-M01..W56G-M30",
       "canonical_sources": "W56G-D01..W56G-D15"
+    },
+    "W57L": {
+      "sources": [
+        "research/WAVE_57_LNG_COMMISSIONING_DISCOVERIES.md",
+        "research/WAVE_57_LNG_COMMISSIONING_METHODS.md",
+        "research/WAVE_57_LNG_COMMISSIONING_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W57L-E01..W57L-E32",
+      "canonical_methods": "W57L-M01..W57L-M20",
+      "canonical_sources": "W57L-D01..W57L-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

@@ -1,0 +1,26 @@
+{
+  "namespace": "W57L",
+  "title": "LNG Commissioning & Feedgas Step-Change",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W57L-E01..W57L-E32",
+  "methods": "W57L-M01..W57L-M20",
+  "sources": "W57L-D01..W57L-D10",
+  "priority": [
+    "W57L-E02",
+    "W57L-E03",
+    "W57L-E10",
+    "W57L-E12",
+    "W57L-E15",
+    "W57L-E16",
+    "W57L-E17",
+    "W57L-E27",
+    "W57L-E28",
+    "W57L-E32"
+  ],
+  "files": [
+    "research/WAVE_57_LNG_COMMISSIONING_DISCOVERIES.md",
+    "research/WAVE_57_LNG_COMMISSIONING_METHODS.md",
+    "research/WAVE_57_LNG_COMMISSIONING_SOURCE_NOTES.md"
+  ]
+}
