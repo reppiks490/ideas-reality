@@ -202,6 +202,17 @@
       "canonical_edges": "W15X-E01..W15X-E25",
       "canonical_methods": "W15X-M01..W15X-M20",
       "canonical_sources": "W15X-D01..W15X-D10"
+    },
+    "W16S": {
+      "sources": [
+        "research/WAVE_16_SERVICE_DEGRADATION_DISCOVERIES.md",
+        "research/WAVE_16_SERVICE_DEGRADATION_METHODS.md",
+        "research/WAVE_16_SERVICE_DEGRADATION_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W16S-E01..W16S-E27",
+      "canonical_methods": "W16S-M01..W16S-M20",
+      "canonical_sources": "W16S-D01..W16S-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

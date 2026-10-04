@@ -1,0 +1,26 @@
+{
+  "namespace": "W16S",
+  "title": "Service Degradation & Administrative Throughput",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W16S-E01..W16S-E27",
+  "methods": "W16S-M01..W16S-M20",
+  "sources": "W16S-D01..W16S-D10",
+  "priority": [
+    "W16S-E03",
+    "W16S-E04",
+    "W16S-E06",
+    "W16S-E10",
+    "W16S-E11",
+    "W16S-E16",
+    "W16S-E18",
+    "W16S-E20",
+    "W16S-E21",
+    "W16S-E26"
+  ],
+  "files": [
+    "research/WAVE_16_SERVICE_DEGRADATION_DISCOVERIES.md",
+    "research/WAVE_16_SERVICE_DEGRADATION_METHODS.md",
+    "research/WAVE_16_SERVICE_DEGRADATION_SOURCE_NOTES.md"
+  ]
+}

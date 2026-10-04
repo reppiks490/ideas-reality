@@ -250,3 +250,15 @@ W15X uses canonical IDs directly:
 - edges W15X-E01 through W15X-E25
 - methods W15X-M01 through W15X-M20
 - sources W15X-D01 through W15X-D10
+
+
+### W16S — Service degradation / administrative throughput wave
+Sources:
+- `research/WAVE_16_SERVICE_DEGRADATION_DISCOVERIES.md`
+- `research/WAVE_16_SERVICE_DEGRADATION_METHODS.md`
+- `research/WAVE_16_SERVICE_DEGRADATION_SOURCE_NOTES.md`
+
+W16S uses canonical IDs directly:
+- edges W16S-E01 through W16S-E27
+- methods W16S-M01 through W16S-M20
+- sources W16S-D01 through W16S-D10
