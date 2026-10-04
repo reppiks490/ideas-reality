@@ -1,0 +1,26 @@
+{
+  "namespace": "W32R",
+  "title": "Reality Gap & Cross-Layer Contradiction",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W32R-E01..W32R-E36",
+  "methods": "W32R-M01..W32R-M20",
+  "sources": "W32R-D01..W32R-D10",
+  "priority": [
+    "W32R-E01",
+    "W32R-E04",
+    "W32R-E05",
+    "W32R-E07",
+    "W32R-E09",
+    "W32R-E23",
+    "W32R-E25",
+    "W32R-E28",
+    "W32R-E30",
+    "W32R-E33"
+  ],
+  "files": [
+    "research/WAVE_32_REALITY_GAP_DISCOVERIES.md",
+    "research/WAVE_32_REALITY_GAP_METHODS.md",
+    "research/WAVE_32_REALITY_GAP_SOURCE_NOTES.md"
+  ]
+}

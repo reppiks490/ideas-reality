@@ -478,3 +478,15 @@ W31F uses canonical IDs directly:
 - edges W31F-E01 through W31F-E32
 - methods W31F-M01 through W31F-M20
 - sources W31F-D01 through W31F-D10
+
+
+### W32R — Reality gap / cross-layer contradiction wave
+Sources:
+- `research/WAVE_32_REALITY_GAP_DISCOVERIES.md`
+- `research/WAVE_32_REALITY_GAP_METHODS.md`
+- `research/WAVE_32_REALITY_GAP_SOURCE_NOTES.md`
+
+W32R uses canonical IDs directly:
+- edges W32R-E01 through W32R-E36
+- methods W32R-M01 through W32R-M20
+- sources W32R-D01 through W32R-D10
