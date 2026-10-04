@@ -1,0 +1,26 @@
+{
+  "namespace": "W44I",
+  "title": "IP Exclusion & Import-Access State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W44I-E01..W44I-E32",
+  "methods": "W44I-M01..W44I-M18",
+  "sources": "W44I-D01..W44I-D10",
+  "priority": [
+    "W44I-E03",
+    "W44I-E05",
+    "W44I-E09",
+    "W44I-E10",
+    "W44I-E13",
+    "W44I-E20",
+    "W44I-E24",
+    "W44I-E27",
+    "W44I-E30",
+    "W44I-E31"
+  ],
+  "files": [
+    "research/WAVE_44_IP_EXCLUSION_DISCOVERIES.md",
+    "research/WAVE_44_IP_EXCLUSION_METHODS.md",
+    "research/WAVE_44_IP_EXCLUSION_SOURCE_NOTES.md"
+  ]
+}

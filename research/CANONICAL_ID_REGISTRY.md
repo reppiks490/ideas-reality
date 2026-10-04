@@ -637,3 +637,15 @@ W43B uses canonical IDs directly:
 - edges W43B-E01 through W43B-E32
 - methods W43B-M01 through W43B-M18
 - sources W43B-D01 through W43B-D10
+
+
+### W44I — IP exclusion / import-access wave
+Sources:
+- `research/WAVE_44_IP_EXCLUSION_DISCOVERIES.md`
+- `research/WAVE_44_IP_EXCLUSION_METHODS.md`
+- `research/WAVE_44_IP_EXCLUSION_SOURCE_NOTES.md`
+
+W44I uses canonical IDs directly:
+- edges W44I-E01 through W44I-E32
+- methods W44I-M01 through W44I-M18
+- sources W44I-D01 through W44I-D10

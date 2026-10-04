@@ -556,6 +556,17 @@
       "canonical_edges": "W43B-E01..W43B-E32",
       "canonical_methods": "W43B-M01..W43B-M18",
       "canonical_sources": "W43B-D01..W43B-D10"
+    },
+    "W44I": {
+      "sources": [
+        "research/WAVE_44_IP_EXCLUSION_DISCOVERIES.md",
+        "research/WAVE_44_IP_EXCLUSION_METHODS.md",
+        "research/WAVE_44_IP_EXCLUSION_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W44I-E01..W44I-E32",
+      "canonical_methods": "W44I-M01..W44I-M18",
+      "canonical_sources": "W44I-D01..W44I-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
