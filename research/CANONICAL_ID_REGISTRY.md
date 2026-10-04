@@ -346,3 +346,15 @@ W23T uses canonical IDs directly:
 - edges W23T-E01 through W23T-E32
 - methods W23T-M01 through W23T-M20
 - sources W23T-D01 through W23T-D10
+
+
+### W24A — Generation availability / forced-outage scarcity wave
+Sources:
+- `research/WAVE_24_GENERATION_AVAILABILITY_DISCOVERIES.md`
+- `research/WAVE_24_GENERATION_AVAILABILITY_METHODS.md`
+- `research/WAVE_24_GENERATION_AVAILABILITY_SOURCE_NOTES.md`
+
+W24A uses canonical IDs directly:
+- edges W24A-E01 through W24A-E32
+- methods W24A-M01 through W24A-M20
+- sources W24A-D01 through W24A-D10

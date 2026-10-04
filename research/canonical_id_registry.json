@@ -290,6 +290,17 @@
       "canonical_edges": "W23T-E01..W23T-E32",
       "canonical_methods": "W23T-M01..W23T-M20",
       "canonical_sources": "W23T-D01..W23T-D10"
+    },
+    "W24A": {
+      "sources": [
+        "research/WAVE_24_GENERATION_AVAILABILITY_DISCOVERIES.md",
+        "research/WAVE_24_GENERATION_AVAILABILITY_METHODS.md",
+        "research/WAVE_24_GENERATION_AVAILABILITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W24A-E01..W24A-E32",
+      "canonical_methods": "W24A-M01..W24A-M20",
+      "canonical_sources": "W24A-D01..W24A-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

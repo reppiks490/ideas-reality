@@ -1,0 +1,26 @@
+{
+  "namespace": "W24A",
+  "title": "Generation Availability & Forced-Outage Scarcity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W24A-E01..W24A-E32",
+  "methods": "W24A-M01..W24A-M20",
+  "sources": "W24A-D01..W24A-D10",
+  "priority": [
+    "W24A-E02",
+    "W24A-E07",
+    "W24A-E09",
+    "W24A-E10",
+    "W24A-E13",
+    "W24A-E16",
+    "W24A-E23",
+    "W24A-E25",
+    "W24A-E29",
+    "W24A-E30"
+  ],
+  "files": [
+    "research/WAVE_24_GENERATION_AVAILABILITY_DISCOVERIES.md",
+    "research/WAVE_24_GENERATION_AVAILABILITY_METHODS.md",
+    "research/WAVE_24_GENERATION_AVAILABILITY_SOURCE_NOTES.md"
+  ]
+}
