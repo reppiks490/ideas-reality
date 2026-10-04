@@ -1,0 +1,26 @@
+{
+  "namespace": "W28M",
+  "title": "Mine Withdrawal & Forced Capacity Loss",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W28M-E01..W28M-E25",
+  "methods": "W28M-M01..W28M-M20",
+  "sources": "W28M-D01..W28M-D10",
+  "priority": [
+    "W28M-E01",
+    "W28M-E02",
+    "W28M-E04",
+    "W28M-E05",
+    "W28M-E08",
+    "W28M-E13",
+    "W28M-E15",
+    "W28M-E18",
+    "W28M-E20",
+    "W28M-E24"
+  ],
+  "files": [
+    "research/WAVE_28_MINE_WITHDRAWAL_DISCOVERIES.md",
+    "research/WAVE_28_MINE_WITHDRAWAL_METHODS.md",
+    "research/WAVE_28_MINE_WITHDRAWAL_SOURCE_NOTES.md"
+  ]
+}

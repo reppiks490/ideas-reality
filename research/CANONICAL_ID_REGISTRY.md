@@ -418,3 +418,15 @@ W27V uses canonical IDs directly:
 - edges W27V-E01 through W27V-E35
 - methods W27V-M01 through W27V-M20
 - sources W27V-D01 through W27V-D10
+
+
+### W28M — Mine withdrawal / forced capacity-loss wave
+Sources:
+- `research/WAVE_28_MINE_WITHDRAWAL_DISCOVERIES.md`
+- `research/WAVE_28_MINE_WITHDRAWAL_METHODS.md`
+- `research/WAVE_28_MINE_WITHDRAWAL_SOURCE_NOTES.md`
+
+W28M uses canonical IDs directly:
+- edges W28M-E01 through W28M-E25
+- methods W28M-M01 through W28M-M20
+- sources W28M-D01 through W28M-D10
