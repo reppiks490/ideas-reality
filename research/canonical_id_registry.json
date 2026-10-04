@@ -534,6 +534,17 @@
       "canonical_edges": "W41M-E01..W41M-E44",
       "canonical_methods": "W41M-M01..W41M-M20",
       "canonical_sources": "W41M-D01..W41M-D10"
+    },
+    "W42G": {
+      "sources": [
+        "research/WAVE_42_GOVERNMENT_PROCUREMENT_DISCOVERIES.md",
+        "research/WAVE_42_GOVERNMENT_PROCUREMENT_METHODS.md",
+        "research/WAVE_42_GOVERNMENT_PROCUREMENT_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W42G-E01..W42G-E32",
+      "canonical_methods": "W42G-M01..W42G-M18",
+      "canonical_sources": "W42G-D01..W42G-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

@@ -613,3 +613,15 @@ W41M uses canonical IDs directly:
 - edges W41M-E01 through W41M-E44
 - methods W41M-M01 through W41M-M20
 - sources W41M-D01 through W41M-D10
+
+
+### W42G — Government procurement award / protest-state wave
+Sources:
+- `research/WAVE_42_GOVERNMENT_PROCUREMENT_DISCOVERIES.md`
+- `research/WAVE_42_GOVERNMENT_PROCUREMENT_METHODS.md`
+- `research/WAVE_42_GOVERNMENT_PROCUREMENT_SOURCE_NOTES.md`
+
+W42G uses canonical IDs directly:
+- edges W42G-E01 through W42G-E32
+- methods W42G-M01 through W42G-M18
+- sources W42G-D01 through W42G-D10

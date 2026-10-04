@@ -1,0 +1,26 @@
+{
+  "namespace": "W42G",
+  "title": "Government Procurement Award & Protest State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W42G-E01..W42G-E32",
+  "methods": "W42G-M01..W42G-M18",
+  "sources": "W42G-D01..W42G-D10",
+  "priority": [
+    "W42G-E02",
+    "W42G-E05",
+    "W42G-E06",
+    "W42G-E08",
+    "W42G-E09",
+    "W42G-E13",
+    "W42G-E20",
+    "W42G-E27",
+    "W42G-E28",
+    "W42G-E31"
+  ],
+  "files": [
+    "research/WAVE_42_GOVERNMENT_PROCUREMENT_DISCOVERIES.md",
+    "research/WAVE_42_GOVERNMENT_PROCUREMENT_METHODS.md",
+    "research/WAVE_42_GOVERNMENT_PROCUREMENT_SOURCE_NOTES.md"
+  ]
+}
