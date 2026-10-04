@@ -913,3 +913,15 @@ W66D uses canonical IDs directly:
 - edges W66D-E01 through W66D-E32
 - methods W66D-M01 through W66D-M20
 - sources W66D-D01 through W66D-D10
+
+
+### W67N — Nuclear reactor operational / regulatory-state wave
+Sources:
+- `research/WAVE_67_NUCLEAR_REACTOR_STATE_DISCOVERIES.md`
+- `research/WAVE_67_NUCLEAR_REACTOR_STATE_METHODS.md`
+- `research/WAVE_67_NUCLEAR_REACTOR_STATE_SOURCE_NOTES.md`
+
+W67N uses canonical IDs directly:
+- edges W67N-E01 through W67N-E32
+- methods W67N-M01 through W67N-M20
+- sources W67N-D01 through W67N-D10

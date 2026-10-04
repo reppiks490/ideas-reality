@@ -1,0 +1,26 @@
+{
+  "namespace": "W67N",
+  "title": "Nuclear Reactor Operational & Regulatory State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W67N-E01..W67N-E32",
+  "methods": "W67N-M01..W67N-M20",
+  "sources": "W67N-D01..W67N-D10",
+  "priority": [
+    "W67N-E02",
+    "W67N-E04",
+    "W67N-E08",
+    "W67N-E09",
+    "W67N-E11",
+    "W67N-E13",
+    "W67N-E18",
+    "W67N-E24",
+    "W67N-E29",
+    "W67N-E31"
+  ],
+  "files": [
+    "research/WAVE_67_NUCLEAR_REACTOR_STATE_DISCOVERIES.md",
+    "research/WAVE_67_NUCLEAR_REACTOR_STATE_METHODS.md",
+    "research/WAVE_67_NUCLEAR_REACTOR_STATE_SOURCE_NOTES.md"
+  ]
+}
