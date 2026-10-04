@@ -1,0 +1,26 @@
+{
+  "namespace": "W66D",
+  "title": "Medical Device Safety, Recall & Procedure Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W66D-E01..W66D-E32",
+  "methods": "W66D-M01..W66D-M20",
+  "sources": "W66D-D01..W66D-D10",
+  "priority": [
+    "W66D-E01",
+    "W66D-E03",
+    "W66D-E07",
+    "W66D-E08",
+    "W66D-E13",
+    "W66D-E17",
+    "W66D-E19",
+    "W66D-E23",
+    "W66D-E26",
+    "W66D-E32"
+  ],
+  "files": [
+    "research/WAVE_66_MEDICAL_DEVICE_SAFETY_DISCOVERIES.md",
+    "research/WAVE_66_MEDICAL_DEVICE_SAFETY_METHODS.md",
+    "research/WAVE_66_MEDICAL_DEVICE_SAFETY_SOURCE_NOTES.md"
+  ]
+}

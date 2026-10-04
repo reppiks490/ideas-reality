@@ -901,3 +901,15 @@ W65D uses canonical IDs directly:
 - edges W65D-E01 through W65D-E36
 - methods W65D-M01 through W65D-M20
 - sources W65D-D01 through W65D-D10
+
+
+### W66D — Medical device safety / recall / procedure-capacity wave
+Sources:
+- `research/WAVE_66_MEDICAL_DEVICE_SAFETY_DISCOVERIES.md`
+- `research/WAVE_66_MEDICAL_DEVICE_SAFETY_METHODS.md`
+- `research/WAVE_66_MEDICAL_DEVICE_SAFETY_SOURCE_NOTES.md`
+
+W66D uses canonical IDs directly:
+- edges W66D-E01 through W66D-E32
+- methods W66D-M01 through W66D-M20
+- sources W66D-D01 through W66D-D10
