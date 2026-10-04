@@ -136,6 +136,17 @@
       "canonical_edges": "W11S-E01..W11S-E23",
       "canonical_methods": "W11S-M01..W11S-M20",
       "canonical_sources": "W11S-D01..W11S-D08"
+    },
+    "W11C": {
+      "sources": [
+        "research/WAVE_11_COMMITMENT_CONVEXITY_DISCOVERIES.md",
+        "research/WAVE_11_COMMITMENT_CONVEXITY_METHODS.md",
+        "research/WAVE_11_COMMITMENT_CONVEXITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W11C-E01..W11C-E22",
+      "canonical_methods": "W11C-M01..W11C-M20",
+      "canonical_sources": "W11C-D01..W11C-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

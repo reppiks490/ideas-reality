@@ -1,0 +1,26 @@
+{
+  "namespace": "W11C",
+  "title": "Mandatory Commitments & Convexity",
+  "purpose": "research staging only; Claude owns ICARUS implementation",
+  "canonical_native": true,
+  "edges": "W11C-E01..W11C-E22",
+  "methods": "W11C-M01..W11C-M20",
+  "sources": "W11C-D01..W11C-D10",
+  "priority": [
+    "W11C-E01",
+    "W11C-E04",
+    "W11C-E05",
+    "W11C-E06",
+    "W11C-E09",
+    "W11C-E11",
+    "W11C-E12",
+    "W11C-E16",
+    "W11C-E19",
+    "W11C-E22"
+  ],
+  "files": [
+    "research/WAVE_11_COMMITMENT_CONVEXITY_DISCOVERIES.md",
+    "research/WAVE_11_COMMITMENT_CONVEXITY_METHODS.md",
+    "research/WAVE_11_COMMITMENT_CONVEXITY_SOURCE_NOTES.md"
+  ]
+}

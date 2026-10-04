@@ -179,3 +179,15 @@ W9C uses canonical IDs directly:
 - edges W9C-E01 through W9C-E20
 - methods W9C-M01 through W9C-M20
 - sources W9C-D01 through W9C-D10
+
+
+### W11C — Mandatory commitments / convexity wave
+Sources:
+- `research/WAVE_11_COMMITMENT_CONVEXITY_DISCOVERIES.md`
+- `research/WAVE_11_COMMITMENT_CONVEXITY_METHODS.md`
+- `research/WAVE_11_COMMITMENT_CONVEXITY_SOURCE_NOTES.md`
+
+W11C uses canonical IDs directly:
+- edges W11C-E01 through W11C-E22
+- methods W11C-M01 through W11C-M20
+- sources W11C-D01 through W11C-D10
