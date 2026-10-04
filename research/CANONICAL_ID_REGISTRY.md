@@ -87,6 +87,17 @@ W7T uses canonical IDs directly:
 - methods W7T-M01 through W7T-M20
 - sources W7T-D01 through W7T-D12
 
+### W8M — Mechanical flow / pre-trade intent wave
+Sources:
+- `research/WAVE_8_MECHANICAL_FLOWS_DISCOVERIES.md`
+- `research/WAVE_8_MECHANICAL_FLOWS_METHODS.md`
+- `research/WAVE_8_MECHANICAL_FLOWS_SOURCE_NOTES.md`
+
+W8M uses canonical IDs directly:
+- edges W8M-E01 through W8M-E24
+- methods W8M-M01 through W8M-M20
+- sources W8M-D01 through W8M-D08
+
 ## Durable identity
 
 The durable machine key should be:

@@ -1,0 +1,39 @@
+{
+  "namespace": "W8M",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "Form 144 pre-trade intent",
+    "Treasury cash flows",
+    "USDA cash markets",
+    "PJM/ERCOT grid scarcity",
+    "public swap transaction reporting"
+  ],
+  "edges": "W8M-E01..W8M-E24",
+  "methods": "W8M-M01..W8M-M20",
+  "sources": "W8M-D01..W8M-D08",
+  "top_priority": [
+    "W8M-E01",
+    "W8M-E02",
+    "W8M-E06",
+    "W8M-E08",
+    "W8M-E11",
+    "W8M-E15",
+    "W8M-E17",
+    "W8M-E20",
+    "W8M-E21",
+    "W8M-E24"
+  ],
+  "files": [
+    "research/WAVE_8_MECHANICAL_FLOWS_DISCOVERIES.md",
+    "research/WAVE_8_MECHANICAL_FLOWS_METHODS.md",
+    "research/WAVE_8_MECHANICAL_FLOWS_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "proposal is not execution",
+    "execution time is not public availability time",
+    "capped swap notionals are censored observations",
+    "cash-futures basis requires contract-quality-location matching",
+    "no ICARUS implementation from this repo"
+  ]
+}

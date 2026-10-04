@@ -81,6 +81,17 @@
       "canonical_edges": "W8R-E01..W8R-E20",
       "canonical_methods": "W8R-M01..W8R-M20",
       "canonical_sources": "W8R-D01..W8R-D10"
+    },
+    "W8M": {
+      "sources": [
+        "research/WAVE_8_MECHANICAL_FLOWS_DISCOVERIES.md",
+        "research/WAVE_8_MECHANICAL_FLOWS_METHODS.md",
+        "research/WAVE_8_MECHANICAL_FLOWS_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W8M-E01..W8M-E24",
+      "canonical_methods": "W8M-M01..W8M-M20",
+      "canonical_sources": "W8M-D01..W8M-D08"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
