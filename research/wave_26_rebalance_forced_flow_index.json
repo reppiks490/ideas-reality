@@ -1,0 +1,26 @@
+{
+  "namespace": "W26R",
+  "title": "Benchmark Rebalance & Forced Flow",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W26R-E01..W26R-E32",
+  "methods": "W26R-M01..W26R-M20",
+  "sources": "W26R-D01..W26R-D10",
+  "priority": [
+    "W26R-E03",
+    "W26R-E04",
+    "W26R-E07",
+    "W26R-E09",
+    "W26R-E12",
+    "W26R-E14",
+    "W26R-E19",
+    "W26R-E22",
+    "W26R-E25",
+    "W26R-E32"
+  ],
+  "files": [
+    "research/WAVE_26_REBALANCE_FORCED_FLOW_DISCOVERIES.md",
+    "research/WAVE_26_REBALANCE_FORCED_FLOW_METHODS.md",
+    "research/WAVE_26_REBALANCE_FORCED_FLOW_SOURCE_NOTES.md"
+  ]
+}

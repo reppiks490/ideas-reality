@@ -394,3 +394,15 @@ W25C uses canonical IDs directly:
 - edges W25C-E01 through W25C-E28
 - methods W25C-M01 through W25C-M20
 - sources W25C-D01 through W25C-D10
+
+
+### W26R — Benchmark rebalance / forced-flow wave
+Sources:
+- `research/WAVE_26_REBALANCE_FORCED_FLOW_DISCOVERIES.md`
+- `research/WAVE_26_REBALANCE_FORCED_FLOW_METHODS.md`
+- `research/WAVE_26_REBALANCE_FORCED_FLOW_SOURCE_NOTES.md`
+
+W26R uses canonical IDs directly:
+- edges W26R-E01 through W26R-E32
+- methods W26R-M01 through W26R-M20
+- sources W26R-D01 through W26R-D10

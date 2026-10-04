@@ -334,6 +334,17 @@
       "canonical_edges": "W25C-E01..W25C-E28",
       "canonical_methods": "W25C-M01..W25C-M20",
       "canonical_sources": "W25C-D01..W25C-D10"
+    },
+    "W26R": {
+      "sources": [
+        "research/WAVE_26_REBALANCE_FORCED_FLOW_DISCOVERIES.md",
+        "research/WAVE_26_REBALANCE_FORCED_FLOW_METHODS.md",
+        "research/WAVE_26_REBALANCE_FORCED_FLOW_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W26R-E01..W26R-E32",
+      "canonical_methods": "W26R-M01..W26R-M20",
+      "canonical_sources": "W26R-D01..W26R-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
