@@ -1,0 +1,26 @@
+{
+  "namespace": "W43B",
+  "title": "Bank Regulatory Constraint & Capital State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W43B-E01..W43B-E32",
+  "methods": "W43B-M01..W43B-M18",
+  "sources": "W43B-D01..W43B-D10",
+  "priority": [
+    "W43B-E03",
+    "W43B-E05",
+    "W43B-E08",
+    "W43B-E11",
+    "W43B-E14",
+    "W43B-E18",
+    "W43B-E21",
+    "W43B-E24",
+    "W43B-E29",
+    "W43B-E31"
+  ],
+  "files": [
+    "research/WAVE_43_BANK_REGULATORY_DISCOVERIES.md",
+    "research/WAVE_43_BANK_REGULATORY_METHODS.md",
+    "research/WAVE_43_BANK_REGULATORY_SOURCE_NOTES.md"
+  ]
+}

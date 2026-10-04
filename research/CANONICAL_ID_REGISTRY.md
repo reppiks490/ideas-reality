@@ -625,3 +625,15 @@ W42G uses canonical IDs directly:
 - edges W42G-E01 through W42G-E32
 - methods W42G-M01 through W42G-M18
 - sources W42G-D01 through W42G-D10
+
+
+### W43B — Bank regulatory constraint / capital-state wave
+Sources:
+- `research/WAVE_43_BANK_REGULATORY_DISCOVERIES.md`
+- `research/WAVE_43_BANK_REGULATORY_METHODS.md`
+- `research/WAVE_43_BANK_REGULATORY_SOURCE_NOTES.md`
+
+W43B uses canonical IDs directly:
+- edges W43B-E01 through W43B-E32
+- methods W43B-M01 through W43B-M18
+- sources W43B-D01 through W43B-D10

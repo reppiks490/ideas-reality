@@ -545,6 +545,17 @@
       "canonical_edges": "W42G-E01..W42G-E32",
       "canonical_methods": "W42G-M01..W42G-M18",
       "canonical_sources": "W42G-D01..W42G-D10"
+    },
+    "W43B": {
+      "sources": [
+        "research/WAVE_43_BANK_REGULATORY_DISCOVERIES.md",
+        "research/WAVE_43_BANK_REGULATORY_METHODS.md",
+        "research/WAVE_43_BANK_REGULATORY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W43B-E01..W43B-E32",
+      "canonical_methods": "W43B-M01..W43B-M18",
+      "canonical_sources": "W43B-D01..W43B-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
