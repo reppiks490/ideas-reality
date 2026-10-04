@@ -442,3 +442,15 @@ W29L uses canonical IDs directly:
 - edges W29L-E01 through W29L-E28
 - methods W29L-M01 through W29L-M20
 - sources W29L-D01 through W29L-D10
+
+
+### W30W — Industrial water / thermal capacity wave
+Sources:
+- `research/WAVE_30_INDUSTRIAL_WATER_DISCOVERIES.md`
+- `research/WAVE_30_INDUSTRIAL_WATER_METHODS.md`
+- `research/WAVE_30_INDUSTRIAL_WATER_SOURCE_NOTES.md`
+
+W30W uses canonical IDs directly:
+- edges W30W-E01 through W30W-E28
+- methods W30W-M01 through W30W-M20
+- sources W30W-D01 through W30W-D10

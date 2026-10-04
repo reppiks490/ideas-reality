@@ -1,0 +1,26 @@
+{
+  "namespace": "W30W",
+  "title": "Industrial Water Constraint & Thermal Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W30W-E01..W30W-E28",
+  "methods": "W30W-M01..W30W-M20",
+  "sources": "W30W-D01..W30W-D10",
+  "priority": [
+    "W30W-E01",
+    "W30W-E03",
+    "W30W-E04",
+    "W30W-E07",
+    "W30W-E08",
+    "W30W-E11",
+    "W30W-E14",
+    "W30W-E17",
+    "W30W-E25",
+    "W30W-E28"
+  ],
+  "files": [
+    "research/WAVE_30_INDUSTRIAL_WATER_DISCOVERIES.md",
+    "research/WAVE_30_INDUSTRIAL_WATER_METHODS.md",
+    "research/WAVE_30_INDUSTRIAL_WATER_SOURCE_NOTES.md"
+  ]
+}

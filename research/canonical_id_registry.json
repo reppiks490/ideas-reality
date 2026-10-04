@@ -378,6 +378,17 @@
       "canonical_edges": "W29L-E01..W29L-E28",
       "canonical_methods": "W29L-M01..W29L-M20",
       "canonical_sources": "W29L-D01..W29L-D10"
+    },
+    "W30W": {
+      "sources": [
+        "research/WAVE_30_INDUSTRIAL_WATER_DISCOVERIES.md",
+        "research/WAVE_30_INDUSTRIAL_WATER_METHODS.md",
+        "research/WAVE_30_INDUSTRIAL_WATER_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W30W-E01..W30W-E28",
+      "canonical_methods": "W30W-M01..W30W-M20",
+      "canonical_sources": "W30W-D01..W30W-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
