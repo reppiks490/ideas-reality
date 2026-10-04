@@ -1,0 +1,26 @@
+{
+  "namespace": "W31F",
+  "title": "Animal Processing & Protein Supply Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W31F-E01..W31F-E32",
+  "methods": "W31F-M01..W31F-M20",
+  "sources": "W31F-D01..W31F-D10",
+  "priority": [
+    "W31F-E01",
+    "W31F-E04",
+    "W31F-E05",
+    "W31F-E07",
+    "W31F-E09",
+    "W31F-E14",
+    "W31F-E20",
+    "W31F-E24",
+    "W31F-E29",
+    "W31F-E32"
+  ],
+  "files": [
+    "research/WAVE_31_ANIMAL_PROCESSING_DISCOVERIES.md",
+    "research/WAVE_31_ANIMAL_PROCESSING_METHODS.md",
+    "research/WAVE_31_ANIMAL_PROCESSING_SOURCE_NOTES.md"
+  ]
+}

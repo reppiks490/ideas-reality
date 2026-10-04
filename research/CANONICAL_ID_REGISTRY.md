@@ -466,3 +466,15 @@ W31C uses canonical IDs directly:
 - edges W31C-E01 through W31C-E26
 - methods W31C-M01 through W31C-M20
 - sources W31C-D01 through W31C-D10
+
+
+### W31F — Animal processing / protein supply-capacity wave
+Sources:
+- `research/WAVE_31_ANIMAL_PROCESSING_DISCOVERIES.md`
+- `research/WAVE_31_ANIMAL_PROCESSING_METHODS.md`
+- `research/WAVE_31_ANIMAL_PROCESSING_SOURCE_NOTES.md`
+
+W31F uses canonical IDs directly:
+- edges W31F-E01 through W31F-E32
+- methods W31F-M01 through W31F-M20
+- sources W31F-D01 through W31F-D10
