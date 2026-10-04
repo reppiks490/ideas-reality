@@ -406,3 +406,15 @@ W26R uses canonical IDs directly:
 - edges W26R-E01 through W26R-E32
 - methods W26R-M01 through W26R-M20
 - sources W26R-D01 through W26R-D10
+
+
+### W27V — Volatility constraint / reopening mechanics wave
+Sources:
+- `research/WAVE_27_VOLATILITY_CONSTRAINT_DISCOVERIES.md`
+- `research/WAVE_27_VOLATILITY_CONSTRAINT_METHODS.md`
+- `research/WAVE_27_VOLATILITY_CONSTRAINT_SOURCE_NOTES.md`
+
+W27V uses canonical IDs directly:
+- edges W27V-E01 through W27V-E35
+- methods W27V-M01 through W27V-M20
+- sources W27V-D01 through W27V-D10

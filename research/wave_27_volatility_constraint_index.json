@@ -1,0 +1,26 @@
+{
+  "namespace": "W27V",
+  "title": "Volatility Constraint & Reopening Mechanics",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W27V-E01..W27V-E35",
+  "methods": "W27V-M01..W27V-M20",
+  "sources": "W27V-D01..W27V-D10",
+  "priority": [
+    "W27V-E02",
+    "W27V-E05",
+    "W27V-E06",
+    "W27V-E11",
+    "W27V-E13",
+    "W27V-E15",
+    "W27V-E24",
+    "W27V-E25",
+    "W27V-E31",
+    "W27V-E32"
+  ],
+  "files": [
+    "research/WAVE_27_VOLATILITY_CONSTRAINT_DISCOVERIES.md",
+    "research/WAVE_27_VOLATILITY_CONSTRAINT_METHODS.md",
+    "research/WAVE_27_VOLATILITY_CONSTRAINT_SOURCE_NOTES.md"
+  ]
+}
