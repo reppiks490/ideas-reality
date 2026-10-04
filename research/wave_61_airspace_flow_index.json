@@ -1,0 +1,26 @@
+{
+  "namespace": "W61F",
+  "title": "Airspace Flow & Airport Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W61F-E01..W61F-E29",
+  "methods": "W61F-M01..W61F-M20",
+  "sources": "W61F-D01..W61F-D10",
+  "priority": [
+    "W61F-E03",
+    "W61F-E04",
+    "W61F-E06",
+    "W61F-E10",
+    "W61F-E11",
+    "W61F-E13",
+    "W61F-E14",
+    "W61F-E18",
+    "W61F-E24",
+    "W61F-E28"
+  ],
+  "files": [
+    "research/WAVE_61_AIRSPACE_FLOW_DISCOVERIES.md",
+    "research/WAVE_61_AIRSPACE_FLOW_METHODS.md",
+    "research/WAVE_61_AIRSPACE_FLOW_SOURCE_NOTES.md"
+  ]
+}

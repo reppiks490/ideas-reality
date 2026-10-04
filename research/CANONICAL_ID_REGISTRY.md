@@ -841,3 +841,15 @@ W60V uses canonical IDs directly:
 - edges W60V-E01 through W60V-E32
 - methods W60V-M01 through W60V-M20
 - sources W60V-D01 through W60V-D10
+
+
+### W61F — Airspace flow / airport-capacity wave
+Sources:
+- `research/WAVE_61_AIRSPACE_FLOW_DISCOVERIES.md`
+- `research/WAVE_61_AIRSPACE_FLOW_METHODS.md`
+- `research/WAVE_61_AIRSPACE_FLOW_SOURCE_NOTES.md`
+
+W61F uses canonical IDs directly:
+- edges W61F-E01 through W61F-E29
+- methods W61F-M01 through W61F-M20
+- sources W61F-D01 through W61F-D10
