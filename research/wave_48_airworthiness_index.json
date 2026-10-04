@@ -1,0 +1,26 @@
+{
+  "namespace": "W48A",
+  "title": "Airworthiness & Fleet Availability",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W48A-E01..W48A-E35",
+  "methods": "W48A-M01..W48A-M20",
+  "sources": "W48A-D01..W48A-D10",
+  "priority": [
+    "W48A-E02",
+    "W48A-E05",
+    "W48A-E10",
+    "W48A-E12",
+    "W48A-E16",
+    "W48A-E19",
+    "W48A-E22",
+    "W48A-E23",
+    "W48A-E27",
+    "W48A-E33"
+  ],
+  "files": [
+    "research/WAVE_48_AIRWORTHINESS_DISCOVERIES.md",
+    "research/WAVE_48_AIRWORTHINESS_METHODS.md",
+    "research/WAVE_48_AIRWORTHINESS_SOURCE_NOTES.md"
+  ]
+}

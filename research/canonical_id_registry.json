@@ -600,6 +600,17 @@
       "canonical_edges": "W47S-E01..W47S-E38",
       "canonical_methods": "W47S-M01..W47S-M20",
       "canonical_sources": "W47S-D01..W47S-D10"
+    },
+    "W48A": {
+      "sources": [
+        "research/WAVE_48_AIRWORTHINESS_DISCOVERIES.md",
+        "research/WAVE_48_AIRWORTHINESS_METHODS.md",
+        "research/WAVE_48_AIRWORTHINESS_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W48A-E01..W48A-E35",
+      "canonical_methods": "W48A-M01..W48A-M20",
+      "canonical_sources": "W48A-D01..W48A-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

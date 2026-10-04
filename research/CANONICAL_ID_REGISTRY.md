@@ -685,3 +685,15 @@ W47S uses canonical IDs directly:
 - edges W47S-E01 through W47S-E38
 - methods W47S-M01 through W47S-M20
 - sources W47S-D01 through W47S-D10
+
+
+### W48A — Airworthiness / fleet-availability wave
+Sources:
+- `research/WAVE_48_AIRWORTHINESS_DISCOVERIES.md`
+- `research/WAVE_48_AIRWORTHINESS_METHODS.md`
+- `research/WAVE_48_AIRWORTHINESS_SOURCE_NOTES.md`
+
+W48A uses canonical IDs directly:
+- edges W48A-E01 through W48A-E35
+- methods W48A-M01 through W48A-M20
+- sources W48A-D01 through W48A-D10
