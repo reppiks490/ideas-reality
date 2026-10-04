@@ -1,0 +1,26 @@
+{
+  "namespace": "W68R",
+  "title": "Renewable Fuel Compliance & RIN Balance",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W68R-E01..W68R-E42",
+  "methods": "W68R-M01..W68R-M20",
+  "sources": "W68R-D01..W68R-D10",
+  "priority": [
+    "W68R-E04",
+    "W68R-E06",
+    "W68R-E09",
+    "W68R-E14",
+    "W68R-E18",
+    "W68R-E20",
+    "W68R-E23",
+    "W68R-E28",
+    "W68R-E36",
+    "W68R-E40"
+  ],
+  "files": [
+    "research/WAVE_68_RFS_COMPLIANCE_DISCOVERIES.md",
+    "research/WAVE_68_RFS_COMPLIANCE_METHODS.md",
+    "research/WAVE_68_RFS_COMPLIANCE_SOURCE_NOTES.md"
+  ]
+}

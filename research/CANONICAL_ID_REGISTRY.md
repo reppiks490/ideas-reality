@@ -925,3 +925,15 @@ W67N uses canonical IDs directly:
 - edges W67N-E01 through W67N-E32
 - methods W67N-M01 through W67N-M20
 - sources W67N-D01 through W67N-D10
+
+
+### W68R — Renewable fuel compliance / RIN-balance wave
+Sources:
+- `research/WAVE_68_RFS_COMPLIANCE_DISCOVERIES.md`
+- `research/WAVE_68_RFS_COMPLIANCE_METHODS.md`
+- `research/WAVE_68_RFS_COMPLIANCE_SOURCE_NOTES.md`
+
+W68R uses canonical IDs directly:
+- edges W68R-E01 through W68R-E42
+- methods W68R-M01 through W68R-M20
+- sources W68R-D01 through W68R-D10

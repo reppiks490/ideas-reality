@@ -820,6 +820,17 @@
       "canonical_edges": "W67N-E01..W67N-E32",
       "canonical_methods": "W67N-M01..W67N-M20",
       "canonical_sources": "W67N-D01..W67N-D10"
+    },
+    "W68R": {
+      "sources": [
+        "research/WAVE_68_RFS_COMPLIANCE_DISCOVERIES.md",
+        "research/WAVE_68_RFS_COMPLIANCE_METHODS.md",
+        "research/WAVE_68_RFS_COMPLIANCE_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W68R-E01..W68R-E42",
+      "canonical_methods": "W68R-M01..W68R-M20",
+      "canonical_sources": "W68R-D01..W68R-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
