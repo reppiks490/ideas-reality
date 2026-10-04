@@ -301,6 +301,17 @@
       "canonical_edges": "W24A-E01..W24A-E32",
       "canonical_methods": "W24A-M01..W24A-M20",
       "canonical_sources": "W24A-D01..W24A-D10"
+    },
+    "W24M": {
+      "sources": [
+        "research/WAVE_24_MARINE_OPERABILITY_DISCOVERIES.md",
+        "research/WAVE_24_MARINE_OPERABILITY_METHODS.md",
+        "research/WAVE_24_MARINE_OPERABILITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W24M-E01..W24M-E30",
+      "canonical_methods": "W24M-M01..W24M-M20",
+      "canonical_sources": "W24M-D01..W24M-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

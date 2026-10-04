@@ -358,3 +358,15 @@ W24A uses canonical IDs directly:
 - edges W24A-E01 through W24A-E32
 - methods W24A-M01 through W24A-M20
 - sources W24A-D01 through W24A-D10
+
+
+### W24M — Marine operability / navigable capacity wave
+Sources:
+- `research/WAVE_24_MARINE_OPERABILITY_DISCOVERIES.md`
+- `research/WAVE_24_MARINE_OPERABILITY_METHODS.md`
+- `research/WAVE_24_MARINE_OPERABILITY_SOURCE_NOTES.md`
+
+W24M uses canonical IDs directly:
+- edges W24M-E01 through W24M-E30
+- methods W24M-M01 through W24M-M20
+- sources W24M-D01 through W24M-D10
