@@ -1,0 +1,42 @@
+{
+  "namespace": "W6N",
+  "generated_at": "2026-10-04",
+  "status": "research only; Claude owns ICARUS implementation",
+  "themes": [
+    "NQ semiconductor fundamentals",
+    "gold physical flows",
+    "corporate credit",
+    "federal procurement",
+    "Gulf energy",
+    "sanctions/export controls"
+  ],
+  "edges": "W6N-E01..W6N-E36",
+  "methods": "W6N-M01..W6N-M30",
+  "sources": "W6N-D01..W6N-D16",
+  "top_priority": [
+    "W6N-E01",
+    "W6N-E02",
+    "W6N-E05",
+    "W6N-E07",
+    "W6N-E09",
+    "W6N-E10",
+    "W6N-E11",
+    "W6N-E15",
+    "W6N-E17",
+    "W6N-E19",
+    "W6N-E25",
+    "W6N-E33"
+  ],
+  "files": [
+    "research/WAVE_6_NQ_GOLD_DISCOVERIES.md",
+    "research/WAVE_6_NQ_GOLD_METHODS.md",
+    "research/WAVE_6_NQ_GOLD_SOURCE_NOTES.md"
+  ],
+  "invariants": [
+    "no implementation in ICARUS from this repo",
+    "every candidate is falsifiable and unproven until promoted",
+    "published_time must be <= decision_time",
+    "vintages are immutable",
+    "legacy global IDs are never used as cross-file keys"
+  ]
+}
