@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX08",
+  "title": "Well Realization & Future Hydrocarbon Supply",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX08-E01..RDX08-E48",
+  "priority": [
+    "RDX08-E04",
+    "RDX08-E10",
+    "RDX08-E14",
+    "RDX08-E15",
+    "RDX08-E21",
+    "RDX08-E24",
+    "RDX08-E28",
+    "RDX08-E35",
+    "RDX08-E44",
+    "RDX08-E48"
+  ]
+}

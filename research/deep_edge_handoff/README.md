@@ -19,3 +19,4 @@ Packets:
 - RDX05 — Manufacturing Quality & Regulatory Capacity Risk
 - RDX06 — Future Grid Supply/Demand Realization
 - RDX07 — Aircraft Transfer & Fleet Realization
+- RDX08 — Well Realization & Future Hydrocarbon Supply
