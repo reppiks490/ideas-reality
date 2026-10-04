@@ -1,0 +1,37 @@
+{
+  "repository": "reppiks490/ideas-reality",
+  "purpose": "research staging vault; no ICARUS implementation",
+  "generated_at": "2026-10-04",
+  "owner_boundary": "Claude owns ICARUS implementation and repo engineering",
+  "counts": {
+    "edge_candidates": 40,
+    "watchlist_candidates": 3,
+    "data_sources": 40,
+    "composite_concepts": 20,
+    "negative_controls": 30
+  },
+  "top_priority_edges": [
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E08",
+    "E11",
+    "E13",
+    "E15",
+    "E20",
+    "E26"
+  ],
+  "source_status_corrections": {
+    "FINRA_SLATE": "WATCH: launch extended to 2028-09-28; not live",
+    "FINRA_TREASURY_TRACE": "LIVE: public next-day transaction-level on-the-run nominal coupon data; daily aggregates also available"
+  },
+  "files": [
+    "CLAUDE_HANDOFF.md",
+    "research/EDGE_ATLAS.md",
+    "research/DATA_SOURCE_REGISTRY.md",
+    "research/COMPOSITE_SYSTEM_CONCEPTS.md",
+    "research/RESEARCH_PROTOCOL.md",
+    "research/NEGATIVE_CONTROLS.md"
+  ]
+}
