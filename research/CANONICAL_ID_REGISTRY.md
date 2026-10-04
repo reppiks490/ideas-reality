@@ -877,3 +877,15 @@ W63M uses canonical IDs directly:
 - edges W63M-E01 through W63M-E36
 - methods W63M-M01 through W63M-M20
 - sources W63M-D01 through W63M-D10
+
+
+### W64F — Food safety enforcement / processing-capacity wave
+Sources:
+- `research/WAVE_64_FOOD_SAFETY_CAPACITY_DISCOVERIES.md`
+- `research/WAVE_64_FOOD_SAFETY_CAPACITY_METHODS.md`
+- `research/WAVE_64_FOOD_SAFETY_CAPACITY_SOURCE_NOTES.md`
+
+W64F uses canonical IDs directly:
+- edges W64F-E01 through W64F-E32
+- methods W64F-M01 through W64F-M20
+- sources W64F-D01 through W64F-D10

@@ -776,6 +776,17 @@
       "canonical_edges": "W63M-E01..W63M-E36",
       "canonical_methods": "W63M-M01..W63M-M20",
       "canonical_sources": "W63M-D01..W63M-D10"
+    },
+    "W64F": {
+      "sources": [
+        "research/WAVE_64_FOOD_SAFETY_CAPACITY_DISCOVERIES.md",
+        "research/WAVE_64_FOOD_SAFETY_CAPACITY_METHODS.md",
+        "research/WAVE_64_FOOD_SAFETY_CAPACITY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W64F-E01..W64F-E32",
+      "canonical_methods": "W64F-M01..W64F-M20",
+      "canonical_sources": "W64F-D01..W64F-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

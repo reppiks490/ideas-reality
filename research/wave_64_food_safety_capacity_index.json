@@ -1,0 +1,26 @@
+{
+  "namespace": "W64F",
+  "title": "Food Safety Enforcement & Processing Capacity",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W64F-E01..W64F-E32",
+  "methods": "W64F-M01..W64F-M20",
+  "sources": "W64F-D01..W64F-D10",
+  "priority": [
+    "W64F-E04",
+    "W64F-E05",
+    "W64F-E10",
+    "W64F-E11",
+    "W64F-E13",
+    "W64F-E17",
+    "W64F-E19",
+    "W64F-E21",
+    "W64F-E29",
+    "W64F-E30"
+  ],
+  "files": [
+    "research/WAVE_64_FOOD_SAFETY_CAPACITY_DISCOVERIES.md",
+    "research/WAVE_64_FOOD_SAFETY_CAPACITY_METHODS.md",
+    "research/WAVE_64_FOOD_SAFETY_CAPACITY_SOURCE_NOTES.md"
+  ]
+}
