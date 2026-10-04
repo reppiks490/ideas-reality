@@ -1,0 +1,26 @@
+{
+  "namespace": "W38O",
+  "title": "OTC Derivatives Risk Transfer",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W38O-E01..W38O-E34",
+  "methods": "W38O-M01..W38O-M20",
+  "sources": "W38O-D01..W38O-D10",
+  "priority": [
+    "W38O-E01",
+    "W38O-E04",
+    "W38O-E07",
+    "W38O-E10",
+    "W38O-E14",
+    "W38O-E16",
+    "W38O-E19",
+    "W38O-E21",
+    "W38O-E26",
+    "W38O-E32"
+  ],
+  "files": [
+    "research/WAVE_38_OTC_DERIVATIVES_DISCOVERIES.md",
+    "research/WAVE_38_OTC_DERIVATIVES_METHODS.md",
+    "research/WAVE_38_OTC_DERIVATIVES_SOURCE_NOTES.md"
+  ]
+}

@@ -562,3 +562,15 @@ W37O uses canonical IDs directly:
 - edges W37O-E01 through W37O-E34
 - methods W37O-M01 through W37O-M20
 - sources W37O-D01 through W37O-D10
+
+
+### W38O — OTC derivatives risk-transfer wave
+Sources:
+- `research/WAVE_38_OTC_DERIVATIVES_DISCOVERIES.md`
+- `research/WAVE_38_OTC_DERIVATIVES_METHODS.md`
+- `research/WAVE_38_OTC_DERIVATIVES_SOURCE_NOTES.md`
+
+W38O uses canonical IDs directly:
+- edges W38O-E01 through W38O-E34
+- methods W38O-M01 through W38O-M20
+- sources W38O-D01 through W38O-D10

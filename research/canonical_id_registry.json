@@ -488,6 +488,17 @@
       "canonical_edges": "W37O-E01..W37O-E34",
       "canonical_methods": "W37O-M01..W37O-M20",
       "canonical_sources": "W37O-D01..W37O-D10"
+    },
+    "W38O": {
+      "sources": [
+        "research/WAVE_38_OTC_DERIVATIVES_DISCOVERIES.md",
+        "research/WAVE_38_OTC_DERIVATIVES_METHODS.md",
+        "research/WAVE_38_OTC_DERIVATIVES_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W38O-E01..W38O-E34",
+      "canonical_methods": "W38O-M01..W38O-M20",
+      "canonical_sources": "W38O-D01..W38O-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",
