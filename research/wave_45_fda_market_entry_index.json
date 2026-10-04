@@ -1,0 +1,26 @@
+{
+  "namespace": "W45F",
+  "title": "FDA Review & Market-Entry Clocks",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W45F-E01..W45F-E30",
+  "methods": "W45F-M01..W45F-M18",
+  "sources": "W45F-D01..W45F-D10",
+  "priority": [
+    "W45F-E01",
+    "W45F-E04",
+    "W45F-E06",
+    "W45F-E10",
+    "W45F-E12",
+    "W45F-E14",
+    "W45F-E19",
+    "W45F-E20",
+    "W45F-E23",
+    "W45F-E29"
+  ],
+  "files": [
+    "research/WAVE_45_FDA_MARKET_ENTRY_DISCOVERIES.md",
+    "research/WAVE_45_FDA_MARKET_ENTRY_METHODS.md",
+    "research/WAVE_45_FDA_MARKET_ENTRY_SOURCE_NOTES.md"
+  ]
+}

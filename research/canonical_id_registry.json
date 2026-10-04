@@ -567,6 +567,17 @@
       "canonical_edges": "W44I-E01..W44I-E32",
       "canonical_methods": "W44I-M01..W44I-M18",
       "canonical_sources": "W44I-D01..W44I-D10"
+    },
+    "W45F": {
+      "sources": [
+        "research/WAVE_45_FDA_MARKET_ENTRY_DISCOVERIES.md",
+        "research/WAVE_45_FDA_MARKET_ENTRY_METHODS.md",
+        "research/WAVE_45_FDA_MARKET_ENTRY_SOURCE_NOTES.md"
+      ],
+      "canonical_native": true,
+      "canonical_edges": "W45F-E01..W45F-E30",
+      "canonical_methods": "W45F-M01..W45F-M18",
+      "canonical_sources": "W45F-D01..W45F-D10"
     }
   },
   "durable_key": "canonical_id + source_file + content_hash",

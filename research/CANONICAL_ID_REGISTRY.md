@@ -649,3 +649,15 @@ W44I uses canonical IDs directly:
 - edges W44I-E01 through W44I-E32
 - methods W44I-M01 through W44I-M18
 - sources W44I-D01 through W44I-D10
+
+
+### W45F — FDA review / market-entry clock wave
+Sources:
+- `research/WAVE_45_FDA_MARKET_ENTRY_DISCOVERIES.md`
+- `research/WAVE_45_FDA_MARKET_ENTRY_METHODS.md`
+- `research/WAVE_45_FDA_MARKET_ENTRY_SOURCE_NOTES.md`
+
+W45F uses canonical IDs directly:
+- edges W45F-E01 through W45F-E30
+- methods W45F-M01 through W45F-M18
+- sources W45F-D01 through W45F-D10
