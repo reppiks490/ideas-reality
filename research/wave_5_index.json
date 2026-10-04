@@ -1,0 +1,33 @@
+{
+  "wave": 5,
+  "theme": "physical deliverability offshore energy sanctions money markets options cyber cloud ports tariffs",
+  "ids": {
+    "edges": "E101-E122",
+    "methods": "M71-M90"
+  },
+  "priority": [
+    "E103",
+    "E104",
+    "E101",
+    "E120",
+    "E105",
+    "E107",
+    "E110",
+    "E116",
+    "E118",
+    "E121"
+  ],
+  "key_boundaries": [
+    "N-MFP3 daily observations are only public at monthly filing time",
+    "SEC MIDAS is retrospective/delayed",
+    "full CAT order-level lifecycle data are not public",
+    "BSEE shut-in feed is event-triggered during relevant storms",
+    "CME access/licensing must be reviewed for production"
+  ],
+  "files": [
+    "research/WAVE_5_DISCOVERIES.md",
+    "research/WAVE_5_METHODS.md",
+    "research/WAVE_5_SOURCE_NOTES.md"
+  ],
+  "status": "research only; Claude owns implementation"
+}
