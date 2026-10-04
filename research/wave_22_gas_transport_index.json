@@ -1,0 +1,26 @@
+{
+  "namespace": "W22G",
+  "title": "Gas Transport Constraint & Nomination Exhaust",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W22G-E01..W22G-E31",
+  "methods": "W22G-M01..W22G-M20",
+  "sources": "W22G-D01..W22G-D10",
+  "priority": [
+    "W22G-E02",
+    "W22G-E04",
+    "W22G-E06",
+    "W22G-E07",
+    "W22G-E12",
+    "W22G-E15",
+    "W22G-E17",
+    "W22G-E20",
+    "W22G-E25",
+    "W22G-E30"
+  ],
+  "files": [
+    "research/WAVE_22_GAS_TRANSPORT_DISCOVERIES.md",
+    "research/WAVE_22_GAS_TRANSPORT_METHODS.md",
+    "research/WAVE_22_GAS_TRANSPORT_SOURCE_NOTES.md"
+  ]
+}

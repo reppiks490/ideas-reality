@@ -322,3 +322,15 @@ W21D uses canonical IDs directly:
 - edges W21D-E01 through W21D-E26
 - methods W21D-M01 through W21D-M20
 - sources W21D-D01 through W21D-D10
+
+
+### W22G — Gas transport / nomination exhaust wave
+Sources:
+- `research/WAVE_22_GAS_TRANSPORT_DISCOVERIES.md`
+- `research/WAVE_22_GAS_TRANSPORT_METHODS.md`
+- `research/WAVE_22_GAS_TRANSPORT_SOURCE_NOTES.md`
+
+W22G uses canonical IDs directly:
+- edges W22G-E01 through W22G-E31
+- methods W22G-M01 through W22G-M20
+- sources W22G-D01 through W22G-D10
