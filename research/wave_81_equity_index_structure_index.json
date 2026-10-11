@@ -1,0 +1,26 @@
+{
+  "namespace": "W81E",
+  "title": "Equity Index Structure, Auctions and ETF Plumbing",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W81E-E01..W81E-E57",
+  "methods": "W81E-M01..W81E-M23",
+  "sources": "W81E-D01..W81E-D14",
+  "priority": [
+    "W81E-E05",
+    "W81E-E01",
+    "W81E-E06",
+    "W81E-E13",
+    "W81E-E52",
+    "W81E-E12",
+    "W81E-E36",
+    "W81E-E02",
+    "W81E-E50",
+    "W81E-E24"
+  ],
+  "files": [
+    "research/WAVE_81_EQUITY_INDEX_STRUCTURE_DISCOVERIES.md",
+    "research/WAVE_81_EQUITY_INDEX_STRUCTURE_METHODS.md",
+    "research/WAVE_81_EQUITY_INDEX_STRUCTURE_SOURCE_NOTES.md"
+  ]
+}
