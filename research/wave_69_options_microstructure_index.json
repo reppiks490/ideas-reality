@@ -1,0 +1,26 @@
+{
+  "namespace": "W69O",
+  "title": "Options Microstructure & Dealer-Greeks State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W69O-E01..W69O-E60",
+  "methods": "W69O-M01..W69O-M22",
+  "sources": "W69O-D01..W69O-D12",
+  "priority": [
+    "W69O-E01",
+    "W69O-E05",
+    "W69O-E06",
+    "W69O-E10",
+    "W69O-E33",
+    "W69O-E34",
+    "W69O-E20",
+    "W69O-E22",
+    "W69O-E32",
+    "W69O-E54"
+  ],
+  "files": [
+    "research/WAVE_69_OPTIONS_MICROSTRUCTURE_DISCOVERIES.md",
+    "research/WAVE_69_OPTIONS_MICROSTRUCTURE_METHODS.md",
+    "research/WAVE_69_OPTIONS_MICROSTRUCTURE_SOURCE_NOTES.md"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "namespace": "W75A",
+  "title": "Text, News & Attention-Derived State for Intraday Gating",
+  "purpose": "Text, news and attention-derived state for intraday gating; research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W75A-E01..W75A-E69",
+  "methods": "W75A-M01..W75A-M23",
+  "sources": "W75A-D01..W75A-D15",
+  "priority": [
+    "W75A-E01",
+    "W75A-E16",
+    "W75A-E17",
+    "W75A-E32",
+    "W75A-E58",
+    "W75A-E29",
+    "W75A-E40",
+    "W75A-E39",
+    "W75A-E52",
+    "W75A-E64"
+  ],
+  "files": [
+    "research/WAVE_75_TEXT_ATTENTION_STATE_DISCOVERIES.md",
+    "research/WAVE_75_TEXT_ATTENTION_STATE_METHODS.md",
+    "research/WAVE_75_TEXT_ATTENTION_STATE_SOURCE_NOTES.md"
+  ]
+}
