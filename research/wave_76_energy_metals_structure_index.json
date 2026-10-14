@@ -1,0 +1,26 @@
+{
+  "namespace": "W76Q",
+  "title": "Energy and Metals Intraday Structure",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W76Q-E01..W76Q-E56",
+  "methods": "W76Q-M01..W76Q-M25",
+  "sources": "W76Q-D01..W76Q-D16",
+  "priority": [
+    "W76Q-E16",
+    "W76Q-E20",
+    "W76Q-E24",
+    "W76Q-E36",
+    "W76Q-E39",
+    "W76Q-E49",
+    "W76Q-E12",
+    "W76Q-E04",
+    "W76Q-E01",
+    "W76Q-E26"
+  ],
+  "files": [
+    "research/WAVE_76_ENERGY_METALS_STRUCTURE_DISCOVERIES.md",
+    "research/WAVE_76_ENERGY_METALS_STRUCTURE_METHODS.md",
+    "research/WAVE_76_ENERGY_METALS_STRUCTURE_SOURCE_NOTES.md"
+  ]
+}
