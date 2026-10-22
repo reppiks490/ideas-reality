@@ -937,3 +937,29 @@ W68R uses canonical IDs directly:
 - edges W68R-E01 through W68R-E42
 - methods W68R-M01 through W68R-M20
 - sources W68R-D01 through W68R-D10
+
+
+### WSM — Wall Street Motor external architecture donor
+
+Source: **research/WALL_STREET_MOTOR_DONOR.json** and **research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md**.
+
+- **WSM-D01** — external architecture donor record (public source repository: recinosr/wall-street-motor).
+- **WSM-M01** — single-use sealed-trial protocol.
+- **WSM-M02** — future-poison / prefix-invariance tests.
+- **WSM-M03** — lifetime research debt and multiplicity ledger.
+- **WSM-M04** — one-shot LLM forecast reservation.
+- **WSM-M05** — causal intent/receipt/observation/fill custody.
+- **WSM-M06** — hash-chained event ledger audit.
+- **WSM-M07** — matured-label Hedge weighting with exploration floor.
+- **WSM-M08** — family-balanced ensemble voting.
+- **WSM-M09** — fail-closed complete-universe coverage.
+- **WSM-M10** — frozen cohort and delayed ranking score.
+- **WSM-M11** — runtime admission and deterministic scheduler recovery.
+- **WSM-M12** — behavior-matched nulls and frozen adversary zoo.
+- **WSM-M13** — capability graduation and quarantine.
+- **WSM-M14** — frozen-anchor versus rolling-update evaluation.
+- **WSM-M15** — adversarial capital-risk simulation.
+- **WSM-M16** — separation of explanation, prediction, learning and execution.
+- **WSM-M17** — point-in-time availability manifests (schema discipline only; source implementation is partial).
+
+These are methods and architecture candidates, not alpha IDs. Their evidence grades and limitations are in the machine-readable donor record. None authorizes a model or execution path.

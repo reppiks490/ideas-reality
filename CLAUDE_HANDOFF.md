@@ -121,3 +121,14 @@ This repo succeeds if it gives Claude a steady supply of:
 3. exact falsification conditions,
 4. methods that make false discoveries harder,
 5. ideas that can improve existing ICARUS signals by conditioning them on causal state.
+
+
+## External architecture donor registered: WSM-D01
+
+Read these before designing an implementation from Wall Street Motor:
+
+- **research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md** — source archaeology, actual result review, limitations, Icarus mapping and acceptance tests.
+- **research/WALL_STREET_MOTOR_DONOR.json** — machine-readable methods, evidence grades, status and destinations.
+- **research/WALL_STREET_MOTOR_AGENT_BRIEF.md** — agent responsibilities and non-negotiable boundaries.
+
+**Assessment:** high architectural value, no confirmed alpha. Do not import the whole repository or its result archive. Prioritize Icarus-native implementations of the single-use sealed-trial protocol, future-poison invariance, lifetime research debt, one-shot model reservations and causal execution custody. Compare against existing DAEDALUS, AION, Icarus-engine, Apex Council, CSV Evidence Lab and Causal Router controls before coding. This research vault does not modify ICARUS or grant execution authority. Preserve MIT attribution if source code is later reused.

@@ -1,14 +1,16 @@
 {
   "repository": "reppiks490/ideas-reality",
   "purpose": "research staging vault; no ICARUS implementation",
-  "generated_at": "2026-10-04",
+  "generated_at": "2026-10-22",
   "owner_boundary": "Claude owns ICARUS implementation and repo engineering",
   "counts": {
     "edge_candidates": 40,
     "watchlist_candidates": 3,
     "data_sources": 40,
     "composite_concepts": 20,
-    "negative_controls": 30
+    "negative_controls": 30,
+    "external_system_donors": 1,
+    "external_system_methods": 17
   },
   "top_priority_edges": [
     "E03",
@@ -32,6 +34,32 @@
     "research/DATA_SOURCE_REGISTRY.md",
     "research/COMPOSITE_SYSTEM_CONCEPTS.md",
     "research/RESEARCH_PROTOCOL.md",
-    "research/NEGATIVE_CONTROLS.md"
+    "research/NEGATIVE_CONTROLS.md",
+    "research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md",
+    "research/WALL_STREET_MOTOR_DONOR.json",
+    "research/WALL_STREET_MOTOR_AGENT_BRIEF.md",
+    "research/CANONICAL_ID_REGISTRY.md"
+  ],
+  "external_system_donors": [
+    {
+      "id": "WSM-D01",
+      "name": "Wall Street Motor forensic architecture donor",
+      "source_repository": "recinosr/wall-street-motor",
+      "dossier": "research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md",
+      "machine_record": "research/WALL_STREET_MOTOR_DONOR.json",
+      "agent_brief": "research/WALL_STREET_MOTOR_AGENT_BRIEF.md",
+      "status": "RESEARCH_ONLY",
+      "alpha_status": "NO_CONFIRMED_ALPHA",
+      "top_methods": [
+        "WSM-M01",
+        "WSM-M02",
+        "WSM-M03",
+        "WSM-M04",
+        "WSM-M05",
+        "WSM-M06"
+      ],
+      "license": "MIT",
+      "reviewed_on": "2026-10-22"
+    }
   ]
 }
