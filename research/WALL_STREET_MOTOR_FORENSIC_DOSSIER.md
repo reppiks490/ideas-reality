@@ -301,3 +301,18 @@ Authority boundaries:
 - License: https://github.com/recinosr/wall-street-motor/blob/main/LICENSE
 
 **Final disposition:** high-value architecture donor; no proven alpha; research-only until an Icarus-native design review, implementation, adversarial tests and prospective qualification are complete.
+
+
+## Cross-repository awareness and tracking
+
+The donor has been registered in ideas-reality and awareness/review issues link back to this dossier:
+
+- Icarus-engine — https://github.com/reppiks490/Icarus-engine/issues/229
+- Canonical Icarus runtime — https://github.com/reppiks490/Icarus/issues/470
+- DAEDALUS Research OS — https://github.com/reppiks490/daedalus-research-os/issues/9
+- AION / PARALLAX — https://github.com/reppiks490/aion-parallax-research/issues/9
+- CSV Evidence Lab — https://github.com/reppiks490/icarus-csv-evidence-lab/issues/6
+- Causal Research Router — https://github.com/reppiks490/icarus-causal-router/issues/11
+- Owner Actions coordination — https://github.com/reppiks490/icarus-owner-actions/issues/61
+
+These are review/awareness records, not implementation approval. The ideas-reality dossier and machine-readable record remain the source of truth; each implementation repo must independently establish overlap, gap, tests and authorization.
