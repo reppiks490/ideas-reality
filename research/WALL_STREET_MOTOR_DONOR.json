@@ -20,7 +20,7 @@
     "results_uncompressed_bytes_approx": 498810469
   },
   "decision": {
-    "overall_architectural_donor_value": 9.0,
+    "overall_architectural_donor_value": 9,
     "alpha_status": "NO_CONFIRMED_ALPHA",
     "implementation_status": "RESEARCH_ONLY",
     "production_authority": false,
@@ -41,25 +41,38 @@
       "global_search_family": 4584,
       "champion": "base_5a",
       "validation_brier_skill_pct": -0.09,
-      "validation_ci95_skill_pct": [-1.64, 1.50],
-      "reported_q_bh": 1.0,
+      "validation_ci95_skill_pct": [
+        -1.64,
+        1.5
+      ],
+      "reported_q_bh": 1,
       "reserve_state": "consumed; no reopen; champion requires prospective evidence"
     },
     "boveda_sensitivity": {
       "tested_additional_contrasts": 5,
-      "adjusted_sensitivity_p": [1.0, 1.0, 1.0, 1.0, 1.0],
+      "adjusted_sensitivity_p": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
       "promoted": false
     },
     "oraculo_level_6": {
       "approved": false,
       "hypotheses_tested": 3,
-      "reported_test_hit_rates": [0.5429, 0.4714, 0.5714],
+      "reported_test_hit_rates": [
+        0.5429,
+        0.4714,
+        0.5714
+      ],
       "reported_baseline_hit_rate": 0.6643
     },
     "oraculo_level_7": {
       "approved": false,
       "test_rules_improved_over_baseline": false,
-      "reported_p_and_q": 1.0
+      "reported_p_and_q": 1
     },
     "current_diary": {
       "patterns_tested": 85,
@@ -71,23 +84,205 @@
     }
   },
   "methods": [
-    {"id":"WSM-M01","name":"single-use sealed-trial protocol","priority":"P0","evidence_grade":"A/B","destinations":["daedalus-research-os","Icarus-engine","aion-parallax-research"],"status":"DESIGN_CANDIDATE"},
-    {"id":"WSM-M02","name":"future-poison and prefix-invariance tests","priority":"P0","evidence_grade":"A","destinations":["daedalus-research-os","Icarus-engine","aion-parallax-research","icarus-csv-evidence-lab"],"status":"GENERALIZE_EXISTING_FEATURE_TESTS"},
-    {"id":"WSM-M03","name":"lifetime research debt and multiplicity ledger","priority":"P0","evidence_grade":"A","destinations":["daedalus-research-os","icarus-causal-router","Icarus-engine"],"status":"DESIGN_CANDIDATE"},
-    {"id":"WSM-M04","name":"one-shot LLM forecast reservation","priority":"P0","evidence_grade":"A_PROTOCOL_NO_ALPHA_VALIDATION","destinations":["aion-parallax-research","Icarus-engine","daedalus-research-os"],"status":"DESIGN_CANDIDATE"},
-    {"id":"WSM-M05","name":"causal intent receipt observation fill custody","priority":"P0","evidence_grade":"A","destinations":["aion-parallax-research","Icarus-engine","Icarus"],"status":"COMPARE_WITH_EXISTING_LEDGER"},
-    {"id":"WSM-M06","name":"hash-chained event ledger audit","priority":"P0","evidence_grade":"A","destinations":["aion-parallax-research","Icarus-engine"],"status":"HARDEN_EXTERNAL_IMMUTABILITY"},
-    {"id":"WSM-M07","name":"mature-label Hedge weighting with exploration floor","priority":"P1","evidence_grade":"A/B","destinations":["Icarus-engine","Icarus"],"status":"SHADOW_ONLY_CANDIDATE"},
-    {"id":"WSM-M08","name":"family-balanced ensemble voting","priority":"P1","evidence_grade":"A/B","destinations":["Icarus-engine","Icarus"],"status":"COMPARE_WITH_APEX_COUNCIL"},
-    {"id":"WSM-M09","name":"fail-closed complete-universe coverage","priority":"P0","evidence_grade":"A","destinations":["icarus-csv-evidence-lab","Icarus-engine","aion-parallax-research"],"status":"ADD_ADVERSARIAL_TESTS"},
-    {"id":"WSM-M10","name":"frozen cohort delayed ranking score","priority":"P1","evidence_grade":"B","destinations":["Icarus-engine","daedalus-research-os","icarus-causal-router"],"status":"DESIGN_CANDIDATE"},
-    {"id":"WSM-M11","name":"runtime admission and deterministic scheduler recovery","priority":"P1","evidence_grade":"A/B","destinations":["Icarus-engine","icarus-owner-actions"],"status":"EXTRACT_GAPS_ONLY"},
-    {"id":"WSM-M12","name":"behavior-matched nulls and frozen adversary zoo","priority":"P1","evidence_grade":"A/B","destinations":["daedalus-research-os","icarus-causal-router","Icarus-engine"],"status":"DESIGN_CANDIDATE"},
-    {"id":"WSM-M13","name":"capability graduation and quarantine","priority":"P1","evidence_grade":"B","destinations":["daedalus-research-os","aion-parallax-research","Icarus"],"status":"COMPARE_WITH_EXISTING_PROMOTION_STATES"},
-    {"id":"WSM-M14","name":"frozen-anchor versus rolling-update evaluation","priority":"P1","evidence_grade":"A/B","destinations":["daedalus-research-os","Icarus-engine"],"status":"DESIGN_CANDIDATE"},
-    {"id":"WSM-M15","name":"adversarial capital-risk simulation","priority":"P2","evidence_grade":"B","destinations":["daedalus-research-os","Icarus-engine"],"status":"RESEARCH_ONLY"},
-    {"id":"WSM-M16","name":"separate explanation prediction learning execution","priority":"P1","evidence_grade":"B/C","destinations":["aion-parallax-research","Icarus-engine","Icarus"],"status":"KEEP_AUTHORITY_BOUNDARIES"},
-    {"id":"WSM-M17","name":"point-in-time availability manifests","priority":"P1","evidence_grade":"B_WITH_PIT_LIMITATIONS","destinations":["icarus-csv-evidence-lab","aion-parallax-research","Icarus-engine"],"status":"ADOPT_SCHEMA_NOT_DATA_CLAIMS"}
+    {
+      "id": "WSM-M01",
+      "name": "single-use sealed-trial protocol",
+      "priority": "P0",
+      "evidence_grade": "A/B",
+      "destinations": [
+        "daedalus-research-os",
+        "Icarus-engine",
+        "aion-parallax-research"
+      ],
+      "status": "DESIGN_CANDIDATE"
+    },
+    {
+      "id": "WSM-M02",
+      "name": "future-poison and prefix-invariance tests",
+      "priority": "P0",
+      "evidence_grade": "A",
+      "destinations": [
+        "daedalus-research-os",
+        "Icarus-engine",
+        "aion-parallax-research",
+        "icarus-csv-evidence-lab"
+      ],
+      "status": "GENERALIZE_EXISTING_FEATURE_TESTS"
+    },
+    {
+      "id": "WSM-M03",
+      "name": "lifetime research debt and multiplicity ledger",
+      "priority": "P0",
+      "evidence_grade": "A",
+      "destinations": [
+        "daedalus-research-os",
+        "icarus-causal-router",
+        "Icarus-engine"
+      ],
+      "status": "DESIGN_CANDIDATE"
+    },
+    {
+      "id": "WSM-M04",
+      "name": "one-shot LLM forecast reservation",
+      "priority": "P0",
+      "evidence_grade": "A_PROTOCOL_NO_ALPHA_VALIDATION",
+      "destinations": [
+        "aion-parallax-research",
+        "Icarus-engine",
+        "daedalus-research-os"
+      ],
+      "status": "DESIGN_CANDIDATE"
+    },
+    {
+      "id": "WSM-M05",
+      "name": "causal intent receipt observation fill custody",
+      "priority": "P0",
+      "evidence_grade": "A",
+      "destinations": [
+        "aion-parallax-research",
+        "Icarus-engine",
+        "Icarus"
+      ],
+      "status": "COMPARE_WITH_EXISTING_LEDGER"
+    },
+    {
+      "id": "WSM-M06",
+      "name": "hash-chained event ledger audit",
+      "priority": "P0",
+      "evidence_grade": "A",
+      "destinations": [
+        "aion-parallax-research",
+        "Icarus-engine"
+      ],
+      "status": "HARDEN_EXTERNAL_IMMUTABILITY"
+    },
+    {
+      "id": "WSM-M07",
+      "name": "mature-label Hedge weighting with exploration floor",
+      "priority": "P1",
+      "evidence_grade": "A/B",
+      "destinations": [
+        "Icarus-engine",
+        "Icarus"
+      ],
+      "status": "SHADOW_ONLY_CANDIDATE"
+    },
+    {
+      "id": "WSM-M08",
+      "name": "family-balanced ensemble voting",
+      "priority": "P1",
+      "evidence_grade": "A/B",
+      "destinations": [
+        "Icarus-engine",
+        "Icarus"
+      ],
+      "status": "COMPARE_WITH_APEX_COUNCIL"
+    },
+    {
+      "id": "WSM-M09",
+      "name": "fail-closed complete-universe coverage",
+      "priority": "P0",
+      "evidence_grade": "A",
+      "destinations": [
+        "icarus-csv-evidence-lab",
+        "Icarus-engine",
+        "aion-parallax-research"
+      ],
+      "status": "ADD_ADVERSARIAL_TESTS"
+    },
+    {
+      "id": "WSM-M10",
+      "name": "frozen cohort delayed ranking score",
+      "priority": "P1",
+      "evidence_grade": "B",
+      "destinations": [
+        "Icarus-engine",
+        "daedalus-research-os",
+        "icarus-causal-router"
+      ],
+      "status": "DESIGN_CANDIDATE"
+    },
+    {
+      "id": "WSM-M11",
+      "name": "runtime admission and deterministic scheduler recovery",
+      "priority": "P1",
+      "evidence_grade": "A/B",
+      "destinations": [
+        "Icarus-engine",
+        "icarus-owner-actions"
+      ],
+      "status": "EXTRACT_GAPS_ONLY"
+    },
+    {
+      "id": "WSM-M12",
+      "name": "behavior-matched nulls and frozen adversary zoo",
+      "priority": "P1",
+      "evidence_grade": "A/B",
+      "destinations": [
+        "daedalus-research-os",
+        "icarus-causal-router",
+        "Icarus-engine"
+      ],
+      "status": "DESIGN_CANDIDATE"
+    },
+    {
+      "id": "WSM-M13",
+      "name": "capability graduation and quarantine",
+      "priority": "P1",
+      "evidence_grade": "B",
+      "destinations": [
+        "daedalus-research-os",
+        "aion-parallax-research",
+        "Icarus"
+      ],
+      "status": "COMPARE_WITH_EXISTING_PROMOTION_STATES"
+    },
+    {
+      "id": "WSM-M14",
+      "name": "frozen-anchor versus rolling-update evaluation",
+      "priority": "P1",
+      "evidence_grade": "A/B",
+      "destinations": [
+        "daedalus-research-os",
+        "Icarus-engine"
+      ],
+      "status": "DESIGN_CANDIDATE"
+    },
+    {
+      "id": "WSM-M15",
+      "name": "adversarial capital-risk simulation",
+      "priority": "P2",
+      "evidence_grade": "B",
+      "destinations": [
+        "daedalus-research-os",
+        "Icarus-engine"
+      ],
+      "status": "RESEARCH_ONLY"
+    },
+    {
+      "id": "WSM-M16",
+      "name": "separate explanation prediction learning execution",
+      "priority": "P1",
+      "evidence_grade": "B/C",
+      "destinations": [
+        "aion-parallax-research",
+        "Icarus-engine",
+        "Icarus"
+      ],
+      "status": "KEEP_AUTHORITY_BOUNDARIES"
+    },
+    {
+      "id": "WSM-M17",
+      "name": "point-in-time availability manifests",
+      "priority": "P1",
+      "evidence_grade": "B_WITH_PIT_LIMITATIONS",
+      "destinations": [
+        "icarus-csv-evidence-lab",
+        "aion-parallax-research",
+        "Icarus-engine"
+      ],
+      "status": "ADOPT_SCHEMA_NOT_DATA_CLAIMS"
+    }
   ],
   "security_gaps": [
     "Main branch was observed unprotected.",
@@ -107,5 +302,42 @@
   "license": {
     "type": "MIT",
     "reuse_rule": "Any source code copied or adapted must preserve the upstream copyright and MIT license notice; prefer design extraction unless code reuse is necessary."
-  }
+  },
+  "cross_repo_awareness": [
+    {
+      "repository": "reppiks490/Icarus-engine",
+      "issue": "https://github.com/reppiks490/Icarus-engine/issues/229",
+      "focus": "evidence custody, Hedge arbitration, scheduler gaps"
+    },
+    {
+      "repository": "reppiks490/Icarus",
+      "issue": "https://github.com/reppiks490/Icarus/issues/470",
+      "focus": "canonical runtime awareness and authority boundary"
+    },
+    {
+      "repository": "reppiks490/daedalus-research-os",
+      "issue": "https://github.com/reppiks490/daedalus-research-os/issues/9",
+      "focus": "sealed trials, future-poison tests, lifetime search debt"
+    },
+    {
+      "repository": "reppiks490/aion-parallax-research",
+      "issue": "https://github.com/reppiks490/aion-parallax-research/issues/9",
+      "focus": "forecast commitment, causal outcome custody"
+    },
+    {
+      "repository": "reppiks490/icarus-csv-evidence-lab",
+      "issue": "https://github.com/reppiks490/icarus-csv-evidence-lab/issues/6",
+      "focus": "temporal poisoning, source completeness, PIT manifest"
+    },
+    {
+      "repository": "reppiks490/icarus-causal-router",
+      "issue": "https://github.com/reppiks490/icarus-causal-router/issues/11",
+      "focus": "lifetime experiment debt, frozen adversary zoo"
+    },
+    {
+      "repository": "reppiks490/icarus-owner-actions",
+      "issue": "https://github.com/reppiks490/icarus-owner-actions/issues/61",
+      "focus": "cross-repo coordination and no execution authority"
+    }
+  ]
 }
