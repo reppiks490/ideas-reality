@@ -39,3 +39,10 @@ A candidate is not an edge until it survives:
 8. negative controls/placebos,
 9. terminal holdout,
 10. live shadow validation.
+
+
+## External system architecture donors
+
+- **WSM-D01 — Wall Street Motor forensic architecture donor**: [forensic dossier](research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md), [machine-readable donor record](research/WALL_STREET_MOTOR_DONOR.json), and [agent brief](research/WALL_STREET_MOTOR_AGENT_BRIEF.md).
+
+This is a research-governance donor, not a source of proven alpha. The key transfers are sealed-trial custody, future-poison causality tests, lifetime research-debt accounting, one-shot forecast commitments, causal intent/receipt/fill custody, family-balanced expert arbitration, fail-closed coverage, and adversarial qualification. All candidates remain unapproved until independently tested in Icarus.
