@@ -1,0 +1,111 @@
+{
+  "schema_version": "icarus.external_system_donor.v1",
+  "record_id": "WSM-D01",
+  "name": "Wall Street Motor forensic architecture donor",
+  "reviewed_on": "2026-10-22",
+  "source": {
+    "repository": "recinosr/wall-street-motor",
+    "url": "https://github.com/recinosr/wall-street-motor",
+    "license": "MIT",
+    "root_commit": "a33659d506787ff5f3b73da319d51b46d756997f",
+    "root_commit_utc": "2026-10-08T21:27:00Z",
+    "snapshot_main_commit": "3ad837184775eb5d54a184604c2d1be46b0107d3",
+    "branch_protection_observed": false,
+    "source_data_quality": "partial PIT; historical Yahoo prices lack verified vintages; see dossier",
+    "public_tree_blob_count": 28206,
+    "lab_file_count": 52,
+    "test_module_count": 29,
+    "workflow_file_count": 22,
+    "results_file_count": 28016,
+    "results_uncompressed_bytes_approx": 498810469
+  },
+  "decision": {
+    "overall_architectural_donor_value": 9.0,
+    "alpha_status": "NO_CONFIRMED_ALPHA",
+    "implementation_status": "RESEARCH_ONLY",
+    "production_authority": false,
+    "copy_entire_repository": false,
+    "preferred_transfer": "extract principles into Icarus-native contracts and adversarial tests",
+    "license_action_if_code_reused": "retain MIT copyright and license notice",
+    "source_of_truth": "research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md",
+    "agent_brief": "research/WALL_STREET_MOTOR_AGENT_BRIEF.md"
+  },
+  "reported_results": {
+    "boveda_exam": {
+      "unique_asset_date_pairs": 1000,
+      "qualified_questions": 3515,
+      "unqualified_questions": 485,
+      "variants_attempted": 70,
+      "variants_designed": 88,
+      "contrasts_calculated": 1014,
+      "global_search_family": 4584,
+      "champion": "base_5a",
+      "validation_brier_skill_pct": -0.09,
+      "validation_ci95_skill_pct": [-1.64, 1.50],
+      "reported_q_bh": 1.0,
+      "reserve_state": "consumed; no reopen; champion requires prospective evidence"
+    },
+    "boveda_sensitivity": {
+      "tested_additional_contrasts": 5,
+      "adjusted_sensitivity_p": [1.0, 1.0, 1.0, 1.0, 1.0],
+      "promoted": false
+    },
+    "oraculo_level_6": {
+      "approved": false,
+      "hypotheses_tested": 3,
+      "reported_test_hit_rates": [0.5429, 0.4714, 0.5714],
+      "reported_baseline_hit_rate": 0.6643
+    },
+    "oraculo_level_7": {
+      "approved": false,
+      "test_rules_improved_over_baseline": false,
+      "reported_p_and_q": 1.0
+    },
+    "current_diary": {
+      "patterns_tested": 85,
+      "patterns_passing_all_criteria_after_costs": 0,
+      "external_robots_tested": 3,
+      "robot_cases": 24,
+      "robots_beating_hold_and_random_after_correction": 0,
+      "demo_is_paper_only": true
+    }
+  },
+  "methods": [
+    {"id":"WSM-M01","name":"single-use sealed-trial protocol","priority":"P0","evidence_grade":"A/B","destinations":["daedalus-research-os","Icarus-engine","aion-parallax-research"],"status":"DESIGN_CANDIDATE"},
+    {"id":"WSM-M02","name":"future-poison and prefix-invariance tests","priority":"P0","evidence_grade":"A","destinations":["daedalus-research-os","Icarus-engine","aion-parallax-research","icarus-csv-evidence-lab"],"status":"GENERALIZE_EXISTING_FEATURE_TESTS"},
+    {"id":"WSM-M03","name":"lifetime research debt and multiplicity ledger","priority":"P0","evidence_grade":"A","destinations":["daedalus-research-os","icarus-causal-router","Icarus-engine"],"status":"DESIGN_CANDIDATE"},
+    {"id":"WSM-M04","name":"one-shot LLM forecast reservation","priority":"P0","evidence_grade":"A_PROTOCOL_NO_ALPHA_VALIDATION","destinations":["aion-parallax-research","Icarus-engine","daedalus-research-os"],"status":"DESIGN_CANDIDATE"},
+    {"id":"WSM-M05","name":"causal intent receipt observation fill custody","priority":"P0","evidence_grade":"A","destinations":["aion-parallax-research","Icarus-engine","Icarus"],"status":"COMPARE_WITH_EXISTING_LEDGER"},
+    {"id":"WSM-M06","name":"hash-chained event ledger audit","priority":"P0","evidence_grade":"A","destinations":["aion-parallax-research","Icarus-engine"],"status":"HARDEN_EXTERNAL_IMMUTABILITY"},
+    {"id":"WSM-M07","name":"mature-label Hedge weighting with exploration floor","priority":"P1","evidence_grade":"A/B","destinations":["Icarus-engine","Icarus"],"status":"SHADOW_ONLY_CANDIDATE"},
+    {"id":"WSM-M08","name":"family-balanced ensemble voting","priority":"P1","evidence_grade":"A/B","destinations":["Icarus-engine","Icarus"],"status":"COMPARE_WITH_APEX_COUNCIL"},
+    {"id":"WSM-M09","name":"fail-closed complete-universe coverage","priority":"P0","evidence_grade":"A","destinations":["icarus-csv-evidence-lab","Icarus-engine","aion-parallax-research"],"status":"ADD_ADVERSARIAL_TESTS"},
+    {"id":"WSM-M10","name":"frozen cohort delayed ranking score","priority":"P1","evidence_grade":"B","destinations":["Icarus-engine","daedalus-research-os","icarus-causal-router"],"status":"DESIGN_CANDIDATE"},
+    {"id":"WSM-M11","name":"runtime admission and deterministic scheduler recovery","priority":"P1","evidence_grade":"A/B","destinations":["Icarus-engine","icarus-owner-actions"],"status":"EXTRACT_GAPS_ONLY"},
+    {"id":"WSM-M12","name":"behavior-matched nulls and frozen adversary zoo","priority":"P1","evidence_grade":"A/B","destinations":["daedalus-research-os","icarus-causal-router","Icarus-engine"],"status":"DESIGN_CANDIDATE"},
+    {"id":"WSM-M13","name":"capability graduation and quarantine","priority":"P1","evidence_grade":"B","destinations":["daedalus-research-os","aion-parallax-research","Icarus"],"status":"COMPARE_WITH_EXISTING_PROMOTION_STATES"},
+    {"id":"WSM-M14","name":"frozen-anchor versus rolling-update evaluation","priority":"P1","evidence_grade":"A/B","destinations":["daedalus-research-os","Icarus-engine"],"status":"DESIGN_CANDIDATE"},
+    {"id":"WSM-M15","name":"adversarial capital-risk simulation","priority":"P2","evidence_grade":"B","destinations":["daedalus-research-os","Icarus-engine"],"status":"RESEARCH_ONLY"},
+    {"id":"WSM-M16","name":"separate explanation prediction learning execution","priority":"P1","evidence_grade":"B/C","destinations":["aion-parallax-research","Icarus-engine","Icarus"],"status":"KEEP_AUTHORITY_BOUNDARIES"},
+    {"id":"WSM-M17","name":"point-in-time availability manifests","priority":"P1","evidence_grade":"B_WITH_PIT_LIMITATIONS","destinations":["icarus-csv-evidence-lab","aion-parallax-research","Icarus-engine"],"status":"ADOPT_SCHEMA_NOT_DATA_CLAIMS"}
+  ],
+  "security_gaps": [
+    "Main branch was observed unprotected.",
+    "A hash chain is tamper-evident but not independently immutable without protected history and external attestations.",
+    "Boveda code signature does not by itself bind tests, workflows, dependencies, and source-data vintages.",
+    "VITA prompt/config signature does not bind the entire executable/provider/environment context.",
+    "Some commits are unsigned."
+  ],
+  "research_limitations": [
+    "No confirmed trading edge; Boveda champion remains unapproved pending prospective evidence.",
+    "Historical Yahoo prices do not provide verified point-in-time vintages.",
+    "Oraculo levels 6 and 7 did not pass.",
+    "The monthly LLM pilot was described as prepared but not performance-validated.",
+    "Current ETF/universe studies have survivorship and source-vintage limitations.",
+    "The large generated results archive must not be imported wholesale."
+  ],
+  "license": {
+    "type": "MIT",
+    "reuse_rule": "Any source code copied or adapted must preserve the upstream copyright and MIT license notice; prefer design extraction unless code reuse is necessary."
+  }
+}
