@@ -1,0 +1,20 @@
+{
+  "namespace": "RDX03",
+  "title": "Form 144 Planned Supply & Insider Sale Intent",
+  "branch": "research/deep-edge-handoff",
+  "research_only": true,
+  "implementation_owner": "Claude",
+  "edges": "RDX03-E01..RDX03-E40",
+  "priority": [
+    "RDX03-E02",
+    "RDX03-E05",
+    "RDX03-E06",
+    "RDX03-E08",
+    "RDX03-E11",
+    "RDX03-E26",
+    "RDX03-E27",
+    "RDX03-E31",
+    "RDX03-E35",
+    "RDX03-E40"
+  ]
+}
