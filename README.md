@@ -46,3 +46,8 @@ A candidate is not an edge until it survives:
 - **WSM-D01 — Wall Street Motor forensic architecture donor**: [forensic dossier](research/WALL_STREET_MOTOR_FORENSIC_DOSSIER.md), [machine-readable donor record](research/WALL_STREET_MOTOR_DONOR.json), and [agent brief](research/WALL_STREET_MOTOR_AGENT_BRIEF.md).
 
 This is a research-governance donor, not a source of proven alpha. The key transfers are sealed-trial custody, future-poison causality tests, lifetime research-debt accounting, one-shot forecast commitments, causal intent/receipt/fill custody, family-balanced expert arbitration, fail-closed coverage, and adversarial qualification. All candidates remain unapproved until independently tested in Icarus.
+
+## License and ownership
+
+Copyright (c) 2026 reppiks490. **Proprietary — all rights reserved.**
+Public visibility does not grant permission to reuse, redistribute, sell, or claim this work as your own. Written permission is required except where applicable law, existing grants, third-party terms, or GitHub's terms provide otherwise. See [LICENSE.md](LICENSE.md) for the full notice and permission requests.
