@@ -1,0 +1,26 @@
+{
+  "namespace": "W73E",
+  "title": "Scheduled Macro Release Microstructure",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W73E-E01..W73E-E57",
+  "methods": "W73E-M01..W73E-M23",
+  "sources": "W73E-D01..W73E-D17",
+  "priority": [
+    "W73E-E10",
+    "W73E-E23",
+    "W73E-E24",
+    "W73E-E31",
+    "W73E-E32",
+    "W73E-E15",
+    "W73E-E08",
+    "W73E-E09",
+    "W73E-E44",
+    "W73E-E39"
+  ],
+  "files": [
+    "research/WAVE_73_MACRO_RELEASE_MICROSTRUCTURE_DISCOVERIES.md",
+    "research/WAVE_73_MACRO_RELEASE_MICROSTRUCTURE_METHODS.md",
+    "research/WAVE_73_MACRO_RELEASE_MICROSTRUCTURE_SOURCE_NOTES.md"
+  ]
+}

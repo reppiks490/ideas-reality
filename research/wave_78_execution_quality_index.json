@@ -1,0 +1,26 @@
+{
+  "namespace": "W78B",
+  "title": "Execution Quality And Transaction-Cost Science For Futures",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W78B-E01..W78B-E66",
+  "methods": "W78B-M01..W78B-M23",
+  "sources": "W78B-D01..W78B-D21",
+  "priority": [
+    "W78B-E05",
+    "W78B-E09",
+    "W78B-E12",
+    "W78B-E06",
+    "W78B-E28",
+    "W78B-E44",
+    "W78B-E19",
+    "W78B-E53",
+    "W78B-E56",
+    "W78B-E03"
+  ],
+  "files": [
+    "research/WAVE_78_EXECUTION_QUALITY_DISCOVERIES.md",
+    "research/WAVE_78_EXECUTION_QUALITY_METHODS.md",
+    "research/WAVE_78_EXECUTION_QUALITY_SOURCE_NOTES.md"
+  ]
+}

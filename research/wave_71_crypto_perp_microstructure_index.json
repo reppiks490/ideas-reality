@@ -1,0 +1,26 @@
+{
+  "namespace": "W71K",
+  "title": "Crypto Perpetual-Futures & Exchange Microstructure",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W71K-E01..W71K-E61",
+  "methods": "W71K-M01..W71K-M24",
+  "sources": "W71K-D01..W71K-D13",
+  "priority": [
+    "W71K-E47",
+    "W71K-E13",
+    "W71K-E22",
+    "W71K-E24",
+    "W71K-E33",
+    "W71K-E26",
+    "W71K-E21",
+    "W71K-E46",
+    "W71K-E05",
+    "W71K-E28"
+  ],
+  "files": [
+    "research/WAVE_71_CRYPTO_PERP_MICROSTRUCTURE_DISCOVERIES.md",
+    "research/WAVE_71_CRYPTO_PERP_MICROSTRUCTURE_METHODS.md",
+    "research/WAVE_71_CRYPTO_PERP_MICROSTRUCTURE_SOURCE_NOTES.md"
+  ]
+}

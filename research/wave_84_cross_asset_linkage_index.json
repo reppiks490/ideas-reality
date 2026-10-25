@@ -1,0 +1,26 @@
+{
+  "namespace": "W84X",
+  "title": "Cross-Asset Linkage State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W84X-E01..W84X-E56",
+  "methods": "W84X-M01..W84X-M24",
+  "sources": "W84X-D01..W84X-D15",
+  "priority": [
+    "W84X-E01",
+    "W84X-E04",
+    "W84X-E06",
+    "W84X-E12",
+    "W84X-E19",
+    "W84X-E23",
+    "W84X-E39",
+    "W84X-E11",
+    "W84X-E30",
+    "W84X-E50"
+  ],
+  "files": [
+    "research/WAVE_84_CROSS_ASSET_LINKAGE_DISCOVERIES.md",
+    "research/WAVE_84_CROSS_ASSET_LINKAGE_METHODS.md",
+    "research/WAVE_84_CROSS_ASSET_LINKAGE_SOURCE_NOTES.md"
+  ]
+}

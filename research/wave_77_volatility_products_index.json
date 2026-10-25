@@ -1,0 +1,26 @@
+{
+  "namespace": "W77O",
+  "title": "Volatility Products & Vol-Targeting Mechanics",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W77O-E01..W77O-E60",
+  "methods": "W77O-M01..W77O-M22",
+  "sources": "W77O-D01..W77O-D14",
+  "priority": [
+    "W77O-E14",
+    "W77O-E19",
+    "W77O-E41",
+    "W77O-E11",
+    "W77O-E05",
+    "W77O-E39",
+    "W77O-E26",
+    "W77O-E32",
+    "W77O-E16",
+    "W77O-E27"
+  ],
+  "files": [
+    "research/WAVE_77_VOLATILITY_PRODUCTS_DISCOVERIES.md",
+    "research/WAVE_77_VOLATILITY_PRODUCTS_METHODS.md",
+    "research/WAVE_77_VOLATILITY_PRODUCTS_SOURCE_NOTES.md"
+  ]
+}

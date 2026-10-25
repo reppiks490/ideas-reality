@@ -1,0 +1,26 @@
+{
+  "namespace": "W70B",
+  "title": "Globex Order-Book Microstructure (ES/NQ/GC/ZN/CL)",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W70B-E01..W70B-E61",
+  "methods": "W70B-M01..W70B-M23",
+  "sources": "W70B-D01..W70B-D20",
+  "priority": [
+    "W70B-E10",
+    "W70B-E09",
+    "W70B-E18",
+    "W70B-E31",
+    "W70B-E32",
+    "W70B-E50",
+    "W70B-E16",
+    "W70B-E24",
+    "W70B-E26",
+    "W70B-E57"
+  ],
+  "files": [
+    "research/WAVE_70_GLOBEX_MICROSTRUCTURE_DISCOVERIES.md",
+    "research/WAVE_70_GLOBEX_MICROSTRUCTURE_METHODS.md",
+    "research/WAVE_70_GLOBEX_MICROSTRUCTURE_SOURCE_NOTES.md"
+  ]
+}

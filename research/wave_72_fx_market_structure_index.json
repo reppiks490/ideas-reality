@@ -1,0 +1,26 @@
+{
+  "namespace": "W72X",
+  "title": "FX Market Structure and Fixing/Flow State",
+  "purpose": "research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W72X-E01..W72X-E61",
+  "methods": "W72X-M01..W72X-M23",
+  "sources": "W72X-D01..W72X-D21",
+  "priority": [
+    "W72X-E01",
+    "W72X-E02",
+    "W72X-E04",
+    "W72X-E07",
+    "W72X-E12",
+    "W72X-E23",
+    "W72X-E38",
+    "W72X-E41",
+    "W72X-E48",
+    "W72X-E57"
+  ],
+  "files": [
+    "research/WAVE_72_FX_MARKET_STRUCTURE_DISCOVERIES.md",
+    "research/WAVE_72_FX_MARKET_STRUCTURE_METHODS.md",
+    "research/WAVE_72_FX_MARKET_STRUCTURE_SOURCE_NOTES.md"
+  ]
+}

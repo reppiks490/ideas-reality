@@ -1,0 +1,26 @@
+{
+  "namespace": "W83A",
+  "title": "Satellite, Geospatial, Mobility & Weather-Derived State",
+  "purpose": "Satellite, geospatial, mobility and weather-derived state with explicit vintage and latency handling; research staging only; Claude owns implementation",
+  "canonical_native": true,
+  "edges": "W83A-E01..W83A-E65",
+  "methods": "W83A-M01..W83A-M23",
+  "sources": "W83A-D01..W83A-D15",
+  "priority": [
+    "W83A-E01",
+    "W83A-E02",
+    "W83A-E11",
+    "W83A-E03",
+    "W83A-E04",
+    "W83A-E32",
+    "W83A-E33",
+    "W83A-E64",
+    "W83A-E12",
+    "W83A-E58"
+  ],
+  "files": [
+    "research/WAVE_83_GEOSPATIAL_WEATHER_STATE_DISCOVERIES.md",
+    "research/WAVE_83_GEOSPATIAL_WEATHER_STATE_METHODS.md",
+    "research/WAVE_83_GEOSPATIAL_WEATHER_STATE_SOURCE_NOTES.md"
+  ]
+}
